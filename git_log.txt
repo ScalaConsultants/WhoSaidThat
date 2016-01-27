@@ -1,0 +1,6491 @@
+commit e1ecd09eae8f62c824ea2ee2e2527e9a43fdbd01
+Merge: 375c8cb a03b125
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Jan 19 21:12:49 2016 +0100
+
+    Merge pull request #120 from ScalaConsultants/fixes
+    
+    fixes
+
+commit a03b125645e34895bfba8379dd2f27faa30dbaf3
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue Jan 19 00:18:02 2016 +0100
+
+    fixes
+
+commit 375c8cb848ca24032a8cfa3dd4908982499c0373
+Merge: 744a6be b02c8d4
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Jan 18 17:35:17 2016 +0100
+
+    Merge pull request #117 from ScalaConsultants/fix/add-files-to-exclude-list
+    
+    exclude files from build
+
+commit b02c8d43386ce1ff3885a13a1dcbaa3e619a9339
+Author: Jakub Zubielik <jzubielik@users.noreply.github.com>
+Date:   Fri Jan 15 13:56:30 2016 +0100
+
+    exclude files from build
+
+commit 744a6befc78472719cac45557d42b5456e4f3a0f
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jan 14 08:44:06 2016 +0100
+
+    update files
+
+commit dadb2b0330d1bc0527d0ee63c78b4395e137d0fc
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jan 14 08:39:19 2016 +0100
+
+    highlight -> gist
+
+commit 22e80dbef22b35b76f0c2c912dfdcda89a1a24c9
+Merge: a9508f5 b3d19e8
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jan 14 08:28:09 2016 +0100
+
+    Merge branch 'scala_gotchas'
+
+commit b3d19e8e4bd7c945c491a7ea5b3393754a1fc872
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jan 14 07:56:28 2016 +0100
+
+    suggestions by Andrzej and Beny
+
+commit 95fe6e8965dde481528d90c2e102adadef5c6ddc
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Jan 13 19:43:33 2016 +0100
+
+    actor model
+
+commit a9508f5575acbe29092b08fb1075635e3754d909
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Jan 13 18:49:57 2016 +0100
+
+    I live dangerously
+
+commit 115c90211ff649647af3d0355dd3485a856cb07e
+Merge: 31bfdda 5638f3e
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Jan 13 17:53:15 2016 +0100
+
+    Merge pull request #116 from ScalaConsultants/latest_json
+    
+    latest.json rendering
+
+commit 5638f3e66b4b81a5ce0464f1eefe7b4b4ea12a7f
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue Jan 12 00:16:04 2016 +0100
+
+    latest.json rendering
+
+commit 0638161a002611a15fa0419b94535d4d3eb81df9
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Jan 11 23:49:16 2016 +0100
+
+    small fixes
+
+commit bb7681a0476a865081d8b0c21314e2e18e514c1a
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Jan 11 23:05:58 2016 +0100
+
+    fix mistakes
+
+commit 747ed7aeb15470336f4faa1097a3618531a924cf
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Jan 8 12:43:31 2016 +0100
+
+    summry and housekeeping
+
+commit 31bfddab2327132881a86c1f80c3695f72fc8f0c
+Merge: b48ddce f03113e
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Jan 7 21:50:55 2016 +0100
+
+    Merge pull request #112 from ScalaConsultants/remove-cname
+    
+    removing CNAME
+
+commit b48ddce7b949aaab6d65c5f18d01d368d4e42f2a
+Merge: 1caa5fc 93a39a2
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Jan 5 13:42:00 2016 +0100
+
+    Merge pull request #113 from ScalaConsultants/disqus-fix
+    
+    disqus indentifier fixed
+
+commit 93a39a24fa8f645b4084bd48befc193d9b2b29aa
+Author: Jakub Zubielik <jakub.zubielik@scalac.io>
+Date:   Tue Jan 5 13:30:58 2016 +0100
+
+    disqus indentifier fixed
+
+commit f03113ebd0eb0cb91ff5e1a8fe38f8fd4354633e
+Author: Jakub Zubielik <jakub.zubielik@scalac.io>
+Date:   Tue Jan 5 13:01:41 2016 +0100
+
+    removing CNAME
+
+commit 1caa5fc9ab5688554a96a88cd30f6f56c164fc77
+Merge: eeff8b0 4452d8f
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Jan 5 12:11:38 2016 +0100
+
+    Merge pull request #111 from ScalaConsultants/disqus-fix
+    
+    disqus config and relative links
+
+commit 4452d8f348983f7dd0598dd8196822d7be4d411b
+Author: Jakub Zubielik <jakub.zubielik@scalac.io>
+Date:   Tue Jan 5 12:09:05 2016 +0100
+
+    disqus config and relative links
+
+commit eeff8b0a093a81f23b3d7e7de2f7b74f82c4e29b
+Merge: 7e7aa3a 3c596a1
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Jan 5 11:01:28 2016 +0100
+
+    Merge pull request #110 from ScalaConsultants/disqus-fix
+    
+    disqus ssl fix
+
+commit 3c596a1820d702229379ed2597082d13681e0b09
+Author: Jakub Zubielik <jakub.zubielik@scalac.io>
+Date:   Tue Jan 5 10:58:04 2016 +0100
+
+    disqus ssl fix
+
+commit 7e888c08b4f4942d7ff6cfd2b145e9322d946707
+Author: Jakub Zubielik <jakub.zubielik@scalac.io>
+Date:   Tue Jan 5 10:42:03 2016 +0100
+
+    disqus ssl fix
+
+commit 7e7aa3a368c28b3fa7be217f5abf4deeed0185d7
+Author: Jakub Zubielik <jzubielik@users.noreply.github.com>
+Date:   Mon Jan 4 15:32:00 2016 +0100
+
+    new disqus api
+
+commit ea43c06aa101336aff4bce524c4f39b9f5b3bf8f
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 31 11:42:42 2015 +0100
+
+    add files
+
+commit f3373227d8ee2172a03aaf085cea132affacb7c6
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 31 11:39:13 2015 +0100
+
+    suggestions from Leszek
+
+commit 7f799eb0c7a6ce5ff130b7e6a5998d0c6aaab62a
+Merge: 8fa96b8 7da8b12
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 31 11:38:10 2015 +0100
+
+    Merge branch 'year_summary'
+
+commit 7da8b12a1568f967820a198cbad4d86a07dbb954
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 31 09:42:21 2015 +0100
+
+    a -> the
+
+commit e183a27f20d3a7c90ca9b768b0bd604b6b0c3a23
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 31 09:27:51 2015 +0100
+
+    fixes after pr
+
+commit ecbb676cb8c73f2e3064c6776ac73c40d86020f6
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue Dec 29 22:25:50 2015 +0100
+
+    even more stats
+
+commit 8fa96b89efd680d22fcba6f46e3ffb2e0f7302be
+Merge: 21cf6af c9fac37
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Dec 29 19:03:37 2015 +0100
+
+    Merge pull request #106 from ScalaConsultants/update_readme
+    
+    Update readme
+
+commit c9fac37a4a67b03af82e15f912d6f11e7b329cf6
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue Dec 29 19:03:14 2015 +0100
+
+    last change
+
+commit 9c5f9ad042c3aaabfa0a77d0b43c1a2743eee45f
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Dec 28 22:10:46 2015 +0100
+
+    more data
+
+commit 4493e1e7ddae30e98b6679dc7448e25717f4c55d
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Dec 28 14:58:29 2015 +0100
+
+    small fixes
+
+commit 184fbbcbc130ddcf69ac7ba63e211ce8b2d4bddf
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Dec 28 12:26:13 2015 +0100
+
+    few thingies
+
+commit 5163d79ddf677921dbe2449967cd18e3bf09a0c7
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Dec 28 12:16:34 2015 +0100
+
+    move things
+
+commit 3547534ba6b0d6fdd6c0d71fe9c8c6712cea864a
+Merge: b396524 21cf6af
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Dec 28 12:01:21 2015 +0100
+
+    Merge branch 'master' into update_readme
+
+commit 21cf6af82802a9fa24ba0bae43419c792bcee2fe
+Merge: 7d25d34 e8efee7
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Dec 23 14:30:19 2015 +0100
+
+    Merge pull request #108 from ScalaConsultants/radek-add-descriptions
+    
+    descriptions added
+
+commit e8efee762358d4772c52d1a03a3349aca7497e2e
+Author: Radek Tkaczyk <rado.tkaczyk@gmail.com>
+Date:   Wed Dec 23 10:38:13 2015 +0100
+
+    descriptions added
+
+commit 7d25d345253a092856141db6406946ef57152819
+Merge: 60eb68d 0394480
+Author: Andrea Richiardi <a.richiardi.work@gmail.com>
+Date:   Mon Dec 21 11:37:27 2015 -0800
+
+    Merge pull request #107 from ScalaConsultants/fix-cljs-replumb-require
+    
+    Fix typo in description
+
+commit 03944808163d51dcb43f8b129faac8d25a4e33ea
+Author: Andrea Richiardi <a.richiardi.work@gmail.com>
+Date:   Mon Dec 21 11:34:24 2015 -0800
+
+    Fix typo in post's description
+
+commit 60eb68d028a3c4d98442da9100c5689d40cf1467
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Dec 21 09:06:07 2015 +0100
+
+    tags, feeds, authors
+
+commit d0a91807926dcf486f87387b87dece5c331aada6
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sun Dec 20 14:37:25 2015 +0100
+
+    basic stats
+
+commit b396524efe912ce917b3ded1bb902ef17c9f0d44
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sun Dec 20 09:32:37 2015 +0100
+
+    update start script
+
+commit f33d6918b85b697c2fb148cb442a4efaf20e5857
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Dec 19 12:15:46 2015 +0100
+
+    mark the first one
+
+commit 7b1d1553c750468dc27d8a65b92f2cc7aa3ec6a8
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Dec 19 12:15:14 2015 +0100
+
+    Markdown sucks really hard
+
+commit c63e3f803e6c3195a06def8e0fe51a073d118cac
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Dec 19 12:11:43 2015 +0100
+
+    Markdown sucks
+
+commit 9aa5ee0a33bebb339ef4de37171cb33b0e669a26
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Dec 19 12:10:06 2015 +0100
+
+    and now?
+
+commit a53f8e7c50b281bd3a1955340a95f89fd242fa30
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Dec 19 12:05:49 2015 +0100
+
+    native checkboxes
+
+commit 1e1a293fa9a6a9ec827646dfa264438e2a3918d0
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Dec 19 12:04:24 2015 +0100
+
+    native checkboxes
+
+commit 1374b550c7f34230f97f10ebc59f7b2cee694f15
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Dec 19 12:00:31 2015 +0100
+
+    native checkboxes
+
+commit cdb0a40cb56aba11ec82cb6174dd1853bcb00362
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Dec 19 11:52:51 2015 +0100
+
+    readme v.0.3
+
+commit 270d943a2e277a0259da1484a43d77ced2605d69
+Author: Andrea Richiardi <a.richiardi.work@gmail.com>
+Date:   Fri Dec 18 16:03:52 2015 -0800
+
+    README changes
+
+commit 23f7526ff930ae39d70046e28ae8cfdc240ea37c
+Author: Andrea Richiardi <a.richiardi.work@gmail.com>
+Date:   Fri Dec 11 16:53:44 2015 -0800
+
+    Blog post cljs-replumb-require
+
+commit e451a3cf702b8c683bae0393eaee88228ba1e879
+Author: Andrea Richiardi <a.richiardi.work@gmail.com>
+Date:   Tue Dec 15 10:59:51 2015 -0800
+
+    Add start-browser.sh to sync the browser with post changes
+
+commit cc027dc35e115f9a6ec8da221ec1ababf3a9bd81
+Author: Andrea Richiardi <a.richiardi.work@gmail.com>
+Date:   Fri Dec 11 16:23:18 2015 -0800
+
+    Revert start.sh to simply creating lein project _cljs
+
+commit 069288a1404b9ce9e34640d84f509c762137d91a
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 17 23:06:03 2015 +0100
+
+    fix incorrect descriptions
+
+commit 637620fa68b92bd171a8da7fb5e09f9f29e1f309
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 17 23:00:51 2015 +0100
+
+    udpate tags with usage tracking
+
+commit 45c4d2f12a18f52da076ed96f3102f582ece4b85
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 17 22:53:55 2015 +0100
+
+    usability tools
+
+commit 8170dc327a4ebc45e6fddc170298971bc4a78c63
+Merge: c32da09 b22ec52
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 17 21:53:02 2015 +0100
+
+    Merge pull request #101 from ScalaConsultants/matgren-meta-descriptions
+    
+    added meta description
+
+commit c32da09ffd80a953c2fd2eb20908fcac84813acc
+Merge: b7154ec a450bd8
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 17 21:52:40 2015 +0100
+
+    Merge pull request #104 from ScalaConsultants/desc-cljs-on-gh-pages
+    
+    Duplicate summary on description
+
+commit b7154ec399f2415a32276f01fb61c35f6f2fc36e
+Merge: be71579 83b4008
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 17 21:52:24 2015 +0100
+
+    Merge pull request #102 from ScalaConsultants/clojure-explained-1
+    
+    Add description meta
+
+commit be71579a642554df96f81a710c3a563dfd1ea410
+Merge: 7729234 0a4101a
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 17 21:52:00 2015 +0100
+
+    Merge pull request #100 from ScalaConsultants/fix/add-description-looking-into-scalajs
+    
+    add description for looking into scala.js post
+
+commit 7729234463b7bd83441c9b3c13390d14a04d62b9
+Merge: 2f38753 ce78923
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 17 21:51:39 2015 +0100
+
+    Merge pull request #105 from ScalaConsultants/descriptions_pj
+    
+    PJ: add description
+
+commit ce78923a3f52471ce01b76dc4db9184995a9377b
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 17 21:49:51 2015 +0100
+
+    fix typo
+
+commit 2f38753fe5d049f7c4858159d7f8c2ac2ee2b376
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Thu Dec 17 19:53:55 2015 +0100
+
+    Add description to lgasior's posts
+
+commit be0bc8e261c05bbb28017d06c5c0cba06c64e75e
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Dec 16 23:48:39 2015 +0100
+
+    add description to last few posts
+
+commit 7cc2b839308b1d4fe490e8790f1452958b649b8c
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Wed Dec 16 21:02:23 2015 +0300
+
+    tperek: added description field to my posts
+
+commit a450bd80b40a50d0018e909cbf4a2031799649fe
+Author: Andrea Richiardi <a.richiardi.work@gmail.com>
+Date:   Wed Dec 16 09:10:11 2015 -0800
+
+    Duplicate summary on description
+
+commit d6cc04adfabb60848585fe14b9986cac859fb8f0
+Merge: 4d8b036 5f25e0b
+Author: Leszek Gruchała <leszek@gruchala.eu>
+Date:   Wed Dec 16 11:36:48 2015 +0100
+
+    Merge pull request #103 from ScalaConsultants/leszek-akka-typed-description
+    
+    Updated description
+
+commit 5f25e0b3e626a281a8d480ecb6d40aaa127b7513
+Merge: 6a0ec68 4d8b036
+Author: Leszek Gruchała <leszek@gruchala.eu>
+Date:   Wed Dec 16 11:32:03 2015 +0100
+
+    Merge branch 'master' into leszek-akka-typed-update
+
+commit 6a0ec68c57956eb856848ad443c31f7698e57d37
+Author: Leszek Gruchała <leszek@gruchala.eu>
+Date:   Wed Dec 16 11:31:33 2015 +0100
+
+    Added description meta field
+
+commit b22ec52339d622f09d75b18c5eee672c68c4af30
+Author: Mat Gren <maciej.gren@gmail.com>
+Date:   Wed Dec 16 11:25:11 2015 +0100
+
+    added meta description
+
+commit 83b4008c74b3aa09ac68058ccf5247fe4dab5695
+Author: Tomasz Biernacki <tomasz.biernacki@scalac.io>
+Date:   Wed Dec 16 11:20:48 2015 +0100
+
+    Add description
+
+commit 0a4101a8b56e01156fb27692857d20f8230b5ac5
+Author: Andrzej Janczak <andrzej@scalac.io>
+Date:   Wed Dec 16 11:02:27 2015 +0100
+
+    add description for looking into scala.js post
+
+commit 01cbcf946bc06c3415b2d92a90bd0826d51e6166
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue Dec 15 23:34:57 2015 +0100
+
+    add Tomek to authors
+
+commit 50b486e1a836d4e520c9941e66515e51d2b61ac3
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Tue Dec 15 15:03:30 2015 +0300
+
+    Tomek: first draft of his 2 gotchas examples
+
+commit 4d8b0368b12962c7c68a98d223ac25e8f44722a4
+Merge: 0378b5f c9e8cdf
+Author: Bartłomiej Dybowski <b.dybowski@gmail.com>
+Date:   Tue Dec 15 10:18:25 2015 +0100
+
+    Merge pull request #95 from ScalaConsultants/feature/#340-change-meta-and-other-fields-on-blog
+    
+    New meta description and title + new h1 and subtitle
+
+commit c9e8cdf62c788a010d43d1775b567bb4e064fc60
+Author: burczu <b.dybowski@gmail.com>
+Date:   Mon Dec 14 19:41:35 2015 +0100
+
+    H1 and subtitle rollback
+
+commit ec4b1b12bdb3765846e58c4b292ef5b134bc1000
+Author: burczu <b.dybowski@gmail.com>
+Date:   Mon Dec 14 14:57:30 2015 +0100
+
+    Using description from config or from post if defined.
+
+commit 0378b5fde6eca98193388d438af532be02c2f8b7
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Dec 14 10:07:46 2015 +0100
+
+    update the site
+
+commit a8513cc39934d30639287ea6b23779a50511a559
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Dec 14 10:05:34 2015 +0100
+
+    update date
+
+commit 143b96fa20c45584330e6001293c51c6aca0acb4
+Merge: d11c1d8 61d5010
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Dec 14 10:03:06 2015 +0100
+
+    Merge branch 'clojure-explained-1'
+
+commit 740ecf1f431d83409710be704a2e7d0ee3d8f0f2
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sun Dec 13 13:27:50 2015 +0100
+
+    mixing concurrency in Akka
+
+commit d11c1d8da8219811c2562a550543b4968f26723c
+Merge: 80637bb af215d7
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Dec 13 12:08:42 2015 +0100
+
+    Merge pull request #96 from ScalaConsultants/feature/#352-no-comments-count-on-post-loaded-by-infinite-scroll
+    
+    Update the comment count on dynamically loaded posts.
+
+commit 80637bbf6dbc7fa1457f444157090bd4f1a3596c
+Merge: d08927f 4004c3e
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sun Dec 13 12:03:06 2015 +0100
+
+    Merge branch 'encog_iamge'
+
+commit af215d77b1b5b7a8307e9e94fba7638eeda3725a
+Author: burczu <b.dybowski@gmail.com>
+Date:   Fri Dec 11 11:37:38 2015 +0100
+
+    Update the post count on dynamically loaded posts.
+
+commit 1390d3b1a38a09b701d07c613d503666ff985bfa
+Author: burczu <b.dybowski@gmail.com>
+Date:   Thu Dec 10 13:29:35 2015 +0100
+
+    New meta description and title + new h1 and subtitle
+
+commit d08927f3cdbc9d08a6044caf528c555b27a7d7d6
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 10 12:20:19 2015 +0100
+
+    udpate post iwth gist
+
+commit 99a0927c0782d2adf6923c5290b5e8c6fc906de9
+Merge: daad83e bc35215
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 10 12:17:29 2015 +0100
+
+    Merge branch 'post/scalajs-in-practice'
+
+commit bc35215fd44057e5b9d1dcf1a1405a7f33daee2d
+Author: Andrzej Janczak <andrzej@scalac.io>
+Date:   Thu Dec 10 12:06:10 2015 +0100
+
+    change file name
+
+commit c3f940c979e919836acc9de759c28e0bf0432877
+Author: Andrzej Janczak <andrzej@scalac.io>
+Date:   Thu Dec 10 11:59:32 2015 +0100
+
+    move code to gist
+
+commit 61d5010bcde9e4a5412c9a92b337a45c11ff6632
+Author: Tomasz Biernacki <tomasz.biernacki@scalac.io>
+Date:   Thu Dec 10 11:47:17 2015 +0100
+
+    Small changes
+
+commit daad83ee01dc9b436b7c3c89dd8ab2b4bf7d066b
+Merge: 6382b3a 2817fc4
+Author: Bartłomiej Dybowski <b.dybowski@gmail.com>
+Date:   Thu Dec 10 11:32:37 2015 +0100
+
+    Merge pull request #94 from ScalaConsultants/feature/robots-sitemap-fix
+    
+    Sitemap command points correct sitemap.xml file now.
+
+commit 2817fc40dcbf765cdb7efd43c8daffa40e037e5d
+Author: burczu <b.dybowski@gmail.com>
+Date:   Thu Dec 10 11:10:41 2015 +0100
+
+    File pointed by Sitemap command in robots.txt fixed.
+
+commit 6382b3ab7f5b27cee4e6da43c41e9cf9738bca95
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 10 10:30:47 2015 +0100
+
+    update date
+
+commit 1c5c4f305e99bb6d08413be0522fabebc4763311
+Merge: afbabfd 515a297
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 10 10:23:23 2015 +0100
+
+    Merge branch 'post/scalajs-in-practice'
+
+commit afbabfd42719f375646b1adf32ab0e6aae0ad7ea
+Merge: 1e154a0 f78b972
+Author: Bartłomiej Dybowski <b.dybowski@gmail.com>
+Date:   Thu Dec 10 08:23:46 2015 +0100
+
+    Merge pull request #92 from ScalaConsultants/feature/#334-implement-infinite-scroll
+    
+    Infinite scroll on main page added.
+
+commit f78b972b6ef79b1abda0ab4265d68bd6838b634e
+Author: burczu <b.dybowski@gmail.com>
+Date:   Thu Dec 10 08:09:06 2015 +0100
+
+    Issue with not working post ling fixed
+
+commit 4004c3e197d8da600292fe03a8665629651890ba
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 10 00:14:26 2015 +0100
+
+    fix image
+
+commit 515a29748941bebc6b0d7bf3c0c92ec0452f2884
+Author: Andrzej Janczak <andrzej@scalac.io>
+Date:   Wed Dec 9 22:54:00 2015 +0100
+
+    review  improvements pt4
+
+commit 040efac0670803895d9e92d8cd1fbdb5c545b600
+Author: burczu <b.dybowski@gmail.com>
+Date:   Wed Dec 9 08:53:01 2015 +0100
+
+    Infinite scroll on main page added.
+
+commit 790d7dd692a3772e25e3f1bd7c774f050aa18727
+Author: Tomasz Biernacki <tomasz.biernacki@scalac.io>
+Date:   Tue Dec 8 20:36:08 2015 +0100
+
+    Added explanation about creating new values
+
+commit 1e154a0064ad168f3d67a743507795491b715c02
+Merge: 68ac683 2f03692
+Author: Bartłomiej Dybowski <b.dybowski@gmail.com>
+Date:   Tue Dec 8 12:56:10 2015 +0100
+
+    Merge pull request #91 from ScalaConsultants/feature/#310-page-has-no-h1-tag
+    
+    H1 tag added to the page …
+
+commit a2f539a523dff2cd7424644b272d30916111d090
+Author: Tomasz Biernacki <tomasz.biernacki@scalac.io>
+Date:   Tue Dec 8 12:46:45 2015 +0100
+
+    More typos and line numbers
+
+commit 2f0369258fc12da5093c25a6cf86f9f89852f5bd
+Author: burczu <b.dybowski@gmail.com>
+Date:   Tue Dec 8 12:46:35 2015 +0100
+
+    H1 tag added to the page with suitable styles to achieve exactly the same look of the page header.
+
+commit 775b908fba6a2e151e3ff0f6ec3654d6a162ee8a
+Author: Tomasz Biernacki <tomasz.biernacki@scalac.io>
+Date:   Tue Dec 8 10:56:31 2015 +0100
+
+    Typos
+
+commit 8e68c7cc37c4d49ec8621e890a3a8a1afa08e0b3
+Author: Tomasz Biernacki <tomasz.biernacki@scalac.io>
+Date:   Tue Dec 8 02:22:23 2015 +0100
+
+    Grammar fixes
+
+commit b08c933ca7e50366354bb82256f421e4e2db1ad1
+Author: Tomasz Biernacki <tomasz.biernacki@scalac.io>
+Date:   Tue Dec 8 01:53:04 2015 +0100
+
+    Third wave of refactoring
+
+commit 0f93fa8a311b667239e4019fcbb91fa13de4efef
+Author: Andrzej Janczak <andrzej@scalac.io>
+Date:   Tue Dec 8 00:15:48 2015 +0100
+
+    last improvements
+
+commit 176de883b5c32467d8f8ccdef95e583eb703b28f
+Author: Tomasz Biernacki <tomasz.biernacki@scalac.io>
+Date:   Mon Dec 7 15:29:24 2015 +0100
+
+    Small changes
+
+commit c5237676043392f686b096e8e62db5f0de2e8dff
+Author: Tomasz Biernacki <tomasz.biernacki@scalac.io>
+Date:   Mon Dec 7 14:48:06 2015 +0100
+
+    Second wave of refactoring
+
+commit 58a3034304d8733ce3f97220b0a205fb3cb583aa
+Author: Tomasz Biernacki <tomasz.biernacki@scalac.io>
+Date:   Mon Dec 7 14:09:35 2015 +0100
+
+    Refactor 1st section
+
+commit 384e47485a3408edd173563b0b078077815142e8
+Author: Tomasz Biernacki <tomasz.biernacki@scalac.io>
+Date:   Mon Dec 7 14:03:34 2015 +0100
+
+    Rename file
+
+commit 98216c974da68ade6f713ec500dc489dc3000fac
+Author: Tomasz Biernacki <tomasz.biernacki@scalac.io>
+Date:   Mon Dec 7 13:45:19 2015 +0100
+
+    First wave of refactoring
+
+commit 56956e9d89572a5a8e46aa91b75476684ad0b255
+Author: Andrzej Janczak <andrzej@scalac.io>
+Date:   Sun Dec 6 17:13:00 2015 +0100
+
+    some polishing
+
+commit 744a388a575138745f75fedbcbca71c2780c17f8
+Author: Andrzej Janczak <andrzej@scalac.io>
+Date:   Sun Dec 6 15:37:35 2015 +0100
+
+    -add more code examples
+    -change order
+
+commit 68ac683a3f1a5e8b07ef2074bfc1dc223bc9776c
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sun Dec 6 14:05:20 2015 +0100
+
+    update tags and authors to contain cookie consent, hubspot and RSS icon
+
+commit 4da5bd777da39f004508d9c7474adbc1f282917a
+Merge: 1956728 49afbbc
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sun Dec 6 13:59:26 2015 +0100
+
+    Merge branch 'upgrade_rss'
+
+commit f18c18a1a216261d6a230d614d23750f69ea6a05
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Dec 5 18:03:54 2015 +0100
+
+    evaluation order
+
+commit 7095d6f4cd431375cc7ca2bfc5570cfec139ccd7
+Author: Tomasz Biernacki <tomasz.biernacki@scalac.io>
+Date:   Thu Dec 3 18:25:52 2015 +0100
+
+    Clojure Explained - Recursion
+
+commit 195672867fd58ccf55691e92a7409484acda4a8f
+Merge: 5d60125 ece1043
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Dec 4 13:23:50 2015 +0100
+
+    Merge pull request #89 from ScalaConsultants/matgren-patch-1
+    
+    Updated readme with additional content
+
+commit ece1043a864545fd0768247bffc1a443ed42a65e
+Author: Mat Gren <maciej.gren@gmail.com>
+Date:   Fri Dec 4 13:20:12 2015 +0100
+
+    Updated readme with additional content
+
+commit 5d601253a64b377d7d41592df32fb1e6d03ba818
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 3 00:51:15 2015 +0100
+
+    adding hubspot
+
+commit 38fc3bcd45831de03923f6def483ebd67c2f03c3
+Merge: 39976a4 d59f84e
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Nov 30 19:48:45 2015 +0100
+
+    Merge pull request #87 from ScalaConsultants/fix_cookies
+    
+    update cookie consent to a new place
+
+commit 49afbbc5204395571c8940d84c9fd13e43e46c34
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sun Nov 29 16:38:14 2015 +0100
+
+    better text
+
+commit 738035b3142ae188fff1808370e1eee28644677f
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sun Nov 29 16:36:13 2015 +0100
+
+    add RSS button
+
+commit d59f84ee317abe0fc62f87d2cbb543041de24cf0
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sun Nov 29 16:07:42 2015 +0100
+
+    update cookie consent to a new place
+
+commit 39976a494fc4e34415a102f5c740c99ea1f93acf
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Nov 26 10:55:49 2015 +0100
+
+    tags, authors and feeds
+
+commit 70cfea180800dbb52f124975f03798b88af9bdd2
+Merge: a6a3ebb 8ec362a
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Nov 26 10:49:05 2015 +0100
+
+    Merge branch 'orient_series_1'
+
+commit 8ec362a6ce9e76fbf8541ef2ecb985475be9011e
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Thu Nov 26 10:40:52 2015 +0100
+
+    jz review
+
+commit f79b55b0e9dff2d58b96c4f771ca0f96db9dcfcd
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Thu Nov 26 09:43:32 2015 +0100
+
+    one more typo
+
+commit 30fe62f451d3942d7fba424d6bde014bd52de186
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Thu Nov 26 09:30:12 2015 +0100
+
+    last editing
+
+commit 84e8ff0bbc6187db93a5d777eb0ff5cd7f76a015
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Wed Nov 25 23:18:21 2015 +0100
+
+    one more review
+
+commit 634c123fe8dcc9a1cf2af8c2ae3d1c21dc6aa94e
+Author: Andrzej Janczak <andrzej@scalac.io>
+Date:   Wed Nov 25 22:54:31 2015 +0100
+
+    add more complex example for "mutable trap"
+
+commit 5b78860879d9812af97d0646320bfb6fab3afac7
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Tue Nov 24 19:03:08 2015 +0100
+
+    more editing
+
+commit a6a3ebb37ce34df4c0e5c563a6e9d5215ab70272
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Nov 23 19:41:13 2015 +0100
+
+    tags
+
+commit 1da72aa74cb37526dc4f92b88c657c4a1b83656c
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Sun Nov 22 23:54:41 2015 +0100
+
+    review changes, orientdb
+
+commit adcd4a27a56ea54fc52cfac95cb87755ad358a47
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Nov 18 19:14:06 2015 +0100
+
+    make sure 404 has correct paths everywhere
+
+commit 675ad52ed1694f322db08b9e29cfc284f4dd4680
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Sun Nov 15 22:03:23 2015 +0100
+
+    new article proposal
+
+commit 81b5e1af8a1f9c24b42c632493334adee248c84d
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Nov 12 23:14:56 2015 +0100
+
+    safe resource
+
+commit 7565f47d2f0548ad5957caa6f016263a6aecf912
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Nov 12 23:11:16 2015 +0100
+
+    dirty version - space invaders
+
+commit ae5b7a72dde5fd3f37f1f1e87722b94432f32498
+Author: Andrzej Janczak <andrzej@scalac.io>
+Date:   Thu Oct 29 14:51:06 2015 +0100
+
+    review improvements pt3
+
+commit d0bb552a7944a21ea65cf5fe5207fba92f856ac0
+Author: Andrzej Janczak <andrzej@scalac.io>
+Date:   Wed Oct 28 21:37:53 2015 +0100
+
+    review improvements pt2
+
+commit 4bd874fdbca8841e57e8856d35a4956bde70b570
+Author: Andrzej Janczak <andrzej@scalac.io>
+Date:   Thu Oct 22 13:10:07 2015 +0200
+
+    img fix
+
+commit 6e8c9ad88657f209282c7e642916ef225ddf9ecd
+Author: Andrzej Janczak <andrzej@scalac.io>
+Date:   Thu Oct 22 13:03:08 2015 +0200
+
+    review improvements pt 1
+
+commit 5cb63cf325f70c9dbb5680cbb0d69f23ec0aa631
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Oct 22 08:34:10 2015 +0200
+
+    updated tags
+
+commit f5287630c8b9f76a35976ec74beace0e7ad691ed
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Wed Oct 21 22:59:00 2015 +0300
+
+    remove backquotes
+
+commit 6bcb4f865917597508721720332840c5e1dbd95b
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Wed Oct 21 22:50:39 2015 +0300
+
+    rephrases
+
+commit acdacde0c7d1d0c32cc09f53509c13aca4229fb9
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Wed Oct 21 22:47:32 2015 +0300
+
+    a note about @caente
+
+commit 4a1be1fd240b55aa7d35eb5efab4e89454eb777e
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Wed Oct 21 21:39:48 2015 +0300
+
+    adjusting to czak's remarks
+
+commit 02994c057708db147fcfd74942f5b9b70969307e
+Author: Andrzej Janczak <andrzej@scalac.io>
+Date:   Wed Oct 21 17:31:59 2015 +0200
+
+    codding fix
+
+commit 237117538d4c2ba450304d9667712e92072c9b7c
+Author: Andrzej Janczak <andrzej@scalac.io>
+Date:   Wed Oct 21 17:27:46 2015 +0200
+
+    header fix
+
+commit f5b458e499b8fad064ab0bfa6278ca824d488ca3
+Author: Andrzej Janczak <andrzej@scalac.io>
+Date:   Wed Oct 21 16:57:31 2015 +0200
+
+    code quote fix
+
+commit fe44918f7f9a0754df005c358b0b224a1d6c77c4
+Author: Andrzej Janczak <andrzej@scalac.io>
+Date:   Wed Oct 21 16:55:48 2015 +0200
+
+    add scalajs in practice post
+
+commit 57b647c73a64f3e838fbaae0b303ef94966f4cf0
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Wed Oct 21 00:16:14 2015 +0300
+
+    remove rubbish;)
+
+commit 01d4906b7098ebdeb9aeb1436397d7bd97c883a8
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Wed Oct 21 00:06:21 2015 +0300
+
+    adjustmets to Patryk's comments'
+    :
+
+commit 1ce0303edecd30d81e21fb34e2caa10a171c55b3
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Tue Oct 20 14:59:22 2015 +0300
+
+    remove duplicated title
+
+commit de15c96afa8b10f9183362bb9d4e0900ac215f9f
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Tue Oct 20 01:06:17 2015 +0300
+
+    the post
+
+commit f4111495abedf6455e474417c856b45140d22eda
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Oct 19 10:55:26 2015 +0200
+
+    without _cljs
+
+commit 4c5eb66c709a19d6a8f7815bd4469ba84876ade8
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Oct 19 10:48:29 2015 +0200
+
+    testing deploy
+
+commit 620bdafac28fc144a654b8bd7dd5ce71199db79c
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Oct 19 09:55:39 2015 +0200
+
+    adding tags; running aspell
+
+commit 4deae48454fe17251d284b2c56456572cd0808a2
+Merge: 2750a01 d391902
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Oct 19 09:40:28 2015 +0200
+
+    Merge branch 'cljs-on-gh-pages'
+
+commit d391902fbe30efc774a288d66740662dfd02cc5a
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Oct 19 09:38:05 2015 +0200
+
+    gists instead of highlight
+
+commit 04d05ddeceaae82c714f2b8650ffa6ba8ceec6b4
+Author: Andrea Richiardi <a.richiardi.work@gmail.com>
+Date:   Sun Oct 18 11:25:46 2015 -0700
+
+    Final version.
+
+commit 48d0fe5b49edacd17328a4ad8bc9ca6a4594d6aa
+Author: Andrea Richiardi <a.richiardi.work@gmail.com>
+Date:   Sun Oct 18 09:45:37 2015 -0700
+
+    New jq-console adding disable_auto_focus is in.
+
+commit 05de4e3fca799db0365d608220b10e7c87754467
+Author: Andrea Richiardi <a.richiardi.work@gmail.com>
+Date:   Sun Oct 18 09:44:22 2015 -0700
+
+    Small change in the repl project.
+
+commit 2750a01cf4dd6d4080cc5c6ab2d4d6d33d1711c9
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Oct 15 08:54:36 2015 +0200
+
+    updated tags
+
+commit 1d21cf0fad9ee51dd0bc36a83d4f00039b0d3634
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Tue Oct 13 16:33:24 2015 +0300
+
+    few -> a few
+
+commit 0cd184d29a3e22ab2f6330abb519543d09933424
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Sat Oct 10 14:35:59 2015 +0300
+
+    shapeless and futures - first version
+
+commit 52367b0f8c3be8f5768446dd0aeef6fff9f45e9c
+Author: Andrea Richiardi <a.richiardi.work@gmail.com>
+Date:   Wed Oct 7 17:29:51 2015 -0700
+
+    Post-reviews changes. Add footnotes instead of inline links.
+
+commit 91847d0a34bb55419714125066d22445567775ae
+Author: Andrea Richiardi <a.richiardi.work@gmail.com>
+Date:   Tue Oct 6 18:28:36 2015 -0700
+
+    Fixes wording and add our CS/Reagent post as link
+
+commit c63122cdce2b341509ab42fa03cba3fd979391ce
+Author: Andrea Richiardi <a.richiardi.work@gmail.com>
+Date:   Tue Oct 6 12:09:06 2015 -0700
+
+    Remove auto scroll to REPL
+
+commit d8a55d4727a1e42b506ad4d106800815174054eb
+Author: Andrea Richiardi <a.richiardi.work@gmail.com>
+Date:   Mon Oct 5 19:36:21 2015 -0700
+
+    Better wording for last part of the post and some fix
+
+commit 0bcb824570749b4605ea43f18c06a7b1b5c7eb3b
+Author: Andrea Richiardi <a.richiardi.work@gmail.com>
+Date:   Mon Oct 5 19:07:38 2015 -0700
+
+    Post finished (plus surprise)
+
+commit 4b637e6ec4f773bf602574bf125b3164f0c8617e
+Merge: 052eb85 ca0e6db
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sat Oct 3 17:01:22 2015 +0200
+
+    Merge pull request #77 from ScalaConsultants/tw_invitation
+    
+    Invitate readers to Follow or Subscribe
+
+commit ca0e6db5a0548697d0fd1b2872d69574340c6dd1
+Merge: f0cc4c5 052eb85
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Oct 3 17:00:19 2015 +0200
+
+    Merge branch 'master' into tw_invitation
+
+commit dacbb67f2b41b97bcecda3f62b2b539a48a9e739
+Author: Andrea Richiardi <a.richiardi.work@gmail.com>
+Date:   Fri Oct 2 17:31:51 2015 -0700
+
+    Added almost 3/4 of post content.
+
+commit e0cdbd4c45278195acbfe54290df5b419848b435
+Author: Andrea Richiardi <a.richiardi.work@gmail.com>
+Date:   Thu Oct 1 18:16:24 2015 -0700
+
+    First steps in writing post "How we embedded ClojureScript..."
+
+commit 052eb85af0f05b5a83904e84c03e128cb81335b8
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Oct 1 09:09:38 2015 +0200
+
+    change date; add tags
+
+commit 2db488215e34af9e3e589b4639d3f1cc82ec1c43
+Merge: 13ddbb9 93c8b26
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Oct 1 08:59:55 2015 +0200
+
+    Merge branch 'rx_scala_js'
+
+commit 93c8b26c0f4fdc067e9ccf043c7a7280afe78a56
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Oct 1 08:57:53 2015 +0200
+
+    changes from Lukasz and Jakub
+
+commit a23f42ecc1174ddb0b9fe1e4683c5f49390d1ed6
+Author: Andrea Richiardi <a.richiardi.work@gmail.com>
+Date:   Wed Sep 30 17:55:53 2015 -0700
+
+    Add "How to blog with ClojureScript" to the README
+
+commit 62dc02328ff820d4e7e9c6c06ec5976b883621fc
+Author: Andrea Richiardi <a.richiardi.work@gmail.com>
+Date:   Wed Sep 30 15:15:40 2015 -0700
+
+    Now start.sh for Clojure adds (but does not create) the lein project as
+    submodule. post-template-cljs has some more documentation
+
+commit c9cb43d17ed687105ab7c70909ea0e585c05b370
+Author: Andrea Richiardi <a.richiardi.work@gmail.com>
+Date:   Tue Sep 29 17:04:43 2015 -0700
+
+    Modify start in order to create ClojureScript-based blog posts
+
+commit d314daab2a7d83fec54f8c6b1779feb52762cec2
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Sep 30 23:30:58 2015 +0200
+
+    review comments; use gists
+
+commit 13ddbb968b61b8bd33c5beefed2506c60be3bd1c
+Merge: 298cb49 bde8a65
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Sep 29 22:51:17 2015 +0200
+
+    Merge pull request #78 from ScalaConsultants/readme-add-how
+    
+    Add "How to blog" section
+
+commit bde8a65eeedcb2f422a001abd6a3b91cf2b6be49
+Author: Andrea Richiardi <a.richiardi.work@gmail.com>
+Date:   Tue Sep 29 11:10:32 2015 -0700
+
+    Add "How to blog" section
+
+commit f0cc4c51b8cc75b450e13c480fd1431395c9f649
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Sep 26 16:39:22 2015 +0200
+
+    fix index.xml
+
+commit 41ce07d5a67aa04a39d0713c21fe6a5581d4ee81
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Sep 26 16:26:10 2015 +0200
+
+    invitation links
+
+commit 07a4eafcf93b951a8fee5f002df24d95338977f5
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Sep 26 16:05:36 2015 +0200
+
+    add cross links
+
+commit 92bbeb12ddf33bbbf9e44ba73959a7bf58ecef1c
+Merge: de344ff 298cb49
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Sep 26 15:26:03 2015 +0200
+
+    Merge branch 'master' into rx_scala_js
+
+commit 298cb4939eb2cc4a648eca9b665c39991412038c
+Merge: 32afebc cce133c
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Sep 25 08:37:20 2015 +0200
+
+    Merge pull request #76 from ScalaConsultants/leszek-akka-typed-update
+    
+    Corrected sentence in Akka Types blog post
+
+commit cce133ceb2b57bb76321bcb25275dc0b0edfefe5
+Author: Leszek Gruchała <leszek@gruchala.eu>
+Date:   Fri Sep 25 08:24:11 2015 +0200
+
+    Review feedback
+
+commit a2efe50d649d4849e8475c4980e876f5126ff4a6
+Merge: ecd29f6 32afebc
+Author: Leszek Gruchała <leszek@gruchala.eu>
+Date:   Fri Sep 25 08:20:09 2015 +0200
+
+    Merge branch 'master' into leszek-akka-typed-update
+
+commit ecd29f68a674988bf4f7d21f72ce6d875f5d9cfa
+Author: Leszek Gruchała <leszek@gruchala.eu>
+Date:   Fri Sep 25 08:17:28 2015 +0200
+
+    Corrected sentence
+
+commit 32afebc50d2f5a3f26e09aac4696559c73db9321
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Sep 24 08:23:14 2015 +0200
+
+    tags for Scala_js post
+
+commit 39bb8db8700e8fe989a9c0152fec5bab20e20885
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Sep 24 00:18:29 2015 +0200
+
+    comments from Marek
+
+commit 2e6aaefc92a4011fd968d320e58583bf79e9bef5
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Sep 23 21:49:07 2015 +0200
+
+    update from Leszek
+
+commit cafd81ec80f6dcee611f7614002175608db89f4c
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Sep 23 00:05:17 2015 +0200
+
+    suggestions from Karol
+
+commit de344ffc1ebdbf40fe55df1ed03ae027a9fc8b33
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue Sep 22 22:21:55 2015 +0200
+
+    rx post - draft 1
+
+commit 5d7031b835710298fc66fe17556b913bc5f6abf7
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Sep 21 21:19:57 2015 +0200
+
+    no next post link
+
+commit 7ef40f668f4451804b76cefad8b292e09806595f
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Sep 21 21:15:23 2015 +0200
+
+    add gists
+
+commit f9ffe560c16245b3aca40b36778fdfbd428a42eb
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Sep 21 20:59:27 2015 +0200
+
+    fix typos
+
+commit abae28ba17b9ded9d1d454463b6e77fd3a9bf50f
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sun Sep 20 21:13:21 2015 +0200
+
+    improved post
+
+commit d1ce99dd16d613081a39468ebef98565c9ed76cd
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sun Sep 20 16:45:46 2015 +0200
+
+    add scala.js post
+
+commit 4cb381c9fcccd971fccc7051c3810230a2d383b4
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Sep 10 17:29:46 2015 +0200
+
+    updated tags
+
+commit 472b7c07fbdeb1143a65d5b46fe92aa28546708d
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Sep 9 19:35:55 2015 +0200
+
+    remove scheme
+
+commit cbee616bbc1ccf0a537f603e6eec689c8e775a62
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Sep 3 12:51:45 2015 +0200
+
+    typo
+
+commit 52c836064d61f562a6fec18e59a5b70725029b8b
+Merge: b48e58e 2626240
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Sep 3 12:50:12 2015 +0200
+
+    Merge branch 'moving_to_aa'
+
+commit 26262403721b713044609846ce869f07ab364737
+Author: Piotr Zientarski <p.a.zientarski@gmail.com>
+Date:   Thu Sep 3 12:48:45 2015 +0200
+
+    AA utilized fix
+
+commit b48e58e3e28c67478f80878fd5b995ccf4edee41
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Sep 3 12:13:47 2015 +0200
+
+    tags
+
+commit b91eb56885979b50eec82ba945dda9b99c86420a
+Merge: 5aaed66 56efed5
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Sep 3 12:12:55 2015 +0200
+
+    Merge branch 'moving_to_aa'
+
+commit 56efed504fa9376b999b3bd25c5aba60bf4db6e0
+Author: Piotr Zientarski <p.a.zientarski@gmail.com>
+Date:   Thu Sep 3 12:11:24 2015 +0200
+
+    AA fix
+
+commit 5aaed66db325fe675af2bb8978854e1308f8aaa2
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Sep 3 12:03:32 2015 +0200
+
+    tags
+
+commit 2c7f94d2fc72b19cbb5f7186a3b3a9f4b9ee609e
+Author: Piotr Zientarski <p.a.zientarski@gmail.com>
+Date:   Thu Sep 3 02:44:27 2015 +0200
+
+    AndroidAnnotations 9th version
+
+commit 0be3405b0883ad6c46ba002230b6346a74b1478c
+Author: Piotr Zientarski <p.a.zientarski@gmail.com>
+Date:   Wed Sep 2 15:21:21 2015 +0200
+
+    AndroidAnnotations 8th version
+
+commit 646996bd5c7d0fcc106dc9172b00176894a01981
+Author: Piotr Zientarski <p.a.zientarski@gmail.com>
+Date:   Wed Sep 2 15:16:26 2015 +0200
+
+    AndroidAnnotations 7th version
+
+commit 3c25c2f6c2a8b379db42f989cd0b99fab5b295cd
+Author: Piotr Zientarski <p.a.zientarski@gmail.com>
+Date:   Wed Sep 2 12:46:05 2015 +0200
+
+    AndroidAnnotations 6th version
+
+commit 5bd42b61b00f117aa33fc60d3a0e1abeac293944
+Author: Piotr Zientarski <p.a.zientarski@gmail.com>
+Date:   Wed Sep 2 12:28:41 2015 +0200
+
+    AndroidAnnotations 5th version
+
+commit fd710d5bff318768991fe78dcce7e68ae59c73ad
+Author: Piotr Zientarski <p.a.zientarski@gmail.com>
+Date:   Mon Aug 31 01:33:44 2015 +0200
+
+    AndroidAnnotations 4th version
+
+commit 5de9a22230bac98e2bee0dba23f0f8d2048f2ea6
+Author: Piotr Zientarski <p.a.zientarski@gmail.com>
+Date:   Mon Aug 31 01:16:34 2015 +0200
+
+    AndroidAnnotations 3rd version
+
+commit a2b619f47f31b5a0eab6b9d2a1b9dbae990189b2
+Author: Piotr Zientarski <p.a.zientarski@gmail.com>
+Date:   Wed Aug 26 13:34:40 2015 +0200
+
+    AndroidAnnotations 2st version
+
+commit f74a41534ae99c7fb99831fbfb29bee00596b876
+Author: Piotr Zientarski <p.a.zientarski@gmail.com>
+Date:   Wed Aug 26 12:45:08 2015 +0200
+
+    AndroidAnnotations 1st version
+
+commit a7ad99cc20d06fcead1f26b5858bd46e66362e4b
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Aug 24 18:46:55 2015 +0200
+
+    tags
+
+commit 3af66854857bd19c11d0c118f3bef1a31a66ec1e
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Aug 22 10:01:47 2015 +0200
+
+    update rakefile and add authors to repo
+
+commit 58675cd671f70ea51b0ef4f5ccb1df6406066308
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Aug 22 09:54:40 2015 +0200
+
+    generate pages for authors
+
+commit 054ab37e577f9d1ad6fd6375b8dd676042aa345d
+Merge: 3e0c79f 8c3deb1
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Thu Aug 13 15:57:27 2015 +0200
+
+    Merge pull request #71 from ScalaConsultants/links-update
+    
+    Update links
+
+commit 8c3deb1c16baad31acc91cd1cf2cb1770b538794
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Thu Aug 13 15:55:07 2015 +0200
+
+    Update links
+
+commit 3e0c79fac20f08d5a824a13158863dc35c1326d3
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Thu Aug 13 08:43:38 2015 +0200
+
+    publishing state of "working remotely"
+
+commit 6162256979b9fe51a220a02219c9da715c57ea77
+Merge: 5e1c9f2 86bebd5
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Thu Aug 13 08:34:14 2015 +0200
+
+    Merge branch 'working_remotely'
+    
+    * working_remotely:
+      no image
+      add google map
+      fix post after review :)
+      version 2
+      version 1
+
+commit 86bebd54f4c400124bb8bad06b4effc759659d38
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Aug 8 16:08:48 2015 +0200
+
+    no image
+
+commit 8305ccd7d1095ad81c27f5c2a3f2a049261ac132
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Aug 8 16:05:26 2015 +0200
+
+    add google map
+
+commit bdb87c762b21da9d4f2ad90fe5bce4f864b97228
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Aug 7 18:35:18 2015 +0200
+
+    fix post after review :)
+
+commit 5e1c9f250449357eea9a4d8782ac71ed6716d4ab
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Aug 6 00:07:45 2015 +0200
+
+    update tags and date
+
+commit 8909f34cdfa2b8f5735556d30169e9276f0da99c
+Merge: 2492d8a fef8ce6
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Aug 6 00:01:13 2015 +0200
+
+    Merge branch 'dice-game-part3'
+
+commit b29d6ce82e4e39ae4e2be39147f915db32a35eec
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Aug 5 23:58:30 2015 +0200
+
+    version 2
+
+commit 9a30e1cd19bc7f3997f55e46fdd507190b882256
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Aug 5 23:53:45 2015 +0200
+
+    version 1
+
+commit fef8ce6de9537e8161231683c860edc01d3cf2ef
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Tue Aug 4 12:56:17 2015 +0200
+
+    Language improvements
+
+commit 2492d8a90f64fc7b80f638257e9e04ce55a9c545
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sun Aug 2 09:38:29 2015 +0200
+
+    new tags
+
+commit 548ac05c61ad0cfa369aebec888dca57afc34a71
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Thu Jul 30 00:08:59 2015 +0200
+
+    faster tag cloud generation
+
+commit 71166f82f479ce5d13e12cd575efeffcfc561d47
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Jul 29 22:31:28 2015 +0200
+
+    tags
+
+commit 49ee81d6767a4beaaf5cb60bf79f42fd265fd66d
+Merge: d638c9c 5c6ac1e
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Jul 29 22:24:42 2015 +0200
+
+    Merge branch 'websockets-server-with-akka-http'
+
+commit 5c6ac1eaf43d6a28887db7aed5ace149a839456a
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Wed Jul 29 11:28:50 2015 +0200
+
+    last changes
+    
+    - code fragments moved to gists.
+
+commit 8f3943c6382bb241d5425e9293f2bd1b7080abe7
+Merge: 6cb147f d33d06a
+Author: Mario <marioosh@5dots.pl>
+Date:   Wed Jul 29 10:01:59 2015 +0200
+
+    Merge pull request #68 from ScalaConsultants/websockets-proofreading
+    
+    Proofreading
+
+commit d33d06ac73f6bb4f1c3f91378c2f660077ce3f91
+Author: Maciej Czuchnowski <mczuchnowski@users.noreply.github.com>
+Date:   Tue Jul 28 23:27:01 2015 +0200
+
+    Initial proofreding
+
+commit d638c9c4fd62271e72d0098c3d15355660037b06
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue Jul 28 22:49:34 2015 +0200
+
+    also handle hover
+
+commit fb4be53522a8287eba0d05a4665a6bce8f43923d
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue Jul 28 22:33:14 2015 +0200
+
+    cookies banner
+
+commit a14d5bcd9ec58a39180ffdf1cfd43db69523fbad
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Tue Jul 28 13:35:04 2015 +0200
+
+    Add part 3 cqrs/es dice game post
+
+commit 6cb147ffe8215a201c985897401289fda9d2703c
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Mon Jul 27 14:22:48 2015 +0200
+
+    another rfactor :)
+
+commit 680a17bc9d69e376e5310bf990b865d4b21cdb74
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Fri Jul 24 19:39:44 2015 +0200
+
+    Tag renames
+
+commit 827e9ac24c20e16872a062e31ea5577fe15d37c9
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Fri Jul 24 18:58:31 2015 +0200
+
+    FInishing article.
+    
+    - add summary,
+    - fix few typos.
+
+commit 24229b5238827e6cfc9b72ac9547ada54f6b597e
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Thu Jul 23 18:57:33 2015 +0200
+
+    review changes.
+
+commit 6a036d060260b5f988208d32d842fcba5b40158a
+Merge: 466150f 5a96c4b
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Tue Jul 21 23:51:18 2015 +0200
+
+    Merge branch 'master' into websockets-server-with-akka-http
+    
+    * master:
+      add image reference
+      use gist for slack post
+      fix mistakes
+      add link
+      fix mistakes
+      ScalaC -> scalac
+      slack post almost done - expect gists and images
+      tsug post with link
+      tsug post
+      typos and summary
+      slack part 1
+      lower treshold to 2
+      reduce number of tags on front page, add sorting by tag frequency
+    
+    Conflicts:
+    	feeds/index.xml
+    	feeds/scala.xml
+    	tags/ADD/index.html
+    	tags/API driven development/index.html
+    	tags/API/index.html
+    	tags/Activate/index.html
+    	tags/Akka Persistence/index.html
+    	tags/Akka Streams/index.html
+    	tags/Akka Typed/index.html
+    	tags/Akka/index.html
+    	tags/Algorithms/index.html
+    	tags/Android/index.html
+    	tags/AngularJS/index.html
+    	tags/Apache Kafka/index.html
+    	tags/Architecture/index.html
+    	tags/Artificial Intelligence/index.html
+    	tags/Biotechnology/index.html
+    	tags/CQRS/index.html
+    	tags/Clojure/index.html
+    	tags/ClojureScript/index.html
+    	tags/Code Quality/index.html
+    	tags/Concurrency/index.html
+    	tags/Conferences/index.html
+    	tags/DDD/index.html
+    	tags/DSL/index.html
+    	tags/Databases/index.html
+    	tags/Deep Learning/index.html
+    	tags/DevOps/index.html
+    	tags/Distributed Programming/index.html
+    	tags/Distributed Systems/index.html
+    	tags/Docker/index.html
+    	tags/Domain Driven Development/index.html
+    	tags/Dynamic/index.html
+    	tags/Encog/index.html
+    	tags/Erlang/index.html
+    	tags/Event Sourcing/index.html
+    	tags/Frontend/index.html
+    	tags/Functional Programming/index.html
+    	tags/Galaxy Gear2/index.html
+    	tags/Game development/index.html
+    	tags/Hacking/index.html
+    	tags/Haskell/index.html
+    	tags/Hiring/index.html
+    	tags/IDEA/index.html
+    	tags/Integration tests/index.html
+    	tags/Internet of Things/index.html
+    	tags/Java/index.html
+    	tags/Javascript/index.html
+    	tags/Json/index.html
+    	tags/Lift/index.html
+    	tags/Machine Learning/index.html
+    	tags/Mobile/index.html
+    	tags/MySQL/index.html
+    	tags/Neural Networks/index.html
+    	tags/NoSQL/index.html
+    	tags/NullPointerException/index.html
+    	tags/Optical Character Recognition/index.html
+    	tags/Option/index.html
+    	tags/Performance/index.html
+    	tags/Photo/index.html
+    	tags/Physics/index.html
+    	tags/PostgreSQL/index.html
+    	tags/Process/index.html
+    	tags/Programming/index.html
+    	tags/REST/index.html
+    	tags/RabbitMQ/index.html
+    	tags/Rapture/index.html
+    	tags/Reactive Rabbit/index.html
+    	tags/Reactive Streams/index.html
+    	tags/Robotics/index.html
+    	tags/Robots/index.html
+    	tags/SBT/index.html
+    	tags/SQL/index.html
+    	tags/Samsung/index.html
+    	tags/Scala/index.html
+    	tags/Scalac Weekly Digest/index.html
+    	tags/Security/index.html
+    	tags/Skinny/index.html
+    	tags/Slick/index.html
+    	tags/Soft Skills/index.html
+    	tags/Specs2/index.html
+    	tags/Startups/index.html
+    	tags/Technology/index.html
+    	tags/Testing/index.html
+    	tags/Tizen SDK/index.html
+    	tags/Wearables/index.html
+    	tags/Web Development/index.html
+    	tags/Web app/index.html
+    	tags/Working/index.html
+
+commit 5a96c4bd92c49b29ff623948fc7f63a403496d79
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue Jul 21 13:12:36 2015 +0200
+
+    add image reference
+
+commit 466150fccf5c66b364176ca03e26a44d4a87452e
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Tue Jul 21 11:42:12 2015 +0200
+
+    Flow handler definition and explanation
+
+commit b4c62e51fb45e22e02e199800ecee752360ba8eb
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jul 16 08:26:43 2015 +0200
+
+    use gist for slack post
+
+commit 389844a3b45e28b1ce0473277fd76760481b46a7
+Merge: d5b1590 f1322f7
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jul 16 08:19:21 2015 +0200
+
+    Merge branch 'slack'
+    
+    Conflicts:
+    	feeds/index.xml
+    	feeds/scala.xml
+    	tags/ADD/index.html
+    	tags/API driven development/index.html
+    	tags/API/index.html
+    	tags/Activate/index.html
+    	tags/Akka Persistence/index.html
+    	tags/Akka Streams/index.html
+    	tags/Akka Typed/index.html
+    	tags/Akka/index.html
+    	tags/Algorithms/index.html
+    	tags/Android/index.html
+    	tags/AngularJS/index.html
+    	tags/Apache Kafka/index.html
+    	tags/Architecture/index.html
+    	tags/Artificial Intelligence/index.html
+    	tags/Biotechnology/index.html
+    	tags/CQRS/index.html
+    	tags/Clojure/index.html
+    	tags/ClojureScript/index.html
+    	tags/Code Quality/index.html
+    	tags/Concurrency/index.html
+    	tags/Conferences/index.html
+    	tags/DDD/index.html
+    	tags/DSL/index.html
+    	tags/Databases/index.html
+    	tags/Deep Learning/index.html
+    	tags/DevOps/index.html
+    	tags/Distributed Programming/index.html
+    	tags/Distributed Systems/index.html
+    	tags/Docker/index.html
+    	tags/Domain Driven Development/index.html
+    	tags/Dynamic/index.html
+    	tags/Encog/index.html
+    	tags/Erlang/index.html
+    	tags/Event Sourcing/index.html
+    	tags/Frontend/index.html
+    	tags/Functional Programming/index.html
+    	tags/Galaxy Gear2/index.html
+    	tags/Game development/index.html
+    	tags/Hacking/index.html
+    	tags/Haskell/index.html
+    	tags/Hiring/index.html
+    	tags/IDEA/index.html
+    	tags/Integration tests/index.html
+    	tags/Internet of Things/index.html
+    	tags/Java/index.html
+    	tags/Javascript/index.html
+    	tags/Json/index.html
+    	tags/Lift/index.html
+    	tags/Machine Learning/index.html
+    	tags/Mobile/index.html
+    	tags/MySQL/index.html
+    	tags/Neural Networks/index.html
+    	tags/NoSQL/index.html
+    	tags/NullPointerException/index.html
+    	tags/Optical Character Recognition/index.html
+    	tags/Option/index.html
+    	tags/Performance/index.html
+    	tags/Photo/index.html
+    	tags/Physics/index.html
+    	tags/PostgreSQL/index.html
+    	tags/Process/index.html
+    	tags/Programming/index.html
+    	tags/REST/index.html
+    	tags/RabbitMQ/index.html
+    	tags/Rapture/index.html
+    	tags/Reactive Rabbit/index.html
+    	tags/Reactive Streams/index.html
+    	tags/Robotics/index.html
+    	tags/Robots/index.html
+    	tags/SBT/index.html
+    	tags/SQL/index.html
+    	tags/Samsung/index.html
+    	tags/Scala/index.html
+    	tags/Scalac Weekly Digest/index.html
+    	tags/Security/index.html
+    	tags/Skinny/index.html
+    	tags/Slick/index.html
+    	tags/Soft Skills/index.html
+    	tags/Specs2/index.html
+    	tags/Startups/index.html
+    	tags/Technology/index.html
+    	tags/Testing/index.html
+    	tags/Tizen SDK/index.html
+    	tags/Wearables/index.html
+    	tags/Web Development/index.html
+    	tags/Web app/index.html
+    	tags/Working/index.html
+
+commit d5b15907bab7632df5c2be545f531cccbb08b0bc
+Merge: 925adc8 f04f145
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jul 16 00:02:11 2015 +0200
+
+    Merge branch 'tsug_06'
+    
+    Conflicts:
+    	tags/ADD/index.html
+    	tags/API driven development/index.html
+    	tags/API/index.html
+    	tags/Activate/index.html
+    	tags/Akka Persistence/index.html
+    	tags/Akka Streams/index.html
+    	tags/Akka Typed/index.html
+    	tags/Akka/index.html
+    	tags/Algorithms/index.html
+    	tags/Android/index.html
+    	tags/AngularJS/index.html
+    	tags/Apache Kafka/index.html
+    	tags/Architecture/index.html
+    	tags/Artificial Intelligence/index.html
+    	tags/Biotechnology/index.html
+    	tags/CQRS/index.html
+    	tags/Clojure/index.html
+    	tags/ClojureScript/index.html
+    	tags/Code Quality/index.html
+    	tags/Concurrency/index.html
+    	tags/Conferences/index.html
+    	tags/DDD/index.html
+    	tags/DSL/index.html
+    	tags/Databases/index.html
+    	tags/Deep Learning/index.html
+    	tags/DevOps/index.html
+    	tags/Distributed Programming/index.html
+    	tags/Distributed Systems/index.html
+    	tags/Docker/index.html
+    	tags/Domain Driven Development/index.html
+    	tags/Dynamic/index.html
+    	tags/Encog/index.html
+    	tags/Erlang/index.html
+    	tags/Event Sourcing/index.html
+    	tags/Frontend/index.html
+    	tags/Functional Programming/index.html
+    	tags/Galaxy Gear2/index.html
+    	tags/Game development/index.html
+    	tags/Hacking/index.html
+    	tags/Haskell/index.html
+    	tags/Hiring/index.html
+    	tags/IDEA/index.html
+    	tags/Integration tests/index.html
+    	tags/Internet of Things/index.html
+    	tags/Java/index.html
+    	tags/Javascript/index.html
+    	tags/Json/index.html
+    	tags/Lift/index.html
+    	tags/Machine Learning/index.html
+    	tags/Mobile/index.html
+    	tags/MySQL/index.html
+    	tags/Neural Networks/index.html
+    	tags/NoSQL/index.html
+    	tags/NullPointerException/index.html
+    	tags/Optical Character Recognition/index.html
+    	tags/Option/index.html
+    	tags/Performance/index.html
+    	tags/Photo/index.html
+    	tags/Physics/index.html
+    	tags/PostgreSQL/index.html
+    	tags/Process/index.html
+    	tags/Programming/index.html
+    	tags/REST/index.html
+    	tags/RabbitMQ/index.html
+    	tags/Rapture/index.html
+    	tags/Reactive Rabbit/index.html
+    	tags/Reactive Streams/index.html
+    	tags/Robotics/index.html
+    	tags/Robots/index.html
+    	tags/SBT/index.html
+    	tags/SQL/index.html
+    	tags/Samsung/index.html
+    	tags/Scala/index.html
+    	tags/Scalac Weekly Digest/index.html
+    	tags/Security/index.html
+    	tags/Skinny/index.html
+    	tags/Slick/index.html
+    	tags/Soft Skills/index.html
+    	tags/Specs2/index.html
+    	tags/Startups/index.html
+    	tags/Technology/index.html
+    	tags/Testing/index.html
+    	tags/Tizen SDK/index.html
+    	tags/Wearables/index.html
+    	tags/Web Development/index.html
+    	tags/Web app/index.html
+    	tags/Working/index.html
+
+commit f04f145784b69abebc71fcf00399baa416a7624d
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue Jul 14 21:49:15 2015 +0200
+
+    fix mistakes
+
+commit cf7e546e161ddd7d67885354cfaebc9f806409ca
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue Jul 14 17:56:22 2015 +0200
+
+    add link
+
+commit f1322f732a36a7a39fc3fde53b7f7a589013f10e
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue Jul 14 17:52:16 2015 +0200
+
+    fix mistakes
+
+commit 925adc82e79af5236e07fb85fe1c2dc34bc8a965
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Jul 13 22:01:04 2015 +0200
+
+    ScalaC -> scalac
+
+commit 39bbb8f5c2b0151965316c1f5fd961b4375f212f
+Merge: e667253 9fac730
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Jul 13 21:54:27 2015 +0200
+
+    Merge branch 'tags_improvements'
+
+commit 81b98e22489db6192de5d0e6b958eff9419f526e
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sun Jul 12 17:32:06 2015 +0200
+
+    slack post almost done - expect gists and images
+
+commit c9fa6987e9e21244d70f32ec7d4585f014b79cde
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Sat Jul 11 19:38:37 2015 +0200
+
+    Link to stage repository
+
+commit d2bf2683397e927c44de15974eeced333bf04016
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Sat Jul 11 19:09:08 2015 +0200
+
+    Half of the article about building websocket client.
+
+commit eadfeda7c24ec8ed0c38e371e9308198dffa7f82
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Jul 11 19:06:31 2015 +0200
+
+    tsug post with link
+
+commit 8c828c691c309180954ace68c6c917866ba1688a
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Jul 11 16:50:48 2015 +0200
+
+    tsug post
+
+commit 73264aab0dfe027926a4d0f63d7a1339fb01fc53
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Jul 11 15:06:29 2015 +0200
+
+    typos and summary
+
+commit 67cf9b51cf470a2d491c946f24b0e6297ec9409a
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Jul 11 11:22:37 2015 +0200
+
+    slack part 1
+
+commit 852e7682788bfd79c35c16965b2d2b3164257925
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Fri Jul 10 22:38:15 2015 +0200
+
+    'websockets-server-with-akka-http.md' moved to published state.
+
+commit cc5385c5226d3b9aecadef7abcc2d4b44b310896
+Merge: 2a7d971 e667253
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Fri Jul 10 22:26:23 2015 +0200
+
+    Merge branch 'master' into dev
+    
+    * master:
+      Transactions
+      feeds
+      tags
+    
+    Conflicts:
+    	feeds/index.xml
+    	feeds/scala.xml
+    	tags/ADD/index.html
+    	tags/API driven development/index.html
+    	tags/API/index.html
+    	tags/Activate/index.html
+    	tags/Akka Persistence/index.html
+    	tags/Akka Streams/index.html
+    	tags/Akka Typed/index.html
+    	tags/Akka/index.html
+    	tags/Algorithms/index.html
+    	tags/Android/index.html
+    	tags/AngularJS/index.html
+    	tags/Apache Kafka/index.html
+    	tags/Architecture/index.html
+    	tags/Artificial Intelligence/index.html
+    	tags/Biotechnology/index.html
+    	tags/CQRS/index.html
+    	tags/Clojure/index.html
+    	tags/ClojureScript/index.html
+    	tags/Code Quality/index.html
+    	tags/Concurrency/index.html
+    	tags/Conferences/index.html
+    	tags/DDD/index.html
+    	tags/DSL/index.html
+    	tags/Databases/index.html
+    	tags/Deep Learning/index.html
+    	tags/DevOps/index.html
+    	tags/Distributed Programming/index.html
+    	tags/Distributed Systems/index.html
+    	tags/Docker/index.html
+    	tags/Domain Driven Development/index.html
+    	tags/Dynamic/index.html
+    	tags/Encog/index.html
+    	tags/Erlang/index.html
+    	tags/Event Sourcing/index.html
+    	tags/Frontend/index.html
+    	tags/Functional Programming/index.html
+    	tags/Galaxy Gear2/index.html
+    	tags/Game development/index.html
+    	tags/Hacking/index.html
+    	tags/Haskell/index.html
+    	tags/Hiring/index.html
+    	tags/IDEA/index.html
+    	tags/Integration tests/index.html
+    	tags/Internet of Things/index.html
+    	tags/Java/index.html
+    	tags/Javascript/index.html
+    	tags/Json/index.html
+    	tags/Lift/index.html
+    	tags/Machine Learning/index.html
+    	tags/Mobile/index.html
+    	tags/MySQL/index.html
+    	tags/Neural Networks/index.html
+    	tags/NoSQL/index.html
+    	tags/NullPointerException/index.html
+    	tags/Optical Character Recognition/index.html
+    	tags/Option/index.html
+    	tags/Performance/index.html
+    	tags/Photo/index.html
+    	tags/Physics/index.html
+    	tags/PostgreSQL/index.html
+    	tags/Process/index.html
+    	tags/Programming/index.html
+    	tags/REST/index.html
+    	tags/RabbitMQ/index.html
+    	tags/Rapture/index.html
+    	tags/Reactive Rabbit/index.html
+    	tags/Reactive Streams/index.html
+    	tags/Robotics/index.html
+    	tags/Robots/index.html
+    	tags/SBT/index.html
+    	tags/SQL/index.html
+    	tags/Samsung/index.html
+    	tags/Scala/index.html
+    	tags/Scalac Weekly Digest/index.html
+    	tags/Security/index.html
+    	tags/Skinny/index.html
+    	tags/Slick/index.html
+    	tags/Soft Skills/index.html
+    	tags/Specs2/index.html
+    	tags/Startups/index.html
+    	tags/Technology/index.html
+    	tags/Testing/index.html
+    	tags/Tizen SDK/index.html
+    	tags/Wearables/index.html
+    	tags/Web Development/index.html
+    	tags/Web app/index.html
+    	tags/Working/index.html
+
+commit e667253f90ab0dfec5ac5d50bb0dd38fb7f2cc0d
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jul 9 13:46:23 2015 +0200
+
+    Transactions
+
+commit 933ecb536c29ed3f582a115462cad635b607f184
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jul 9 13:10:37 2015 +0200
+
+    feeds
+
+commit e49c531f29e07c57ecead138e9ab955ad89c8c28
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jul 9 13:10:04 2015 +0200
+
+    tags
+
+commit 2a7d9716766be279fbedf0579b14ac9d6419a717
+Merge: e7dc326 d8773d5
+Author: Radek Tkaczyk <rado.tkaczyk@gmail.com>
+Date:   Thu Jul 9 13:01:13 2015 +0200
+
+    Merge branch 'slick-3-overview' into dev
+
+commit d8773d55b4684d1ced3ec35aaaaa0980701a22b3
+Author: Radek Tkaczyk <rado.tkaczyk@gmail.com>
+Date:   Thu Jul 9 12:57:52 2015 +0200
+
+    date updated
+
+commit c0a24b3a653184bd2541f1c3ab74dacf0a7ea96b
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Jul 8 19:29:50 2015 +0200
+
+    use gists
+
+commit d9210f6cb5f11f5dc974fb44df0fc3fb66adfc6b
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Jul 8 19:16:39 2015 +0200
+
+    update header
+
+commit 78ebd82344bb475f498cc2df4248d05e86789b27
+Author: Radek Tkaczyk <rado.tkaczyk@gmail.com>
+Date:   Thu Jul 9 01:07:55 2015 +0200
+
+    review addressed
+
+commit e7dc3262f167e7474a233882f15d943bf0498876
+Merge: fd32769 f31645a
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jun 25 00:12:13 2015 +0200
+
+    Merge remote-tracking branch 'origin/slick-3-overview' into dev
+    
+    Conflicts:
+    	tags/ADD/index.html
+    	tags/API driven development/index.html
+    	tags/API/index.html
+    	tags/Akka Persistence/index.html
+    	tags/Akka Streams/index.html
+    	tags/Akka Typed/index.html
+    	tags/Akka/index.html
+    	tags/Algorithms/index.html
+    	tags/Android/index.html
+    	tags/AngularJS/index.html
+    	tags/Apache Kafka/index.html
+    	tags/Architecture/index.html
+    	tags/Artificial Intelligence/index.html
+    	tags/Biotechnology/index.html
+    	tags/CQRS/index.html
+    	tags/Clojure/index.html
+    	tags/ClojureScript/index.html
+    	tags/Code Quality/index.html
+    	tags/Concurrency/index.html
+    	tags/Conferences/index.html
+    	tags/DDD/index.html
+    	tags/DSL/index.html
+    	tags/Databases/index.html
+    	tags/Deep Learning/index.html
+    	tags/DevOps/index.html
+    	tags/Distributed Programming/index.html
+    	tags/Distributed Systems/index.html
+    	tags/Docker/index.html
+    	tags/Domain Driven Development/index.html
+    	tags/Dynamic/index.html
+    	tags/Encog/index.html
+    	tags/Erlang/index.html
+    	tags/Event Sourcing/index.html
+    	tags/Frontend/index.html
+    	tags/Functional Programming/index.html
+    	tags/Galaxy Gear2/index.html
+    	tags/Game development/index.html
+    	tags/Hacking/index.html
+    	tags/Haskell/index.html
+    	tags/Hiring/index.html
+    	tags/IDEA/index.html
+    	tags/Integration tests/index.html
+    	tags/Internet of Things/index.html
+    	tags/Java/index.html
+    	tags/Javascript/index.html
+    	tags/Json/index.html
+    	tags/Lift/index.html
+    	tags/Machine Learning/index.html
+    	tags/Mobile/index.html
+    	tags/MySQL/index.html
+    	tags/Neural Networks/index.html
+    	tags/NoSQL/index.html
+    	tags/NullPointerException/index.html
+    	tags/Optical Character Recognition/index.html
+    	tags/Option/index.html
+    	tags/Performance/index.html
+    	tags/Photo/index.html
+    	tags/Physics/index.html
+    	tags/PostgreSQL/index.html
+    	tags/Process/index.html
+    	tags/Programming/index.html
+    	tags/REST/index.html
+    	tags/RabbitMQ/index.html
+    	tags/Rapture/index.html
+    	tags/Reactive Rabbit/index.html
+    	tags/Reactive Streams/index.html
+    	tags/Robotics/index.html
+    	tags/Robots/index.html
+    	tags/SBT/index.html
+    	tags/SQL/index.html
+    	tags/Samsung/index.html
+    	tags/Scala/index.html
+    	tags/Scalac Weekly Digest/index.html
+    	tags/Security/index.html
+    	tags/Skinny/index.html
+    	tags/Slick/index.html
+    	tags/Soft Skills/index.html
+    	tags/Specs2/index.html
+    	tags/Startups/index.html
+    	tags/Technology/index.html
+    	tags/Testing/index.html
+    	tags/Tizen SDK/index.html
+    	tags/Wearables/index.html
+    	tags/Web Development/index.html
+    	tags/Web app/index.html
+    	tags/Working/index.html
+
+commit f31645aa30c1d0af64c4b8ba1f960e2b0f1a36e5
+Author: Radek Tkaczyk <rado.tkaczyk@gmail.com>
+Date:   Wed Jun 24 23:30:44 2015 +0200
+
+    slick-3-overview: first commit
+
+commit 84f322e4dbb9e0336219b1c571d7241227285075
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Jun 19 08:36:38 2015 +0200
+
+    tags
+
+commit 1be4971bec62025ccedd8f15f9e35618c1300834
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jun 18 23:03:38 2015 +0200
+
+    fix mistakes
+
+commit 581d9f4910f6a9ac1857682f70e5d7a0ae292b63
+Merge: a0bc8d5 87bc576
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jun 18 22:36:25 2015 +0200
+
+    Merge branch 'master' into inventory-service-1
+    
+    Conflicts:
+    	feeds/index.xml
+    	feeds/scala.xml
+    	tags/Scala/index.html
+
+commit 87bc57698590ae840e82bf342ce5081ce6d4e296
+Merge: e2f3da4 ce47a1d
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Jun 18 13:03:01 2015 +0200
+
+    Merge pull request #60 from ScalaConsultants/inv_merge_1
+    
+    Inv merge 1
+
+commit ce47a1d30f7857166b07cd07d13b2e5ef61e8c06
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jun 18 13:01:57 2015 +0200
+
+    added tags
+
+commit f96559c3d4043cd35e99e6a84452becf16f17472
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jun 18 12:59:54 2015 +0200
+
+    fix mistakes
+
+commit fd32769d1bce40d07e52f48b3ee4437d6374d867
+Merge: a0bc8d5 5274c3b
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jun 18 10:39:27 2015 +0200
+
+    Merge branch 'inventory-service' into dev
+    
+    Conflicts:
+    	feeds/index.xml
+    	feeds/scala.xml
+    	tags/ADD/index.html
+    	tags/API driven development/index.html
+    	tags/API/index.html
+    	tags/Akka Persistence/index.html
+    	tags/Akka Streams/index.html
+    	tags/Akka Typed/index.html
+    	tags/Akka/index.html
+    	tags/Algorithms/index.html
+    	tags/Android/index.html
+    	tags/AngularJS/index.html
+    	tags/Apache Kafka/index.html
+    	tags/Architecture/index.html
+    	tags/Artificial Intelligence/index.html
+    	tags/Biotechnology/index.html
+    	tags/CQRS/index.html
+    	tags/Clojure/index.html
+    	tags/ClojureScript/index.html
+    	tags/Code Quality/index.html
+    	tags/Concurrency/index.html
+    	tags/Conferences/index.html
+    	tags/DDD/index.html
+    	tags/DSL/index.html
+    	tags/Databases/index.html
+    	tags/Deep Learning/index.html
+    	tags/DevOps/index.html
+    	tags/Distributed Programming/index.html
+    	tags/Distributed Systems/index.html
+    	tags/Docker/index.html
+    	tags/Domain Driven Development/index.html
+    	tags/Dynamic/index.html
+    	tags/Encog/index.html
+    	tags/Erlang/index.html
+    	tags/Event Sourcing/index.html
+    	tags/Frontend/index.html
+    	tags/Functional Programming/index.html
+    	tags/Galaxy Gear2/index.html
+    	tags/Game development/index.html
+    	tags/Hacking/index.html
+    	tags/Haskell/index.html
+    	tags/Hiring/index.html
+    	tags/IDEA/index.html
+    	tags/Integration tests/index.html
+    	tags/Internet of Things/index.html
+    	tags/Java/index.html
+    	tags/Javascript/index.html
+    	tags/Json/index.html
+    	tags/Lift/index.html
+    	tags/Machine Learning/index.html
+    	tags/Mobile/index.html
+    	tags/MySQL/index.html
+    	tags/Neural Networks/index.html
+    	tags/NoSQL/index.html
+    	tags/NullPointerException/index.html
+    	tags/Optical Character Recognition/index.html
+    	tags/Option/index.html
+    	tags/Performance/index.html
+    	tags/Photo/index.html
+    	tags/Physics/index.html
+    	tags/PostgreSQL/index.html
+    	tags/Process/index.html
+    	tags/Programming/index.html
+    	tags/REST/index.html
+    	tags/RabbitMQ/index.html
+    	tags/Rapture/index.html
+    	tags/Reactive Rabbit/index.html
+    	tags/Reactive Streams/index.html
+    	tags/Robotics/index.html
+    	tags/Robots/index.html
+    	tags/SBT/index.html
+    	tags/SQL/index.html
+    	tags/Samsung/index.html
+    	tags/Scala/index.html
+    	tags/Scalac Weekly Digest/index.html
+    	tags/Security/index.html
+    	tags/Skinny/index.html
+    	tags/Slick/index.html
+    	tags/Soft Skills/index.html
+    	tags/Specs2/index.html
+    	tags/Startups/index.html
+    	tags/Technology/index.html
+    	tags/Testing/index.html
+    	tags/Tizen SDK/index.html
+    	tags/Wearables/index.html
+    	tags/Web Development/index.html
+    	tags/Web app/index.html
+    	tags/Working/index.html
+
+commit a0bc8d5c58fd970c5fccac661140f3b814d96945
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jun 18 10:16:32 2015 +0200
+
+    PR remarks
+
+commit c393c1f83f4b995a23b5ebba5ca8e21af3efcf9a
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jun 18 08:32:06 2015 +0200
+
+    get sh*t done
+
+commit 5274c3b9318c256f6b5e5eb3951e22877aa0fced
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Jun 17 23:05:40 2015 +0200
+
+    small fix
+
+commit b59735b8149181b03b2f8b2c58a6b67fe7d17f4d
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Jun 17 18:07:34 2015 +0200
+
+    wip
+
+commit 9fac7309cc552ce2e91727495e4103732bf3602f
+Author: jedi <adam.smolarek@scalac.io>
+Date:   Wed Jun 17 10:41:59 2015 +0200
+
+    lower treshold to 2
+
+commit 357233199a5e7fcd6a672dbdfbf12906ba076e02
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue Jun 16 22:48:40 2015 +0200
+
+    inventory app part 0
+
+commit cd2caea463df8261b04f42484ecb8133e59a480e
+Author: jedi <adam.smolarek@scalac.io>
+Date:   Tue Jun 16 16:17:56 2015 +0200
+
+    reduce number of tags on front page, add sorting by tag frequency
+
+commit e2f3da437c66212976ce678011cb1ee64746f77b
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jun 11 10:20:05 2015 +0200
+
+    remove feed link - too soon; add/update tags
+
+commit ea7be69b8c761b48abd3b9e98d34b64cc81b3dcf
+Merge: 766300a cc47b48
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jun 11 10:15:41 2015 +0200
+
+    Merge branch 'dice-game-part2'
+
+commit cc47b4878f6876ceb98b34c009b08aa30e412196
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Thu Jun 11 00:19:18 2015 +0200
+
+    CQRS/ES part2 post improvements
+
+commit 766300a627f9ad9fed8aaf12e713be37493e1d4d
+Merge: f7ead1f 1678d71
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Jun 9 00:06:53 2015 +0200
+
+    Merge pull request #55 from ScalaConsultants/dealing-with-npe
+    
+    Dealing with npe
+
+commit 1678d71dc4c6122dc936e85403448b5d57f65642
+Merge: 27055b4 f7ead1f
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue Jun 9 00:06:37 2015 +0200
+
+    Merge branch 'master' into dealing-with-npe
+    
+    Conflicts:
+    	_posts/2015-06-01-dealing-with-npe.md
+
+commit f22910b305c8a25305968adb0cbb6fca30d619b9
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Mon Jun 8 19:34:23 2015 +0200
+
+    cqrs/es game post part 2
+
+commit 27055b4a1de1f95f72d6f552903b9478266205d8
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Mon Jun 8 12:57:20 2015 +0300
+
+    notes - thanks for feedback
+
+commit 51d8a30e6b0c4839d65452e6b0d9f2ab49e66201
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Mon Jun 8 12:47:39 2015 +0300
+
+    typos and notes
+
+commit 9f8161f2b85cf65d9cf9893e083fd25234baa25b
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Mon Jun 8 12:45:54 2015 +0300
+
+    typos and notes
+
+commit f7ead1f2fbabc9edb0ca3ed13177ebb807aa529b
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jun 4 09:35:43 2015 +0200
+
+    fix header
+
+commit 17512f6189abb84b6e65e71698bfa282f6488f1e
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jun 4 09:33:50 2015 +0200
+
+    fix tags
+
+commit 97a9c0a36c57723b6b0f22a5b2c95d05b2e2c48d
+Merge: 1d267fd 592bcd4
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jun 4 09:30:12 2015 +0200
+
+    Merge branch 'dealing-with-npe'
+
+commit 6c74a9514ae26c6f6738c70f3a2402eedef2528b
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Wed Jun 3 20:58:11 2015 +0300
+
+    links
+
+commit 1d267fdad307b48e3a63b5f4a768eceb424ac13a
+Merge: 8ce3553 c18c406
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Jun 3 09:57:45 2015 +0200
+
+    Merge pull request #51 from ScalaConsultants/tags
+    
+    Improvements
+
+commit c18c4061e870d33d66d17280d747909f535b14cf
+Merge: 02afdc9 8ce3553
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Jun 3 09:56:09 2015 +0200
+
+    Merge branch 'master' into tags
+
+commit 02afdc91e9eede66c421e4bb13fd696ab61d7fc3
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Wed Jun 3 08:31:25 2015 +0200
+
+    small feed fix.
+    
+    - escaped amperstand sing in the post title.
+
+commit 539bddee20314c5602d60b00e9abc5f0bc0d4c94
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Wed Jun 3 00:39:06 2015 +0300
+
+    adjusting to Patryk's comments
+
+commit 592bcd4048a46012e0b6e74c0f2c647ce7c01152
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Wed Jun 3 00:41:59 2015 +0300
+
+    adjusting to Patryk's comments
+
+commit bb7759e6d2261dd1e61eb6d8e1ea57a66d60c7c9
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Wed Jun 3 00:39:06 2015 +0300
+
+    adjusting to Patryk's comments
+
+commit 8ce3553514cf500c48639537e133f12b16c7a31e
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue Jun 2 23:02:38 2015 +0200
+
+    stupid mistake
+
+commit 695007c418baf22ec8cbea4102f9f90519bebcd9
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Tue Jun 2 20:37:58 2015 +0200
+
+    Support for multiple feed groups and regenerate tags without feed links.
+
+commit a6badf3ef8586644a237ad79a475d2b00a3c1e5e
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Tue Jun 2 20:27:59 2015 +0200
+
+    Disable clojure and scala feeds from header.
+
+commit 624077de6ab840c2859f6746274f7fcf0e2850de
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Tue Jun 2 20:25:32 2015 +0200
+
+    Build task as dependency of Preview Task
+
+commit 92c710560145506595a80689ea55c7a830302804
+Merge: 08a2d19 3b26392
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Tue Jun 2 20:11:45 2015 +0200
+
+    Merge branch 'master' into tags
+    
+    * master:
+      fix scala tag
+    
+    Conflicts:
+    	tags/Json/index.html
+    	tags/Rapture/index.html
+    	tags/Scala/index.html
+
+commit d32c8cb83ca3fc2447bf65c04c9cf8e16e93b056
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Tue Jun 2 16:43:11 2015 +0300
+
+    fixes and adjustments to review
+
+commit 43af35e07175ed4d69ce79e4a0eef519cc4b238c
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Mon Jun 1 15:53:02 2015 +0300
+
+    gists
+
+commit 6caf6c8158492c35a356a2b97dfd0700122510af
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Mon Jun 1 15:22:54 2015 +0300
+
+    comment
+
+commit b1ed4b129e425a8c34d3853628e75bf7a25075c3
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Mon Jun 1 15:19:59 2015 +0300
+
+    formatting
+
+commit 0b0ca1cbb03566d73ad1025501e4d03a5bcfd8f1
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Sun May 31 23:48:22 2015 +0300
+
+    small fixes
+
+commit ff5ca1b1fd76aba503bac5a67c73d08861f066dd
+Author: Tomasz Perek <tperek@arazoo.com>
+Date:   Sun May 31 03:03:27 2015 +0300
+
+    first draft of npe post
+
+commit 3b26392c9b9161393f956f9945ebbc715830d5d8
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu May 28 10:17:26 2015 +0200
+
+    fix scala tag
+
+commit 08a2d1973cffe4fbdb9b0236741576fb5c974616
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Thu May 28 09:43:50 2015 +0200
+
+    page rebuilt with new post
+
+commit 6158ff6b4293c594917c9064c7fcd8a958b2ef1d
+Merge: 4ca032c 5e8bb76
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Thu May 28 09:36:11 2015 +0200
+
+    Merge branch 'master' into tags
+    
+    * master:
+      gist links
+      Tags for scala-modes
+      improvements for Szabba
+      modes post corrected
+      add links also to code
+      mostly done
+    
+    Conflicts:
+    	tags/ADD/index.html
+    	tags/API driven development/index.html
+    	tags/API/index.html
+    	tags/Akka Persistence/index.html
+    	tags/Akka Streams/index.html
+    	tags/Akka Typed/index.html
+    	tags/Akka/index.html
+    	tags/Algorithms/index.html
+    	tags/Android/index.html
+    	tags/Apache Kafka/index.html
+    	tags/Architecture/index.html
+    	tags/Artificial Intelligence/index.html
+    	tags/Biotechnology/index.html
+    	tags/CQRS/index.html
+    	tags/Clojure/index.html
+    	tags/ClojureScript/index.html
+    	tags/Code Quality/index.html
+    	tags/Concurrency/index.html
+    	tags/Conferences/index.html
+    	tags/DDD/index.html
+    	tags/DSL/index.html
+    	tags/Databases/index.html
+    	tags/Deep Learning/index.html
+    	tags/DevOps/index.html
+    	tags/Distributed Programming/index.html
+    	tags/Distributed Systems/index.html
+    	tags/Docker/index.html
+    	tags/Domain Driven Development/index.html
+    	tags/Dynamic/index.html
+    	tags/Encog/index.html
+    	tags/Erlang/index.html
+    	tags/Event Sourcing/index.html
+    	tags/Frontend/index.html
+    	tags/Functional Programming/index.html
+    	tags/Galaxy Gear2/index.html
+    	tags/Game development/index.html
+    	tags/Hacking/index.html
+    	tags/Hiring/index.html
+    	tags/IDEA/index.html
+    	tags/Integration tests/index.html
+    	tags/Internet of Things/index.html
+    	tags/Java/index.html
+    	tags/Javascript/index.html
+    	tags/Lift/index.html
+    	tags/Machine Learning/index.html
+    	tags/Mobile/index.html
+    	tags/MySQL/index.html
+    	tags/Neural Networks/index.html
+    	tags/NoSQL/index.html
+    	tags/Optical Character Recognition/index.html
+    	tags/Performance/index.html
+    	tags/Photo/index.html
+    	tags/Physics/index.html
+    	tags/PostgreSQL/index.html
+    	tags/Process/index.html
+    	tags/Programming/index.html
+    	tags/REST/index.html
+    	tags/RabbitMQ/index.html
+    	tags/Reactive Rabbit/index.html
+    	tags/Reactive Streams/index.html
+    	tags/Robotics/index.html
+    	tags/Robots/index.html
+    	tags/SBT/index.html
+    	tags/SQL/index.html
+    	tags/Samsung/index.html
+    	tags/Scala/index.html
+    	tags/Scalac Weekly Digest/index.html
+    	tags/Security/index.html
+    	tags/Skinny/index.html
+    	tags/Slick/index.html
+    	tags/Soft Skills/index.html
+    	tags/Specs2/index.html
+    	tags/Startups/index.html
+    	tags/Technology/index.html
+    	tags/Testing/index.html
+    	tags/Tizen SDK/index.html
+    	tags/Wearables/index.html
+    	tags/Web Development/index.html
+    	tags/Web app/index.html
+    	tags/Working/index.html
+
+commit 4ca032cc90e07166de74f10cc78ba0663aa9d2b9
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Thu May 28 09:08:22 2015 +0200
+
+    add tag, while publishing changes.
+
+commit 7175f06324f9fec6f51a952ef2ea1b37afb6f39c
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Thu May 28 08:59:21 2015 +0200
+
+    publish article and push to repository, rakefile
+
+commit 5e8bb76454c5f8163789a3f78423763eb4b7d2ba
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu May 28 08:12:27 2015 +0200
+
+    gist links
+
+commit a81d0b3f831c120225d962bb027307d8b90e7996
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu May 28 08:04:09 2015 +0200
+
+    Tags for scala-modes
+
+commit f7e33248673e28322f464abd4fc8e80ae96a33a4
+Merge: 856a8d5 4f60313
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu May 28 08:04:00 2015 +0200
+
+    Merge branch 'scala-modes'
+
+commit e6c84da95c1ed5858a6fd641f25c979053f1370f
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Wed May 27 22:13:14 2015 +0200
+
+    rake file with basic tasks
+    
+    - create draft
+    - publish draft
+    - clean site
+    - build site
+    - copy generated tags and feeds folders
+
+commit 7e16113f3b7117073fd761360d07c977fe8ca530
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Wed May 27 18:30:14 2015 +0200
+
+    remove warning while building site with 'layout: nil' property
+    
+    Removed `nil` to clear the message, without change on effect.
+
+commit 94cc16dbbcc718cc6c192698802687900e2e8151
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Wed May 27 18:26:54 2015 +0200
+
+    generate feeds files.
+
+commit 8b404ccc23cce4170dc94eec7ac116d3d472dd9c
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Wed May 27 18:20:01 2015 +0200
+
+    rename feed to feed_group because of name conflict
+
+commit 58d9974f4f74ee53319a18fe3026716dacd0f94c
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Wed May 27 14:28:21 2015 +0200
+
+    add feed property to the newest post
+
+commit 60ec18373de4aff393be5b9cb86b02cb4cac0607
+Merge: c16ef29 856a8d5
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Wed May 27 14:25:42 2015 +0200
+
+    Merge branch 'master' into tags
+    
+    * master:
+      dynamic-member-lookup rebuild site
+      add keywords and description
+      post publication change
+      Ignore IntelliJ config files
+      fix after Leszek's review
+      chanes after Marek Tomas' review
+      moved code to gists
+      Reedit some text.
+      described relation to postfixOps
+      change title and file name.
+      Add post about dynamic trait
+      Make shell scripts executable, fix with date
+    
+    Conflicts:
+    	tags/ADD/index.html
+    	tags/API driven development/index.html
+    	tags/API/index.html
+    	tags/Akka Persistence/index.html
+    	tags/Akka Streams/index.html
+    	tags/Akka Typed/index.html
+    	tags/Akka/index.html
+    	tags/Algorithms/index.html
+    	tags/Android/index.html
+    	tags/Apache Kafka/index.html
+    	tags/Architecture/index.html
+    	tags/Artificial Intelligence/index.html
+    	tags/Biotechnology/index.html
+    	tags/CQRS/index.html
+    	tags/Clojure/index.html
+    	tags/ClojureScript/index.html
+    	tags/Code Quality/index.html
+    	tags/Concurrency/index.html
+    	tags/Conferences/index.html
+    	tags/DDD/index.html
+    	tags/DSL/index.html
+    	tags/Databases/index.html
+    	tags/Deep Learning/index.html
+    	tags/DevOps/index.html
+    	tags/Distributed Programming/index.html
+    	tags/Distributed Systems/index.html
+    	tags/Docker/index.html
+    	tags/Domain Driven Development/index.html
+    	tags/Encog/index.html
+    	tags/Erlang/index.html
+    	tags/Event Sourcing/index.html
+    	tags/Frontend/index.html
+    	tags/Functional Programming/index.html
+    	tags/Galaxy Gear2/index.html
+    	tags/Game development/index.html
+    	tags/Hacking/index.html
+    	tags/Hiring/index.html
+    	tags/IDEA/index.html
+    	tags/Integration tests/index.html
+    	tags/Internet of Things/index.html
+    	tags/Java/index.html
+    	tags/Javascript/index.html
+    	tags/Lift/index.html
+    	tags/Machine Learning/index.html
+    	tags/Mobile/index.html
+    	tags/MySQL/index.html
+    	tags/Neural Networks/index.html
+    	tags/NoSQL/index.html
+    	tags/Optical Character Recognition/index.html
+    	tags/Performance/index.html
+    	tags/Photo/index.html
+    	tags/Physics/index.html
+    	tags/PostgreSQL/index.html
+    	tags/Process/index.html
+    	tags/Programming/index.html
+    	tags/REST/index.html
+    	tags/RabbitMQ/index.html
+    	tags/Reactive Rabbit/index.html
+    	tags/Reactive Streams/index.html
+    	tags/Robotics/index.html
+    	tags/Robots/index.html
+    	tags/SBT/index.html
+    	tags/SQL/index.html
+    	tags/Samsung/index.html
+    	tags/Scala/index.html
+    	tags/Scalac Weekly Digest/index.html
+    	tags/Security/index.html
+    	tags/Skinny/index.html
+    	tags/Slick/index.html
+    	tags/Soft Skills/index.html
+    	tags/Specs2/index.html
+    	tags/Startups/index.html
+    	tags/Technology/index.html
+    	tags/Testing/index.html
+    	tags/Tizen SDK/index.html
+    	tags/Wearables/index.html
+    	tags/Web Development/index.html
+    	tags/Web app/index.html
+    	tags/Working/index.html
+
+commit c16ef297e9c025133e187d8c3a887be26a7da408
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Wed May 27 14:19:29 2015 +0200
+
+    add feed property to posts
+
+commit 42271ee71d01740b66dc51e9575ec9e92cb7d09b
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Wed May 27 14:19:17 2015 +0200
+
+    add atom RSS for all posts
+
+commit 1209d439074117a1b037ba02790be200aef8e8c5
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Wed May 27 11:31:46 2015 +0200
+
+    archives page
+
+commit a82314ba97b7cc269c24b8deda4f439fda7594ee
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Wed May 27 11:12:54 2015 +0200
+
+    refactored tags sidebar generation
+
+commit 25737db11c610932dbfc22342cda2d679d48b493
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Wed May 27 10:58:16 2015 +0200
+
+    SEO Robots helpers
+    
+    - sitemap.xml
+    - robots.txt
+
+commit 4f603134e4253a443d8ea77cf8e2663366a49f88
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue May 26 23:51:01 2015 +0200
+
+    improvements for Szabba
+
+commit 5e6e6128bc2ee63baef8366bc9545cc9f79aebc6
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Tue May 26 23:36:05 2015 +0200
+
+    refactored tags generation
+    
+    - speed up process by 1second,
+    - smaller files
+    
+    Conflicts:
+    	tags/ADD/index.html
+    	tags/API driven development/index.html
+    	tags/API/index.html
+    	tags/Akka Persistence/index.html
+    	tags/Akka Streams/index.html
+    	tags/Akka Typed/index.html
+    	tags/Akka/index.html
+    	tags/Algorithms/index.html
+    	tags/Android/index.html
+    	tags/Apache Kafka/index.html
+    	tags/Architecture/index.html
+    	tags/Artificial Intelligence/index.html
+    	tags/Biotechnology/index.html
+    	tags/CQRS/index.html
+    	tags/Clojure/index.html
+    	tags/ClojureScript/index.html
+    	tags/Code Quality/index.html
+    	tags/Concurrency/index.html
+    	tags/Conferences/index.html
+    	tags/DDD/index.html
+    	tags/DSL/index.html
+    	tags/Databases/index.html
+    	tags/Deep Learning/index.html
+    	tags/DevOps/index.html
+    	tags/Distributed Programming/index.html
+    	tags/Distributed Systems/index.html
+    	tags/Docker/index.html
+    	tags/Domain Driven Development/index.html
+    	tags/Dynamic/index.html
+    	tags/Encog/index.html
+    	tags/Erlang/index.html
+    	tags/Event Sourcing/index.html
+    	tags/Frontend/index.html
+    	tags/Functional Programming/index.html
+    	tags/Galaxy Gear2/index.html
+    	tags/Game development/index.html
+    	tags/Hacking/index.html
+    	tags/Hiring/index.html
+    	tags/IDEA/index.html
+    	tags/Integration tests/index.html
+    	tags/Internet of Things/index.html
+    	tags/Java/index.html
+    	tags/Javascript/index.html
+    	tags/Lift/index.html
+    	tags/Machine Learning/index.html
+    	tags/Mobile/index.html
+    	tags/MySQL/index.html
+    	tags/Neural Networks/index.html
+    	tags/NoSQL/index.html
+    	tags/Optical Character Recognition/index.html
+    	tags/Performance/index.html
+    	tags/Photo/index.html
+    	tags/Physics/index.html
+    	tags/PostgreSQL/index.html
+    	tags/Process/index.html
+    	tags/Programming/index.html
+    	tags/REST/index.html
+    	tags/RabbitMQ/index.html
+    	tags/Reactive Rabbit/index.html
+    	tags/Reactive Streams/index.html
+    	tags/Robotics/index.html
+    	tags/Robots/index.html
+    	tags/SBT/index.html
+    	tags/SQL/index.html
+    	tags/Samsung/index.html
+    	tags/Scala/index.html
+    	tags/Scalac Weekly Digest/index.html
+    	tags/Security/index.html
+    	tags/Skinny/index.html
+    	tags/Slick/index.html
+    	tags/Soft Skills/index.html
+    	tags/Specs2/index.html
+    	tags/Startups/index.html
+    	tags/Technology/index.html
+    	tags/Testing/index.html
+    	tags/Tizen SDK/index.html
+    	tags/Wearables/index.html
+    	tags/Web Development/index.html
+    	tags/Web app/index.html
+    	tags/Working/index.html
+
+commit d5ef892f82a91ff46aa26fbfa8df5707f8b6270e
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Tue May 26 23:37:52 2015 +0200
+
+    remove uneccesary file
+
+commit ba736542cf77a9ea5fe4b0f848f386a9a361bc5f
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sun May 24 17:45:51 2015 +0200
+
+    modes post corrected
+
+commit 204368c8912a9c1e53bdf8742f31bcfaf5d5daf3
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu May 21 21:44:05 2015 +0200
+
+    add links also to code
+
+commit ef49103f9559eb43eb0f2b9bfb2331ee88117194
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu May 21 19:42:21 2015 +0200
+
+    mostly done
+
+commit 856a8d5e534820856c97ead2caa33e945d891dca
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Thu May 21 09:27:18 2015 +0200
+
+    dynamic-member-lookup rebuild site
+
+commit 8bd4e9c3ba15dc7d901324ecd56c11b209b088f6
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Wed May 20 09:45:46 2015 +0200
+
+    add keywords and description
+
+commit fa7b4b5846f552aff0be123a6c1e2be1d27fddd3
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Wed May 20 09:39:09 2015 +0200
+
+    post publication change
+
+commit ba29e570aef15f042c0ede9af9c39daba6978d7c
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Tue May 19 22:49:01 2015 +0200
+
+    Ignore IntelliJ config files
+
+commit 3b9c53cb938049e7e77c9090a552bd25e15a7948
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Tue May 19 22:49:30 2015 +0200
+
+    add more exceluded files from build
+
+commit 64f6e8aa39aa051b5d740323e2be1e456b9d5d87
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Tue May 19 22:49:01 2015 +0200
+
+    Ignore IntelliJ config files
+
+commit cbefe100f56cd9652ecd0cccdac76a3de091c3df
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Tue May 19 15:58:36 2015 +0200
+
+    fix after Leszek's review
+
+commit 40f7fd1b7123ea6e8e5c9a5c1d06f73201023518
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Tue May 19 09:36:13 2015 +0200
+
+    chanes after Marek Tomas' review
+
+commit f2d9357f5716c4b70ea4ebdb8903bdc5a5ca0bb6
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Mon May 18 21:36:01 2015 +0200
+
+    moved code to gists
+
+commit acfb70d4b34f3cbfb0fc1198a271b2e6cab9effe
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Mon May 18 21:05:55 2015 +0200
+
+    Reedit some text.
+
+commit 0ba8b50129aee7e45b64b88d9faf65a1191ee39e
+Merge: 7402e9a 18ae408
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Mon May 18 21:01:51 2015 +0200
+
+    Merge branch 'master' into dynamic-programming-with-scala
+    
+    * master:
+      rework codes for ES and Specs2
+      make cljs post prettry
+      Skinny code reworked
+      tooltips and proper tag link on main page.
+      reworked Akka Typed
+      fix tag format on main page
+      use gist?
+      SEO, SEM fixes
+      rename file names to proper format
+
+commit 18ae4089c494596019e21231a50a1a4bb41c94ea
+Merge: 5361552 e791ef4
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri May 15 17:04:48 2015 +0200
+
+    Merge pull request #48 from ScalaConsultants/cleanings
+    
+    Cleanings
+
+commit 53615528360b218fba0fc004602b3d3c95b0d0db
+Merge: fc6b531 ec54d91
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri May 15 14:30:37 2015 +0200
+
+    Merge pull request #49 from ScalaConsultants/pretty_code_2
+    
+    rework codes for ES and Specs2
+
+commit ec54d91d2a1e176b62f8663f1fe045eef675e035
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri May 15 13:52:43 2015 +0200
+
+    rework codes for ES and Specs2
+
+commit fc6b53124d683086783a2e36687c805eafa79d5f
+Merge: 0f347e0 193c3b8
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu May 14 21:51:04 2015 +0200
+
+    Merge pull request #47 from ScalaConsultants/pretty_code
+    
+    pretty code
+
+commit 193c3b836bc4e60c8227cb8893947bd43887786d
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu May 14 21:04:29 2015 +0200
+
+    make cljs post prettry
+
+commit 38c2d992f7006e15cd483bd1a6735b16a1ae58bd
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed May 13 22:01:39 2015 +0200
+
+    Skinny code reworked
+
+commit e791ef403c0b5d31485c9962404e55cd19b606d0
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Wed May 13 21:11:42 2015 +0200
+
+    tooltips and proper tag link on main page.
+
+commit d521c64d10e54ab06deb3791fd3fba87005dd197
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed May 13 20:40:46 2015 +0200
+
+    reworked Akka Typed
+
+commit df87c919f73c02fbe8275ae1d1c19b80c44b2d42
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Wed May 13 20:38:08 2015 +0200
+
+    fix tag format on main page
+
+commit 683c106a39158e88baccb97f78aafb5792e858c3
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue May 12 23:55:11 2015 +0200
+
+    use gist?
+
+commit 7402e9ad5133336aa697e5765ca093f9f41ad6b1
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Tue May 12 23:16:52 2015 +0200
+
+    described relation to postfixOps
+
+commit 0f347e0bcdaf7a85537e6c851516028c8148df4a
+Merge: 1c37a57 365972f
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue May 12 22:48:13 2015 +0200
+
+    Merge pull request #45 from ScalaConsultants/cleanings
+    
+    Cleanings
+
+commit 9dc5b0245375606308dbfe1793198731dcb3aa14
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Tue May 12 22:40:41 2015 +0200
+
+    change title and file name.
+
+commit 605283f5e22bc2df94007118346229586592dcdf
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Sun May 10 11:13:02 2015 +0200
+
+    Add post about dynamic trait
+
+commit 14d70c85c8fd7fe1b23d00694556dc4f55af03ca
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Sun May 10 10:00:50 2015 +0200
+
+    Make shell scripts executable, fix with date
+
+commit 365972fd5774c2638d84d960144843cf30987bf1
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Sat May 9 23:27:42 2015 +0200
+
+    SEO, SEM fixes
+    
+    * Add 'alt' and 'title' to logo image,
+    * changed 'tooltip' syntax into Bootstrap 3 compatible
+    * copied missing jquery map file into proper folder
+    * fixed tags url generated by jekyll
+
+commit 014320fc2db8de5f4c356689bc8784921cf932b3
+Author: Mariusz Nosiński <marioosh@5dots.pl>
+Date:   Sat May 9 22:04:26 2015 +0200
+
+    rename file names to proper format
+
+commit 1c37a571e79964cc12d558620a2e0f08f0ed2a62
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu May 7 08:19:45 2015 +0200
+
+    Tags for encog-dsl
+
+commit d24b7c34c7fa6d39361cc1c972dd68efaa4f7dd3
+Merge: ec4823c e8baba6
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu May 7 08:19:36 2015 +0200
+
+    Merge branch 'encog-dsl'
+
+commit e8baba6e65f9e5baf9fbe5080496f944ac71d185
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu May 7 08:18:08 2015 +0200
+
+    fix typos
+
+commit 8ec2fefa1fef026a5c91045974c767f95eb8e786
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed May 6 21:03:49 2015 +0200
+
+    fix spelling and other mistakes
+
+commit 1cf53840403ef3e9b55026f3a68587a9748909f8
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue May 5 00:17:09 2015 +0200
+
+    encog dsl post
+
+commit ec4823cb632689181e968675190e1672a98b5d9b
+Author: Leszek Gruchała <leszek@gruchala.eu>
+Date:   Thu Apr 30 08:39:33 2015 +0200
+
+    Tags for leszek-akka-typed
+
+commit d1eda3d3a07c1d2bb6353fa71f7346a486dcbb8e
+Author: Leszek Gruchała <leszek@gruchala.eu>
+Date:   Thu Apr 30 08:39:09 2015 +0200
+
+    Fixed typo
+
+commit def19cfa3138e2acf6f20b75822d9730211fe56a
+Author: Leszek Gruchała <leszek@gruchala.eu>
+Date:   Thu Apr 30 08:24:56 2015 +0200
+
+    Wordings corrections
+
+commit be1e624b6e8cca1aad038e8d5c3b059dd753a15d
+Author: Leszek Gruchała <leszek@gruchala.eu>
+Date:   Thu Apr 30 08:19:15 2015 +0200
+
+    Updated date
+
+commit 4972bb1583d1a6fb17687fbf0a89e1bb10c5606f
+Author: Leszek Gruchała <leszek@gruchala.eu>
+Date:   Thu Apr 30 08:17:07 2015 +0200
+
+    Updated tags, added slug
+
+commit 2006b1efcbfdfbb9a01771b24f66cad1612f2bf8
+Author: Leszek Gruchała <leszek@gruchala.eu>
+Date:   Wed Apr 29 10:53:31 2015 +0200
+
+    Small correction
+
+commit 75be91bd31a674b6c18d780da4767ff4833dcc92
+Author: Leszek Gruchała <leszek@gruchala.eu>
+Date:   Wed Apr 29 10:42:32 2015 +0200
+
+    Updated after review, added Receptionist description
+
+commit 78d00e43377d3a730974506bb6d475637329115e
+Author: Leszek Gruchała <leszek@gruchala.eu>
+Date:   Fri Apr 24 07:44:37 2015 +0200
+
+    First draft of Akka Typed post
+
+commit 68dea31e71b31e93ed45db8cad192e4241beca75
+Author: Adam Nadoba <anadoba@windowslive.com>
+Date:   Thu Apr 23 09:06:20 2015 +0200
+
+    minor clojurescript-reactjs-reagent html tags fix
+
+commit a04a8335b3292facc2da2900086eddbe90b118bb
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Apr 22 21:24:07 2015 +0200
+
+    Tags for quick-poll
+
+commit 51ccb36789725f9606f50eb765c969cadb78b60c
+Merge: ee4e770 692840c
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Apr 22 21:23:58 2015 +0200
+
+    Merge branch 'quick-poll'
+
+commit 692840cedc1360698ec77f2607e5fc39d3000d49
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Apr 22 19:02:49 2015 +0200
+
+    add GH links
+
+commit a5e36a3e670388ec46e16803eea90a07c208646e
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Apr 22 18:37:25 2015 +0200
+
+    PR remarks
+
+commit ee4e770a085d3434f884315f8070344b66894dc9
+Merge: ed400c4 51b2535
+Author: Marek Tomas <marek.tomas@scalac.io>
+Date:   Tue Apr 21 18:26:26 2015 +0200
+
+    Merge branch 'master' of https://github.com/ScalaConsultants/ScalaConsultants.github.io
+
+commit ed400c40f46483a68da02f44a548f0edd153eaf3
+Author: Marek Tomas <marek.tomas@scalac.io>
+Date:   Tue Apr 21 18:26:09 2015 +0200
+
+    fixed err in react+clojurescript post caused by syntax error in jsx sample highlighted code - jekyll does not support jsx highlight yet, falling back to js syntax highlighting and removing error styles
+
+commit 64b278586d12b9d23325ff00da0f3beecbbff7c9
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Apr 21 09:34:59 2015 +0200
+
+    Update 15-04-2015-quick-poll.md
+
+commit 0dc4c20c5887fefb7ed23049dbffd8195d81c6ae
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Apr 15 23:43:43 2015 +0200
+
+    fix mistakes
+
+commit 669f63a8677b30c11f56d4f69eb4aedf010ffd61
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Apr 15 23:39:34 2015 +0200
+
+    more quick poll text
+
+commit 33a4f1ea594abf6da9b326a24e48f6a7b03667ec
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Apr 15 18:30:03 2015 +0200
+
+    first draft
+
+commit 51b25354aae2625f7f6feeb7babb7b07967bf66e
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Apr 9 18:43:00 2015 +0200
+
+    javaScript -> javascript
+
+commit c38587ea0b58ff85072a8263e9e9c33bf90de17a
+Author: Marek Tomas <marek.tomas@getnetworker.com>
+Date:   Thu Apr 9 18:26:03 2015 +0200
+
+    Tags for react-clojurescript
+
+commit 9ef7e588272ebb766a9fb992f2623c9914a23f9b
+Merge: 0466e93 053f473
+Author: Marek Tomas <marek.tomas@getnetworker.com>
+Date:   Thu Apr 9 18:25:43 2015 +0200
+
+    Merge branch 'react-clojurescript'
+
+commit 053f4730bea01eade2c0c94c85e7addf478ec1b3
+Author: Marek Tomas <marek.tomas@getnetworker.com>
+Date:   Tue Apr 7 01:41:20 2015 +0200
+
+     second batch of comments addressed, refined portions of article, should be ready to publish.
+
+commit 96f6b148b56933c3626b9d513464f0a13f03c318
+Author: Marek Tomas <marek.tomas@getnetworker.com>
+Date:   Wed Apr 1 00:31:35 2015 +0200
+
+    first batch of comments addressed + added live demo
+
+commit cfc07bf6d661e37dfb7e5eecf51cfc96289e3f67
+Author: Marek Tomas <marek.tomas@getnetworker.com>
+Date:   Tue Mar 31 21:27:46 2015 +0200
+
+    first draft
+
+commit 0466e9340e435f072435693c7ade60d64deb7ac3
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Mar 27 16:31:28 2015 +0100
+
+    update tags
+
+commit a10e9cf67751f3faae19f102ffb117e3e9cc3d54
+Merge: b19dc65 574e2b4
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Mar 27 16:28:59 2015 +0100
+
+    Merge branch 'master' into specs2_notes_new
+
+commit b19dc65afc2163adcfeab0799bfaa11a28cb8741
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Mar 27 16:28:19 2015 +0100
+
+    share values not variables
+
+commit e3acc73fe2c841f6cddd16e663c679b534f696c1
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Mar 27 10:45:48 2015 +0100
+
+    remove unused line
+
+commit d0127cdb9e59c203c42b6504650de31909c03bf3
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Mar 26 23:48:15 2015 +0100
+
+    change the date
+
+commit 5d099f4130871cd02ab1a5fe52f6fa22e232142b
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Mar 26 23:44:42 2015 +0100
+
+    update text
+
+commit a722697739ddf63f30d19ccfce59621fdc3bb4e9
+Merge: 4185f9d 3c68939
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Mar 26 22:13:14 2015 +0100
+
+    Merge branch 'master' into specs2_notes
+
+commit 574e2b44c7fc51d3b0da2cccfa4df446354f2e64
+Merge: 3c68939 2b1a2b8
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Mar 22 18:29:47 2015 +0100
+
+    Merge pull request #38 from ScalaConsultants/template
+    
+    add template
+
+commit 2b1a2b8971daf69b5bbd6125efb095fd11090b52
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sun Mar 22 16:29:54 2015 +0100
+
+    add start.sh script
+
+commit cefcb5955ded4adcf425b3015850351cba8030aa
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sun Mar 22 14:29:16 2015 +0100
+
+    remove template from end app
+
+commit d4555d28cf5852146fc24d0898f245dc74a54901
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sun Mar 22 10:30:33 2015 +0100
+
+    add template
+
+commit 3c68939d995db7113e1aa9412e677f85ebde229d
+Merge: 69a4d7c 9b40ee5
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sat Mar 21 19:55:36 2015 +0100
+
+    Merge pull request #37 from ScalaConsultants/deploy_script
+    
+    deploy script
+
+commit 9b40ee5da551587417b70939157471a7e7204cf9
+Merge: c48c285 69a4d7c
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Mar 21 19:55:09 2015 +0100
+
+    Merge branch 'master' into deploy_script
+    
+    Conflicts:
+    	_config.yml
+
+commit 69a4d7ccbf8f22e716fa416df5df23cc50077f6b
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Mar 20 16:36:52 2015 +0100
+
+    remove old tags
+
+commit 140d8b48df16904812ced94875a5d5d966ee2903
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Mar 20 16:35:25 2015 +0100
+
+    Tags for cqrs-game_up
+
+commit 2f3b4c85a45ae9e5fcaf79f819d2775ab7836a4f
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Mar 20 16:34:31 2015 +0100
+
+    aspell kill bugs!
+
+commit a53bf43cdcb96920fac9dde4629b93f2f671585b
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Mar 20 16:26:55 2015 +0100
+
+    edit tags
+
+commit c1b5712c52f84573e453192c7087bb887404290b
+Merge: abe5d84 8764834
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Mar 20 16:22:32 2015 +0100
+
+    Merge branch 'master' into cqrs-game_up
+    
+    Conflicts:
+    	tags/Event Sourcing/index.html
+
+commit abe5d84707aeaa45dae1cc903843ef6afb3d4023
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Mar 20 16:18:58 2015 +0100
+
+    up
+
+commit e85c60cdeb7b0a16aea4debccc9513be5f5722e1
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Fri Mar 20 10:56:11 2015 +0100
+
+    Language fix
+
+commit 2af338f3720c0cfb14056950e280b162fa5e7af4
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Fri Mar 20 10:52:54 2015 +0100
+
+    Added random util method
+
+commit 208d10aff5af6b6d0ece81e659270f6c989b5767
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Wed Mar 18 12:25:56 2015 +0100
+
+    Fixes
+
+commit c48c285d23b6d741d0d56e55d1b7dffad9a66a92
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Mar 19 22:55:40 2015 +0100
+
+    print checked files
+
+commit 14ddafcf8973f49f2fb3b3fa6d7ac1c0f303f479
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Mar 19 22:53:58 2015 +0100
+
+    spell check
+
+commit a05ecdcdfd9bafbedbbe68d01f4d0c8ad477abc7
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Mar 18 23:39:50 2015 +0100
+
+    commit the RIGHT files
+
+commit 12d6a63d143db5c81ee6269b70e9d8b71c489418
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Mar 18 22:21:36 2015 +0100
+
+    basic deploy script
+
+commit f44632c3e8951576d812faaf272165f7aec0b653
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Sun Mar 15 23:10:14 2015 +0100
+
+    Added more info to Akka part
+
+commit d6039e907f4d32f4f793b60735cc6caa38e7d5f1
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Fri Mar 13 11:08:41 2015 +0100
+
+    Language review fixes
+
+commit 5bfb76d311012f613a343edd2fd89768d775ff8e
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Thu Mar 12 18:04:26 2015 +0100
+
+    Brief PersistentActor explanation
+
+commit a17b0a76bcc0f9790138e4ba8df9e5e25c5032dc
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Thu Mar 12 11:34:15 2015 +0100
+
+    Added GH links beside snippets
+
+commit 44740307166cd46b14db7c2bc589d93dd07d6f1c
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Wed Mar 11 15:58:54 2015 +0100
+
+    Added brief ES introduction
+
+commit 1e468e8f275ff15033364b124e8583c82a36f762
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Tue Mar 10 13:26:06 2015 +0100
+
+    Small fixes
+
+commit 87648345a46bcdb9ccdf3b4d079e35cf781aa656
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Mar 4 19:10:44 2015 +0100
+
+    tags
+
+commit 21fb81d64da23b31f5337cfe5ac215f2bef09226
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Mar 4 18:52:56 2015 +0100
+
+    fix bugs
+
+commit 531ead4f42b721e3fbefc0185e8d12793826c51f
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Mar 4 18:32:04 2015 +0100
+
+    better intro
+
+commit 18a723b1b585430f12b053da4e108a0cd8cf72bd
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Mar 4 18:22:22 2015 +0100
+
+    added intro
+
+commit b5c0306ef9b48211eea844ad0dad16e3db6e2b63
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Mar 4 18:03:34 2015 +0100
+
+    added descriptsion to posts
+
+commit f48b978b6c0b01398fe411e7c7153994a3ba9f82
+Author: Karol Marcjan <karol.marcjan@gmail.com>
+Date:   Mon Mar 2 13:17:07 2015 +0100
+
+    Update 04-03-2015-digest21.md
+
+commit 433dd76b7b17eb157b53b82d1c142f91ce30c7cd
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Mar 1 22:42:47 2015 +0100
+
+    React Tips and Best Practices
+
+commit 79bed1443ab5790471746bb75f9565dcd0a4f0bd
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Mar 1 22:35:10 2015 +0100
+
+    Startup advice, briefly
+
+commit 36e04e9fab356d8608cb26a81175723246adef69
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Mar 1 22:27:47 2015 +0100
+
+    An Investigation into Flow and Mortar
+
+commit 59bf0cff836987c3ea02abdb3b01cdcd0bdf3004
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Mar 1 22:16:05 2015 +0100
+
+    The Philosophy of Ramda
+
+commit 9f1c7e5bd623709f20eca73892b30b9e27d8121e
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Mar 1 21:07:55 2015 +0100
+
+    How NativeScript Works
+
+commit 78dbc1b66542dac23dee3234e7e7e0916bcc0b0b
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Mar 1 19:54:43 2015 +0100
+
+    Frontend Guidelines
+
+commit b93c5fd293dbaa8c9c381df173d47ef203c77c65
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Mar 1 18:06:25 2015 +0100
+
+    Monoids, Functors, Applicatives, and Monads: 10 Main Ideas
+
+commit d82689cb16cf199ab5b8004624726eba55beeade
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Feb 27 20:53:08 2015 +0100
+
+    init
+
+commit 0a2ac4eff3f0c5d8f8431168e0cce80d812c2c4a
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 25 19:37:57 2015 +0100
+
+    add tags
+
+commit 8c2720c7dec1812ca17b36c3fd432bbd27e93fdf
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 25 19:19:48 2015 +0100
+
+    add tags
+
+commit 22f564f70365a5b08157f620ee88d960046f1fdc
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 25 19:18:25 2015 +0100
+
+    fix mistakes
+
+commit 1d8698209c9807cdc567ef8dccb5754f71297961
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 25 18:09:21 2015 +0100
+
+    ready for review
+
+commit 5b4224f7731ebf2e65d65dc69488b6c89c218085
+Author: Damian Pieczynski <piecyk@gmail.com>
+Date:   Wed Feb 25 18:05:05 2015 +0100
+
+    Update 25-02-2015-digest20.md
+    
+    Added back override changes, sorry for that @LukasGasior1
+
+commit 17d6ca64209e78ce369a02166f30508cc3954a4a
+Author: Damian Pieczynski <piecyk@gmail.com>
+Date:   Wed Feb 25 18:00:09 2015 +0100
+
+    Update 25-02-2015-digest20.md
+    
+    Create short description to links.
+
+commit 2fc07b0433f273945033819fa6f902e7796e5185
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Wed Feb 25 17:33:55 2015 +0100
+
+    link description
+
+commit d6805d60ea7d54b1f68f797c45afdcba3952c795
+Author: Michał Sitko <pierwszy1@gmail.com>
+Date:   Wed Feb 25 17:35:22 2015 +0100
+
+    Composing a domain workflow... description added
+
+commit e1ee39977f9f73dd69cba2c8108540d4d0bd89de
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 25 17:17:21 2015 +0100
+
+    remove links; add desc
+
+commit 4e4357601c584ad40f2f5e31066c4c87991ed9f9
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Tue Feb 24 12:07:21 2015 +0100
+
+    CQRS/ES post draft
+
+commit dad6bd1945e0f04debaba76bf75dba9adbc65d50
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Feb 24 00:06:53 2015 +0100
+
+    Face detection algorithm about to revolutionize image search
+
+commit f14a6c734fe6fd924fa324712f89d4fd5edcf4c0
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Feb 23 23:56:07 2015 +0100
+
+    The World Is a Functional Program
+
+commit dd7731146dc61d3ed6c54a02ef1daad98db9ea40
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Feb 23 23:49:08 2015 +0100
+
+    Scaling With Akka Streams: Fetch 1M Twitter Profiles in Less Than 5min
+
+commit fe0d7f10bb06b7a6a058f690a0260121f7f1da99
+Author: Michał Sitko <pierwszy1@gmail.com>
+Date:   Mon Feb 23 16:08:55 2015 +0100
+
+    scala link added
+
+commit 38b8c6b6489d7d43bb5eb01d84091c97576b8839
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Feb 23 12:59:02 2015 +0100
+
+    Thinking Fast and Slow with Software Development
+
+commit b864f676674b4fb963bbff1f37170b79e06a00c4
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Feb 23 12:58:14 2015 +0100
+
+    Stuart Halloway: Introduction to Clojure
+
+commit 6714391f54c2e2b9d26c4c142f510973d661c2a8
+Author: Lukasz Kuczera <lukasz@kuczera.me>
+Date:   Mon Feb 23 10:55:50 2015 +0100
+
+    Update 25-02-2015-digest20.md
+
+commit 1e4729e367fea93f1e14d6ba32d8f6b2a72402d9
+Author: Lukasz Kuczera <lukasz@kuczera.me>
+Date:   Mon Feb 23 10:29:06 2015 +0100
+
+    Update 25-02-2015-digest20.md
+
+commit e4c69adb6b04fb67a536f0f13fdca1dd9d8abf53
+Author: Damian Pieczynski <piecyk@gmail.com>
+Date:   Mon Feb 23 09:49:37 2015 +0100
+
+    Update 25-02-2015-digest20.md
+    
+    Two interesting links about Reactjs ( one from 10.02 ), but was not posted before...
+
+commit 63d999202d6992c9741bf0c9edb9741b6ba96fa6
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Mon Feb 23 09:21:40 2015 +0100
+
+    few links
+
+commit e519380ad8810735d6f61dc0dbad63c0720241e9
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Feb 19 13:08:24 2015 +0100
+
+    digest 20 - init
+
+commit e7894e893d4ea0e78ce84081ccf7a32537de046b
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Feb 19 00:30:08 2015 +0100
+
+    add temporary id's
+
+commit fabe680a7389e230b9a4e82b4dc681542f343874
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Feb 19 00:14:31 2015 +0100
+
+    quick fix :/
+
+commit abf0eb482bb56ab52b8a110a967bc07e651f5cac
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 18 18:37:31 2015 +0100
+
+    add new tags
+
+commit def3bb5efbc1f0f8d88122c5a04ade72923f4ad9
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 18 18:33:05 2015 +0100
+
+    corrected mistakes
+
+commit 1e9b8d7867762b0bccc35a1f9d6a2517d94d1e87
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 18 17:54:55 2015 +0100
+
+    fix typos
+
+commit 23febcbb0cc25f89b1eae837aef1330e0efd26f0
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 18 17:49:44 2015 +0100
+
+    more text
+
+commit e71f4939795b96b0b03eae1bc6efdf33c6abe687
+Merge: 9b79ad8 09790e9
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 18 17:29:23 2015 +0100
+
+    Merge branch 'digest_#19' of github.com:ScalaConsultants/ScalaConsultants.github.io into digest_#19
+    
+    Conflicts:
+    	_posts/18-02-2015-digest19.md
+
+commit 9b79ad8c7ddf9eb3bd725a2c42c16d7289a40c95
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 18 17:28:22 2015 +0100
+
+    add note's desc
+
+commit 246997b2aec5081a65150d8ff4467f0c1a38db86
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 18 17:26:58 2015 +0100
+
+    moved text from comments to post
+
+commit 09790e9d10cce4a97ff1241eb246970381066393
+Author: Michał Sitko <pierwszy1@gmail.com>
+Date:   Wed Feb 18 15:39:15 2015 +0100
+
+    description for event sourcing at global scaled added
+
+commit 8303c83e95cdca9ea68dd83fb0339ef9133b0b08
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 18 15:18:28 2015 +0100
+
+    removing links
+
+commit 18116791e905801b85e998566b3dfec7c6faae13
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Feb 17 00:19:10 2015 +0100
+
+    Find More Bugs with Mutation Testing
+
+commit adf86fddfbe56ce6e544bc623a4f125f020313a8
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Feb 17 00:15:22 2015 +0100
+
+    Abstract Algebraic Data Type
+
+commit 9256835d27bbaca9976101d54fdd23f08a8f07e6
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Feb 17 00:11:55 2015 +0100
+
+    What is Functional Reactive Programming?
+
+commit 30f9deae4f9368d312f51fbafc46f876aff8d106
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Feb 17 00:06:10 2015 +0100
+
+    Six Unusual Reasons Why Clojure Is a Delight
+
+commit 3764a7a8643ba317b377b280fa905cde70aa8106
+Author: Michał Sitko <pierwszy1@gmail.com>
+Date:   Mon Feb 16 10:21:28 2015 +0100
+
+    ES link added
+
+commit 7caba777e90a85b7775739f76cea17680a7808d4
+Author: Mario <marioosh@5dots.pl>
+Date:   Sun Feb 15 10:43:31 2015 +0100
+
+    Update 18-02-2015-digest19.md
+
+commit 2cef222357b5753eecd69b135bb52d0b9d107004
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Feb 13 09:10:53 2015 +0100
+
+    DARPA’s HAPTIX project hopes to provide prosthetic hands with sense of touch
+
+commit a3347c7679f090830a1e8e066f6d8a6eeab87d3d
+Author: Mario <marioosh@5dots.pl>
+Date:   Fri Feb 13 09:06:49 2015 +0100
+
+    Update 18-02-2015-digest19.md
+
+commit 03e4ea071182b49dfe864e8a0e5b9cf99c3277b7
+Author: Mario <marioosh@5dots.pl>
+Date:   Fri Feb 13 09:06:31 2015 +0100
+
+    Update 18-02-2015-digest19.md
+
+commit 9a7ec80e40b4690517ec15d6ac0370b98a898e2f
+Author: Lukasz Kuczera <lukasz@kuczera.me>
+Date:   Thu Feb 12 14:21:29 2015 +0100
+
+    Update 18-02-2015-digest19.md
+
+commit 1314865dab842a1b7192ac73560ab0842a997b1d
+Author: Mario <marioosh@5dots.pl>
+Date:   Thu Feb 12 09:32:32 2015 +0100
+
+    Update 18-02-2015-digest19.md
+
+commit eab426ba2313e37ace55c1fe67be14599d8d77e2
+Author: Leszek Gruchała <leszek@gruchala.eu>
+Date:   Thu Feb 12 09:29:29 2015 +0100
+
+    Added links about docker
+
+commit f44009b2a3bca8d84ad0bb5f6e62d7a8c3f54b82
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Feb 12 07:31:18 2015 +0100
+
+    init
+
+commit 486f34e10647efd613dc0f9a529c09b2b64b5115
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 11 19:43:23 2015 +0100
+
+    add tags
+
+commit 29d739cd26fb7497444c037848fc017bd0e4e663
+Merge: 598684f 683b128
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 11 19:41:01 2015 +0100
+
+    Merge branch 'digest_#18'
+
+commit 683b128ff86ee06bdf892bc9f6ff782bf6a08ea7
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 11 19:40:25 2015 +0100
+
+    fix mistakes
+
+commit 87d314effc5d260dfb811499817b75cca1bde113
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 11 18:29:31 2015 +0100
+
+    add missing text
+
+commit 46e625fd45ddfd44c890852b12be2fa4ca2386cf
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 11 17:40:26 2015 +0100
+
+    add intro
+
+commit 9a1312a1240e527bdcbfde5adc80ffb495b9aaff
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 11 17:33:21 2015 +0100
+
+    description
+
+commit 5ef41ded8bd291f308a3dea508077cf443df89e6
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 11 17:15:55 2015 +0100
+
+    removed links
+
+commit 598684f9412481a917e7a9eef3f0b0fe4596110f
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 11 09:17:17 2015 +0100
+
+    follow buttons
+
+commit 295b18fa38d0777834c1b937936164c90776bb98
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Feb 9 12:42:08 2015 +0100
+
+    GPU Accelerated Platforms for Deep Learning
+
+commit d09dfa4e9b0014c076401d5d503761d84ab3426c
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Feb 8 20:47:03 2015 +0100
+
+    The Four Horsemen of the Performance Apocalypse
+
+commit 2c2457fa3011deb65c96679faf25cf3a4ddfec9b
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sat Feb 7 18:53:16 2015 +0100
+
+    Why to Not Not Start a Startup
+
+commit 346670aaa48b8a86581655130bf48edc71584f06
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sat Feb 7 18:46:42 2015 +0100
+
+    Scala Typesafe Wrappers
+
+commit d835b16f1e4decd4905195bf37f8fb93714c5836
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sat Feb 7 18:44:30 2015 +0100
+
+    Programming safety into self-driving cars
+
+commit 7ff8ebffca3060c6adaf943d71a4a2b4ff82bad9
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sat Feb 7 18:43:34 2015 +0100
+
+    Habits of Breakthrough Innovators
+
+commit fb643f4c35898edbdb73c408248b42cbacedcf23
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sat Feb 7 11:36:24 2015 +0100
+
+    Reasons to Care About Mobile Performance
+
+commit 1fa642ba5889da3e176200a6e8306cb0f2ed4126
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Fri Feb 6 23:06:17 2015 +0100
+
+    a bunch of links
+
+commit 621429cd3fe8c12d108baffa5ec3b0d182d1107f
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Feb 6 22:53:21 2015 +0100
+
+    init digest#18
+
+commit afa7d40c1b4305b9aaaf0fd4b85b52edc4e7b780
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Feb 6 18:39:42 2015 +0100
+
+    add addthis widget
+
+commit 947aa8d15cb0f9738f34ec1a7618f07b51d08899
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Feb 5 09:49:45 2015 +0100
+
+    fix typo
+
+commit 0b07ce058e36d85755a2c0830059fcb705b6c706
+Merge: e28cae2 c83732b
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 4 18:32:58 2015 +0100
+
+    Merge branch 'digest_#17'
+    
+    Conflicts:
+    	_posts/04-02-2015-digest17.md
+
+commit c83732b2dd427ed7fe335b1e6606667fedd7c811
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 4 18:25:37 2015 +0100
+
+    fix mistakes
+
+commit e28cae270118be542914cb50ce43bb671fee70f0
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 4 18:32:07 2015 +0100
+
+    fix tags; add missing text
+
+commit 02939bc65a0e4af5e2fbe605f33e0014d12fc851
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 4 18:25:37 2015 +0100
+
+    fix mistakes
+
+commit 4e1444af7dcd0797d026992bb06a103cc0d4ab8c
+Author: Marek TOMAS <marek.tomas@getnetworker.com>
+Date:   Wed Feb 4 17:55:10 2015 +0100
+
+    Update 04-02-2015-digest17.md
+    
+    added description for 17 flow triggers article.
+
+commit a2bd117103560248908e318ea52acb0a56a7d4c6
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 4 17:48:29 2015 +0100
+
+    small fix
+
+commit 3db411c708110ea429d551f932cd068a336f2f9c
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 4 17:45:50 2015 +0100
+
+    add text
+
+commit 3873399a2853db4ea2022e48c297809a1d0bb6cf
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Feb 4 17:19:13 2015 +0100
+
+    remove posts with score <= 1
+
+commit 51938009b23af4d092f73fac6ed3864073ab36ce
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Feb 2 11:40:07 2015 +0100
+
+    The Basics Of Test Automation For Apps, Games And The Mobile Web
+
+commit 401143926b33e1f235be57e615a33ba379d44ed9
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Feb 2 11:35:26 2015 +0100
+
+    Facebook Outage Deep Dive
+
+commit b0afef94e2f065b7270c97759eaac80a0da9f65e
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Feb 2 11:14:45 2015 +0100
+
+    Event-driven programming for Android
+
+commit 90a7745ba46a3a896e5b305a42508938b3f065bd
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Feb 2 11:09:09 2015 +0100
+
+    From 0 to $1B - Slack's Strategy
+
+commit 2e048b7f36d4b38ffa3e3acc3882963f279cd50c
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Feb 2 10:38:49 2015 +0100
+
+    Reactive Stream Processing with Akka Streams
+
+commit b2e56b2250310bfe9ef998271b803faffe4828a2
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Feb 1 21:06:25 2015 +0100
+
+    Composing Synchronous and Asynchronous Functions in JavaScript
+
+commit 797bec1dea77651eca0b055a1adc8c3ca3b60155
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sat Jan 31 20:07:34 2015 +0100
+
+    Visualizing Scala Code Style
+
+commit d33b8e0fae66a22642f280a8a7aaf30148d3687f
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sat Jan 31 20:05:08 2015 +0100
+
+    Paxos, a really beautiful protocol for distributed consensus
+
+commit bec6ef0db9366f68928eebbdf09df2f8406a2317
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sat Jan 31 20:03:33 2015 +0100
+
+    7 Git personalities, which one are you?
+
+commit 7874f08a1891169017a45432654eb157a5e0918a
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sat Jan 31 10:09:43 2015 +0100
+
+    Update 04-02-2015-digest17.md
+
+commit 3600033da13ba573d5bdef6ccca4d71c9eb8d09c
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sat Jan 31 10:09:21 2015 +0100
+
+    What's New in CPUs Since the 80s and How Does It Affect Programmers?
+
+commit 63fa3d6d5666d4ebada7f3c0633a9e6e9968fcba
+Author: Marek TOMAS <marek.tomas@getnetworker.com>
+Date:   Thu Jan 29 13:41:02 2015 +0100
+
+    Update 04-02-2015-digest17.md
+    
+    added link #2 about flow
+
+commit 8bfda809a06147b4860624f05c5be3963bae1791
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jan 29 13:25:45 2015 +0100
+
+    init num 17
+
+commit 86a19c07d390f3a122697588a5b8a7e6a0b3bfec
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jan 29 13:24:11 2015 +0100
+
+    init num 17
+
+commit 42be1a842505fc56e4b64a4379d6d0b493be6bc8
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Jan 28 19:57:19 2015 +0100
+
+    fix tags
+
+commit ece25d908076eb6dbde79507fa0ff3ab67311494
+Merge: 4c1874b c8cf99d
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Jan 28 19:52:42 2015 +0100
+
+    Merge branch 'digest_#16'
+
+commit c8cf99d946090e9e1953ef9a77585f084154214c
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Jan 28 19:13:13 2015 +0100
+
+    fix mistakes
+
+commit 82d42fe95f4d90dbb033c7d642c5c8fbd0a0d40c
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Jan 28 18:36:08 2015 +0100
+
+    fix typos
+
+commit 914b8c7d900e0eda19e97fa767477fbdf57c8d2b
+Author: Mario <marioosh@5dots.pl>
+Date:   Wed Jan 28 18:18:13 2015 +0100
+
+    Update 28-01-2015-digest16.md
+
+commit 6859865586ec80174bf359ba65128242a5ef3460
+Author: Marek TOMAS <marek.tomas@getnetworker.com>
+Date:   Wed Jan 28 17:42:48 2015 +0100
+
+    Update 28-01-2015-digest16.md
+    
+    added desc for AngularJS internals in depth link
+
+commit 0684bf9e5ef4826b72cd9c4b3d77f0a17ab70bc9
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Jan 28 17:37:06 2015 +0100
+
+    more text
+
+commit 052ede128152b1da8385a14727b87c01c3987391
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Jan 28 17:17:35 2015 +0100
+
+    remove some links
+
+commit 4c1874bb447561010bc648c38e82cc552302f46d
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue Jan 27 17:25:02 2015 +0100
+
+    add tags
+
+commit fe452c8c6eb3b4e40fcb402cd99b5631ea35a267
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue Jan 27 17:24:55 2015 +0100
+
+    fix sql/scala code
+
+commit fd69a52a519c3940d9d269da40da4237f47224a4
+Author: Radek Tkaczyk <rado.tkaczyk@gmail.com>
+Date:   Tue Jan 27 17:08:47 2015 +0100
+
+    new post: rough-slick
+
+commit 944926614aa710cae635bf26088d3da0dbb95eb4
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Jan 26 14:34:08 2015 +0100
+
+    It's not what you read, it's what you ignore
+
+commit 85474f4acb45039b5fac57490bfd00464214cf2e
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Jan 26 11:19:58 2015 +0100
+
+    16 Things worth observing
+
+commit 25e02ae38db77121357d7a2f19c7c018dc3dd170
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Jan 26 11:16:25 2015 +0100
+
+    Dive into the Gradle
+
+commit 76e2e7f70bb7d00d3c44e9f71465f4505f95990a
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Jan 25 20:09:31 2015 +0100
+
+     5 Advanced Java Debugging Techniques
+
+commit e16864dfbbc9cdba1bed3687015f5f64095f6e44
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Jan 25 11:54:58 2015 +0100
+
+    Understanding the Node.js Event Loop
+
+commit 3699f8de495dad67d733687dc110530f3dfd2bec
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Jan 25 11:47:49 2015 +0100
+
+    Thoughtful Modularity
+
+commit 7ce716de8a9c13e889bd32b4c0e163fadedeb36b
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sat Jan 24 18:22:02 2015 +0100
+
+    Maintaining Quality at Scale
+
+commit f32cb269924c4f00b2d42e03ee53e810096096da
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sat Jan 24 18:13:45 2015 +0100
+
+    Why Some Teams Are Smarter Than Others
+
+commit c7e9f89b56e750a377b56f25f3a8317cae0df82f
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sat Jan 24 14:02:26 2015 +0100
+
+    Let’s Write Fast JavaScript
+
+commit f4049167a80527271e1f78c9bb8871b9e14b0c47
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sat Jan 24 13:55:49 2015 +0100
+
+    A web application with Play, ScalaJS, ReactJS
+
+commit 5b933b19d2ce1dc9ce8c4daae77476af668c57e6
+Author: Marek TOMAS <marek.tomas@getnetworker.com>
+Date:   Fri Jan 23 10:35:19 2015 +0100
+
+    Update 28-01-2015-digest16.md
+    
+    added link for AngularJS internals in depth
+
+commit d568e2cf0ec7115ea4cb145733fded4bcf7df351
+Author: Mario <marioosh@5dots.pl>
+Date:   Thu Jan 22 16:02:04 2015 +0100
+
+    Update 28-01-2015-digest16.md
+
+commit d917ab46d5f0b95f4f028c22f464606153350f30
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jan 22 15:59:48 2015 +0100
+
+    init
+
+commit 2c57b29a7ba7a230535dfdd3aa185dd9c55c0bc0
+Author: Waldemar Wosiński <kastoestoramadus@gmail.com>
+Date:   Thu Jan 22 14:16:08 2015 +0100
+
+    Update 21-01-2015-digest15.md
+    
+    Restoring one sentence to previous sense. + typo fix
+
+commit 9ceaadc4f267540a5a7f385b4572525e0e2e1da0
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Jan 21 19:08:31 2015 +0100
+
+    add tags
+
+commit eef031fe9c5ea8782fcba211e52fa5ae6285cc42
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Jan 21 19:05:43 2015 +0100
+
+    fix typos
+
+commit b6b4d53378e10a34c2a870b06f94b1ab2a4ff6a0
+Author: Waldemar Wosiński <kastoestoramadus@gmail.com>
+Date:   Wed Jan 21 14:17:15 2015 +0100
+
+    Update 21-01-2015-digest15.md
+
+commit 813c8fddc364d9764034a75b0bfe15219215932c
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Jan 21 14:03:27 2015 +0100
+
+    tags
+
+commit b62524792affabd491ee640b63386f94b1cb5eb0
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Jan 21 14:00:56 2015 +0100
+
+    text
+
+commit 23b13a186e6000e09b3d6dacba253821d3c58ba7
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Jan 21 13:37:29 2015 +0100
+
+    remove some links
+
+commit 4185f9da81e7ede2815c85948f6a333556ea42c3
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue Jan 20 22:29:43 2015 +0100
+
+    post notes
+
+commit 36c9f0d1fafa7d535c98fcdd60087975915a5427
+Author: Waldemar Wosiński <kastoestoramadus@gmail.com>
+Date:   Tue Jan 20 09:40:52 2015 +0100
+
+    Update 21-01-2015-digest15.md
+
+commit 54def214cd5f0b361fa39053e523781edc70563e
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Jan 19 07:37:17 2015 +0100
+
+    Facebook - machine learning magic
+
+commit b55689bf1a59a216ed07f7c7f674f0b7a5020713
+Author: Mario <marioosh@5dots.pl>
+Date:   Sun Jan 18 23:04:03 2015 +0100
+
+    Update 21-01-2015-digest15.md
+
+commit 95f7c5e1e3b29720aed6872e5dc23d3cc3d05566
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Jan 18 19:51:01 2015 +0100
+
+    Tern.js
+
+commit 62bcec5b77fbbf9242e90c2bd53787e086f2ee3d
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Jan 18 17:19:57 2015 +0100
+
+    Introduction to Elm
+
+commit 9af08ea2586d5858f944da35990bd0c03be6e727
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Jan 18 16:32:20 2015 +0100
+
+    The Two Pillars of JavaScript — Pt 2: Functional Programming
+
+commit eb21fcb734ef3d04e23975e199fd8603ef27dd33
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Jan 18 10:24:03 2015 +0100
+
+    Blockchain: The Technology Powering Bitcoin
+
+commit aaf4b015c864f60d461dc7741202a66d464c7445
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Jan 18 09:58:09 2015 +0100
+
+    Code Review Checklist
+
+commit 4e1b70bb9affcdeefaaf4dabb3e0358cfdb72008
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Jan 16 16:15:12 2015 +0100
+
+    The imminent revolution of functional append-only databases
+
+commit b36b58b1a7b6269378a1f3b806071a96a6c4febd
+Merge: 7f24791 e388030
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Jan 16 11:31:43 2015 +0100
+
+    Merge pull request #26 from kastoestoramadus/patch-3
+    
+    Update 21-01-2015-digest15.md
+
+commit e388030a30641a1689b7dc56af115d8389d67dea
+Author: Waldemar Wosiński <kastoestoramadus@gmail.com>
+Date:   Fri Jan 16 11:28:33 2015 +0100
+
+    Update 21-01-2015-digest15.md
+
+commit 7f24791450d236d9642a2c36674514dd5cd099f9
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Jan 16 10:07:00 2015 +0100
+
+    Update 21-01-2015-digest15.md
+
+commit 90b382217102f43dbce0c3e5ecfdf863aabd1960
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Jan 16 08:38:31 2015 +0100
+
+    init #15
+
+commit 51d6bad1448e05f7d0b974e493c4f5c07bdb1aae
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jan 15 08:19:34 2015 +0100
+
+    update tags
+
+commit d6595f3d51dc6c97adc0904807ff795c1486220f
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Thu Jan 15 08:14:53 2015 +0100
+
+    fix typo
+
+commit 7f55e973f5726ff3c4a5cf63ec354bf526404a45
+Author: Mario <marioosh@5dots.pl>
+Date:   Wed Jan 14 14:22:57 2015 +0100
+
+    Update 13-01-2015-digest14.md
+
+commit 91b7fd6f97d4be7643fd90271a1b5952d8d689cb
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Jan 14 13:28:27 2015 +0100
+
+    remove links; descriptions
+
+commit 077949ae16db4a54309b6ec2569967f913092f62
+Author: lukgas6 <lgasior@soldevelo.com>
+Date:   Mon Jan 12 22:01:23 2015 +0100
+
+    Update 13-01-2015-digest14.md
+
+commit 75ebeadf2eb5dee5a973f2aa056a7d4215e2d3d8
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Jan 12 12:05:55 2015 +0100
+
+    Functional Systems @ Twitter
+
+commit 42e92a82a11ac6fb12a0dd8053c42acd01212fce
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Jan 12 11:28:15 2015 +0100
+
+    Angular Air
+
+commit 1063510fea6d4e43ae3d7e99ecee7b046e998216
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Jan 12 07:22:14 2015 +0100
+
+    Update 13-01-2015-digest14.md
+
+commit 4494a7523954fe3a85e2b6c7d7ed207ce8b8202f
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Jan 12 07:21:57 2015 +0100
+
+    Eric Meijer vs Agile
+
+commit 2618d2f61e92f6db0de2cda97e0c7f5910e1788e
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Jan 12 07:19:22 2015 +0100
+
+    more links
+
+commit 52c8332c1a8d5707acea219470dc474c438fa83d
+Author: Mario <marioosh@5dots.pl>
+Date:   Sat Jan 10 18:24:24 2015 +0100
+
+    Update 13-01-2015-digest14.md
+
+commit ec3e42492222e965533c92ae0e66742d5be24a82
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Jan 10 08:57:46 2015 +0100
+
+    init
+
+commit df2cdfa4f6611d239e3621264d634def63903f7f
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Jan 9 21:25:30 2015 +0100
+
+    missing things :(
+
+commit 04d8ea1d53da90d588d5588879c9ae617984f7e8
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Jan 9 21:24:07 2015 +0100
+
+    fix tags
+
+commit 96fac8bc65452530346e2786dcc834f7f5161932
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Jan 9 21:20:11 2015 +0100
+
+    fix tags
+
+commit 34c6cab4a5090498a2a54a2b0d587d6891a68dc7
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Jan 9 21:12:50 2015 +0100
+
+    fix language mistakes
+
+commit 6d4c35d53653b2693dbd3f451eb987c3529ac839
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Jan 9 21:03:06 2015 +0100
+
+    fix link
+
+commit 75cf7251c731704c280172fdd3c81fb0ecddc73a
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Jan 9 20:59:54 2015 +0100
+
+    texts
+
+commit fa8b3dc502614a0dd93c0e45bc11dabbebe6b2c5
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Jan 8 13:16:29 2015 +0100
+
+    Program synthesis
+
+commit 0e2a624625efa124271ed2691a3d5d2323fb04cb
+Author: Mario <marioosh@5dots.pl>
+Date:   Thu Jan 8 12:19:23 2015 +0100
+
+    Update 9-01-2015-digest13.md
+
+commit 9ff75e7c9a6fb1a1cec41c842f4233a2acb2d5c7
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Jan 8 11:01:17 2015 +0100
+
+    another 2 links
+
+commit 06c0d499ca9cbf455dffc7cb78066672535d0db4
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Jan 7 21:05:38 2015 +0100
+
+    2 links
+
+commit 6b5fe62de78a2fa36c044cf1b501b69722874654
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Jan 6 20:25:59 2015 +0100
+
+    From Never Doing Game Code or Game Art...
+
+commit ce4ca2ba5363bb5f2a3e07caa02e5f68ca8a1786
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Jan 6 20:12:35 2015 +0100
+
+    On the road to 2015
+
+commit ef114a9dc7e7939a0a32040f06012d0b7b4db92d
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Jan 5 15:28:16 2015 +0100
+
+    Update 9-01-2015-digest13.md
+
+commit ae0dbd243d7036674f2780884d4a688f210e1b0a
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Jan 3 12:16:01 2015 +0100
+
+    starter
+
+commit dff53840ddfdb8c19071b32cbd867dadde913164
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Dec 31 08:52:03 2014 +0100
+
+    fix missing tags
+
+commit abae4d854a8c5d14422ce2cb74fab2948f1808de
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Dec 22 20:09:19 2014 +0100
+
+    fix tags
+
+commit 540ac25301ce5a2ac0f67b75a5255702196ec40b
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Dec 22 20:05:51 2014 +0100
+
+    fixes
+
+commit cd1e9568289822ad53f8d18b07710aae30cc634a
+Author: Lukasz Kuczera <lukasz@kuczera.me>
+Date:   Mon Dec 22 19:34:12 2014 +0100
+
+    Update 20-12-2014-digest12.md
+    
+    typo
+
+commit 0817fe8b237573fbea03d683d05fb83984be1752
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Dec 22 19:29:13 2014 +0100
+
+    minor tweaks
+
+commit e5899067c4e56e9807e75fcc83cf50b7fdf89aac
+Author: Leszek Gruchała <leszek@gruchala.eu>
+Date:   Mon Dec 22 08:45:17 2014 +0100
+
+    Added descriptions
+
+commit 9eea705859d35d650453234b253314ae1925ca37
+Author: Lukasz Kuczera <lukasz@kuczera.me>
+Date:   Sat Dec 20 21:00:42 2014 +0100
+
+    Dodge that
+    
+    Added {DESC}
+
+commit 26b5b3ea15bb5cd856a46824bd06d6f41ee4cd32
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Dec 20 18:24:00 2014 +0100
+
+    desc
+
+commit 1411b2340d3d399aac1e7b5e426f28e7e2705980
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 4 16:28:22 2014 +0100
+
+    Update 05-12-2014-digest12.md
+
+commit 959f26090bf0323d18ce55a712d7679fdc2eec87
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 4 12:11:45 2014 +0100
+
+    rest api
+
+commit 4e022fc6c7bf83611d6f2243b0a3e0d4160f9745
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Dec 4 11:59:51 2014 +0100
+
+    hubspot
+
+commit a9a1bfbdbb855f81eb1f5810a1b1e2a817fd93fd
+Author: Lukasz Kuczera <lukasz@kuczera.me>
+Date:   Tue Dec 2 08:37:21 2014 -0800
+
+    Manage your distractions link a.k.a. how do debug your brain
+
+commit 936c80bbaa50c6431ea45e6c31df9d233795a848
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Tue Dec 2 16:39:11 2014 +0100
+
+    link
+
+commit 3614ba9bf0aa337d99f963a48bc6917fe2c84265
+Author: Leszek Gruchała <leszek@gruchala.eu>
+Date:   Tue Dec 2 16:33:28 2014 +0100
+
+    Added few links
+
+commit 2a9b224419b46acafc1de23b386a9cfbfe136139
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Tue Dec 2 12:49:06 2014 +0100
+
+    added link
+
+commit ba67b71c43f3c6e307b5a77df228b345de809e58
+Author: Łukasz Gąsior <lukas.gasior@gmail.com>
+Date:   Mon Dec 1 15:47:41 2014 +0100
+
+    init digest #12
+
+commit 0cbb96b70eb572555f3538caf2e29f0959707227
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Nov 28 21:29:20 2014 +0100
+
+    add tags; fix typos
+
+commit 9aa8299ee268dcbe7b860551a7495f455d9f5700
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Nov 28 19:14:58 2014 +0100
+
+    description content
+
+commit 608180bbc54522183a788753a56601d67db1e1c7
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Nov 28 18:07:12 2014 +0100
+
+    removed links
+
+commit 2f94787f62b5a35a371aa331dc693c746d09d8fb
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Nov 26 20:37:31 2014 +0100
+
+    Alternatives for typed JS
+
+commit dbcff87db4f7548e38e94e1347c2c0ba6c90149e
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Nov 26 20:27:40 2014 +0100
+
+    Notes on Akka
+
+commit c9a1d6cf6d5e0c6f82d69148c3d02e1e9f3c2a29
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Nov 26 20:24:47 2014 +0100
+
+    Stability patterns for REST services
+
+commit 6cde70c94431a0362c9754aef680c4fa2eb99f0a
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Nov 25 21:45:20 2014 +0100
+
+    Machine learning by Andrew NG
+
+commit ac201b09892daf94d65be233d72dbaecf5d18334
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Nov 25 21:44:19 2014 +0100
+
+    Indexing all tweets
+
+commit a50d361d8b620d95faffb1543a0060c16d335e42
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Nov 25 21:10:41 2014 +0100
+
+    Getting Things Done explained in 15 minutes
+
+commit cdd4349b705257565d7ca2cef8b6329041ac2b16
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Nov 25 21:00:17 2014 +0100
+
+    Value of transparency
+
+commit e64404d0f374a1c3880d2c4d8620fabc47e9ff62
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Nov 25 20:46:04 2014 +0100
+
+    Queues won't fix overload
+
+commit 15824f6070120fe9e662291daf9798922a059202
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Nov 25 20:30:46 2014 +0100
+
+    Neural netwotks in Javascript
+
+commit 39986c7838c4f9c6678d8996dd701bf3e4ca9e18
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Nov 25 20:12:15 2014 +0100
+
+    js
+
+commit 6f1abfaf5abb3b04acd8b069df7a3aadc0ec1154
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue Nov 25 20:08:13 2014 +0100
+
+    init #11
+
+commit 585d02926e6d014bbd38ce260f7e1ec01bd4c6a0
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Nov 21 21:06:10 2014 +0100
+
+    fix tags #10
+
+commit 909ad7efb05454a24c974280d60eb130dc3a07c8
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Nov 21 21:00:32 2014 +0100
+
+    fix typos
+
+commit 37eab41973564ee8c12ec2eef51d92c0110623bb
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Nov 21 20:21:45 2014 +0100
+
+    fix
+
+commit 6a287703bfdcf47827017a5410efa60c79f4552f
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Nov 21 20:13:31 2014 +0100
+
+    text for links
+
+commit b93286f0c2261006b31828b9901729a6d059a998
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Nov 21 19:51:29 2014 +0100
+
+    wip1
+
+commit 5bfabc5009277f4a3b7709106c8822156bba395d
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Nov 21 19:37:37 2014 +0100
+
+    removed links
+
+commit f31f63996c75926192abedc2b35e7b62e3fcfb48
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Nov 20 09:23:08 2014 +0100
+
+    John Carmack
+
+commit 04a77690c0770a4924741c46b81509b010434f33
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Nov 19 22:26:42 2014 +0100
+
+    Play anatomy
+
+commit d976d9c2bc821324919af267c5c70ee61276c348
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Nov 19 20:31:52 2014 +0100
+
+    A Field Guide to the Distributed Development Stack
+
+commit 889d9e67e972bd313b07117fc902fcd97b481515
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Nov 19 20:27:44 2014 +0100
+
+    Colossus
+
+commit 462313b489c5bf2af1ed4cc5623e99f9ec9a0c09
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Nov 19 20:25:23 2014 +0100
+
+    Dynomite
+
+commit 92a34bcb8f3b1a3dcb52cb95b17774767d5d1a03
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Nov 19 20:18:00 2014 +0100
+
+    unkernels
+
+commit ba12a506b96e994cd39fd9a6aeac2e25dcc50990
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Nov 17 20:23:14 2014 +0100
+
+    remote
+
+commit 127f62509740d1b379c13fce38f547f0949b85ea
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Nov 17 20:14:41 2014 +0100
+
+    Update 21-11-2014-digest10.md
+
+commit 986eaddcc151664a110ef05f5474d5a9189526c0
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Nov 15 22:48:10 2014 +0100
+
+    init
+
+commit 8c19db18adfe30626c72d55ebb05554db5c63e2c
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Nov 14 18:50:04 2014 +0100
+
+    add intro text; fix tag
+
+commit 700148d6690061bd15060347fe3636bc229d7ee9
+Merge: 22a7ccf 800b1aa
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Nov 14 18:41:34 2014 +0100
+
+    Merge branch 'digest_#9'
+
+commit 800b1aa288727e60171be6326e03e18b2a08531c
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Nov 14 17:59:03 2014 +0100
+
+    typos from Leszek
+
+commit 7d05d1d25d48a666a5ee8f888ecfc34cc09c1f8c
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Nov 14 17:57:56 2014 +0100
+
+    typos from Radek
+
+commit bb1f4c8ca1a4797f867a65ebd05683435235425c
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Nov 14 17:33:55 2014 +0100
+
+    typo
+
+commit 6f5e1af8afecaf2723f0d5b0d075e0b2f5301d84
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Fri Nov 14 17:32:29 2014 +0100
+
+    Update 14-11-2014-digest9.md
+
+commit 0693230d7ecb8c60acc79b73a51f3609986f87b7
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Nov 14 17:26:40 2014 +0100
+
+    desc2
+
+commit 919f2f8598997b93e5a53f6bdfa9bffd901ec9b9
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Nov 14 17:25:11 2014 +0100
+
+    description
+
+commit 85484deaedd77d680383163390bcdf99cfe71a72
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Nov 14 16:58:24 2014 +0100
+
+    removed links
+
+commit 31aeb7dd31e438570ad29bac2cccce9ccc045a84
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Nov 13 10:48:49 2014 +0100
+
+    Concurrency
+
+commit 7ee7ea99aece60706bf7eb4dd1e9274e8cf3bb42
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Nov 13 10:05:33 2014 +0100
+
+    speckerdeck -> yt
+
+commit 909be741cbae14d7cf7e5223f8fd5e08f0d3cfaa
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Nov 13 00:12:04 2014 +0100
+
+    jvm tools market
+
+commit 5f1c9ba337390de1ed974d755ec0e6b9a1823ed4
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Nov 13 00:06:32 2014 +0100
+
+    RX
+
+commit 86b6e0a2dbe33a2968c4f6ee2e997c9e784d21a2
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Nov 13 00:00:46 2014 +0100
+
+    reactive MVC
+
+commit 3176553cfdb0cc568f9d9ac988eb96985553394a
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Nov 12 23:46:33 2014 +0100
+
+    netflix
+
+commit 441baf77118b8102f15d50545879bbb137437e26
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Nov 12 23:13:30 2014 +0100
+
+    monads
+
+commit 9a56730de349add75a77e5a8f73ec9997814f53e
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Nov 11 16:01:38 2014 +0100
+
+    open worm
+
+commit 392224a07eb481365e4a27aad7fd420a68a3aad6
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Nov 11 13:57:25 2014 +0100
+
+    lmax
+
+commit 8dc2991b93a2d20f8b8aa8119260abb49274dbe9
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Nov 10 11:48:14 2014 +0100
+
+    fp mobile
+
+commit 13df35dd1e63e7f313ee33de3868a17d7f82edea
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Nov 10 09:33:57 2014 +0100
+
+    solid
+
+commit 6d7b217d5b19e02bf7ac39c095c0021d79b7e7dd
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Nov 9 21:17:09 2014 +0100
+
+    links from before
+
+commit 22a7ccf78d5a1d136604b6da57686abee82355df
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Nov 8 08:55:37 2014 +0100
+
+    fix tags
+
+commit a9fb8fb4be987e799a0b8e248ac3659cfdb8c706
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Nov 8 08:48:17 2014 +0100
+
+    update tags
+
+commit 906468c91e96ea4702b9916caf93d13dbc56ffb5
+Author: Lukasz Kuczera <lukasz@kuczera.me>
+Date:   Sat Nov 8 00:27:59 2014 +0100
+
+    Update 2014-11-7-digest-8.markdown
+    
+    Added description to the links
+
+commit 5c97581d5fb823fe34edb7652365d344d14e73bf
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Nov 7 22:34:11 2014 +0100
+
+    removed
+
+commit 055c19cdb4cf1f7c3ed5366c6f0ce4de71c1cac2
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Fri Nov 7 18:08:37 2014 +0100
+
+    Create 14-11-2014-digest9.md
+
+commit 1ae413aa5b802c8946b6becf539f9f30b041c9db
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Fri Nov 7 11:23:56 2014 +0100
+
+    Update 2014-11-7-digest-8.markdown
+
+commit e465a1510feb60fc94bfb4f63c20f1a582fdfc3d
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Nov 7 00:14:17 2014 +0100
+
+    ang game
+
+commit e41f96ed8237d514ea38f743193aae22abf038ea
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Nov 6 23:58:15 2014 +0100
+
+    3 links
+
+commit 300d08fb5ced4b9f78e7ab574f20e353e49adba4
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Nov 6 23:43:17 2014 +0100
+
+    workplace
+
+commit 6d5d49fbebe785dc5534050d32dd91ee5cf3cab9
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Nov 6 14:31:10 2014 +0100
+
+    recruiting
+
+commit 367e8c853b577974b897cc6e75559199df4fa709
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Nov 5 14:55:55 2014 +0100
+
+    gilt + scala
+
+commit c5c998a08ef9f655de147cb58d9797d7ece39ee2
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Nov 4 23:43:39 2014 +0100
+
+    Reactive Rabbit
+
+commit d7456a73df66962f2028c62b0679b6ab5f90ae0e
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Nov 4 23:41:59 2014 +0100
+
+    drones
+
+commit 98e764709ee1572b6a4d4899551867aab2a6139c
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Nov 4 23:32:21 2014 +0100
+
+    review
+
+commit 54b20be2583569bf8de27fc22268086c2f0a1e93
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Nov 4 22:30:11 2014 +0100
+
+    chrome
+
+commit 78d1dfda546a30b48381e48dada4c955dbc0df0e
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Nov 4 22:15:28 2014 +0100
+
+    scala
+
+commit 16602c511b9ff1c3f7b0a7a19fe1c604d93e8fd4
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Nov 4 22:07:51 2014 +0100
+
+    Update 2014-11-7-digest-8.markdown
+
+commit 7a1d7c58085f2ea211a933561ee42329fce639e9
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Nov 4 22:07:06 2014 +0100
+
+    Update 2014-11-7-digest-8.markdown
+
+commit 3f32ef531be6a0fa7e8bbe469eaa523d40d17820
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Nov 3 09:49:32 2014 +0100
+
+    init
+
+commit d88f565617e7c16a8c6e62b13a369242a6aaf481
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 31 16:35:09 2014 +0100
+
+    add tags
+
+commit b6b202746f3947f17ccd3cf9d7d8deab1c3b7c8c
+Merge: 1019a46 e76e4df
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 31 16:32:18 2014 +0100
+
+    Merge branch 'digest_#7'
+
+commit e76e4df559ca90dd9ead086040373228e7fcc05d
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 31 16:31:09 2014 +0100
+
+    fix
+
+commit e7c0bc3901faf0c2db454ec946b0d21e2dc29ca2
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Fri Oct 31 15:19:40 2014 +0100
+
+    Update 2014-10-24-digest-7.markdown
+
+commit 5f731668cda0be92b7a921e566fa5d759afc15d4
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 31 15:13:59 2014 +0100
+
+    mobile
+
+commit bedc3aecebb412f0d201e58f22ed8d2785dcb436
+Author: serafinmaciej <maciej.serafin@scalac.io>
+Date:   Fri Oct 31 15:06:00 2014 +0100
+
+    Update 2014-10-24-digest-7.markdown
+
+commit 4e50e100015ce7fdcded8c4b5984b25b66916d65
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 31 14:54:35 2014 +0100
+
+    fix
+
+commit fa93a5276659d9e50bc150ae10864bb35c9bff6e
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 31 14:49:20 2014 +0100
+
+    intro
+
+commit 89630db6fef432653594398c7b134ad07b617d5d
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 31 14:34:08 2014 +0100
+
+    WIP
+
+commit 8cf214b98ffe3a35c416e54ef533742d869c6ca0
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 31 13:42:54 2014 +0100
+
+    remove additional links
+
+commit 23c06e640af7aa1ddfa977f556ceb27be5f241c8
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Oct 29 09:34:18 2014 +0100
+
+    mobile
+
+commit 400d7287b19210ee3d214db7061134b52d8f30bd
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Oct 28 22:14:59 2014 +0100
+
+    change slug
+
+commit c8a3b313398ed5831e734f7b22f63ed993039502
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Oct 28 11:20:15 2014 +0100
+
+    lol talk
+
+commit 7b2c842db42422aeeee234da3cc9990a1519fbfe
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Oct 28 10:35:56 2014 +0100
+
+    fix
+
+commit 2f45491d54a5eb7ab5b83ee5b60e10ce0a778c8a
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Oct 28 10:35:26 2014 +0100
+
+    live code
+
+commit 4b48c001e63a46f65cf8904243185fb4c34f9dfc
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Oct 27 10:33:12 2014 +0100
+
+    remote
+
+commit a624722f90b69391db5df282423cbd3050db1438
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Oct 26 22:16:55 2014 +0100
+
+    pillars
+
+commit d7bd8fb73a7ffadf11a1eb6112494fb478412d39
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Oct 26 20:08:02 2014 +0100
+
+    polymer
+
+commit 8af241d6e174538f9577a13535fffd4745d5065a
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Sun Oct 26 19:20:05 2014 +0100
+
+    Update 2014-10-24-digest-7.markdown
+
+commit eca44b1d1f40fc4677dc6e9b970fa723791e39d8
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Oct 26 15:49:00 2014 +0100
+
+    clojure state
+
+commit 1019a467fdacebfb3eb1cbc5f5da48822501f07c
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 24 17:37:10 2014 +0200
+
+    digest #6 done
+
+commit 3edbf8fc6ded5800261cfc1b169328be8ae4aec6
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 24 17:19:13 2014 +0200
+
+    fixes
+
+commit 3e230b3c01b25e7d4a07622f3d89e2745fb17d56
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 24 16:50:25 2014 +0200
+
+    om
+
+commit b37343cb9c8f78ca5d296973e24767e86eb54eb4
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 24 16:46:06 2014 +0200
+
+    fix
+
+commit 072ff9cf16b25f5e611a561700e04f58bb2c269c
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 24 16:44:04 2014 +0200
+
+    editing - adding text
+
+commit fb02bb89c08712cc8578ffa9e73fe3cb4d36d25c
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Oct 23 17:42:56 2014 +0200
+
+    actor model
+
+commit c7d6c3405c5b7106f5b69896292d6dec911a7f9b
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Oct 23 10:03:52 2014 +0200
+
+    gearpump
+
+commit e425b455d5c0e2099560e40c1268bf56d18fddd8
+Author: serafinmaciej <maciej.serafin@scalac.io>
+Date:   Wed Oct 22 14:14:45 2014 +0200
+
+    Update 2014-10-24-digest-7.markdown
+
+commit cb9c5d7f2fb8342db10f5bb4de6acb66b448dd37
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Oct 22 13:00:00 2014 +0200
+
+    init
+
+commit 466d22fc9583ab5d84edd31cf604b941fb3c7fc8
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Oct 21 22:17:43 2014 +0200
+
+    actors
+
+commit 652963b0ac14dfa74e05cc38e5a12f60ccf7c627
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Oct 21 22:04:08 2014 +0200
+
+    how browsers work
+
+commit 64fbf6741f8907fe3be35ca847195516a368ffcf
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Oct 21 15:37:02 2014 +0200
+
+    Architecture
+
+commit 704c79b64447b1cb8334a5264826030eb389833b
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Oct 21 09:54:36 2014 +0200
+
+    3 reasons to learn scala
+
+commit 14c60d5a47becb97432564cf1f24d929964e2d2a
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Oct 21 09:38:40 2014 +0200
+
+    endrum
+
+commit 3ade4472dcd84d985deadebc9db5ac4fceebe8fe
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Oct 21 09:34:04 2014 +0200
+
+    js DSL
+
+commit c242fb9655d0fa611f89079994bf7f0f2a4e909b
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Oct 20 18:07:18 2014 +0200
+
+    topological qubit
+
+commit 56080384f4092a4bb6a8c6c879124fabca5c7600
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Oct 20 11:28:52 2014 +0200
+
+    naptha
+
+commit 0f11b3e718a0a964832b12abb5032915cca0b6d1
+Author: Sławomir Wójcik <valdaer@gmail.com>
+Date:   Mon Oct 20 11:23:58 2014 +0200
+
+    Update 2014-10-24-digest-6.markdown
+    
+    removed redundant asterix ;P
+
+commit d2d5e706c5b8e925c503d834791c1ddf5528e947
+Author: Sławomir Wójcik <valdaer@gmail.com>
+Date:   Mon Oct 20 11:23:29 2014 +0200
+
+    Update 2014-10-24-digest-6.markdown
+    
+    added typelevel scala annoucement
+
+commit e2fee8b66bea709a56eda6c93920634234b97797
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Oct 19 19:58:29 2014 +0200
+
+    AI gen
+
+commit 65ea303be2c5a9f23bc44b123abdcc6eee21789d
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Oct 19 18:25:00 2014 +0200
+
+    Android wear
+
+commit 882a64e7501de5ecffc2cc1ec11e835551b2d385
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Oct 19 18:16:42 2014 +0200
+
+    retrofit
+
+commit e9e517c646e218dfc8393225dd96d4e26b192d63
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sat Oct 18 20:59:25 2014 +0200
+
+    activate
+
+commit 7320f247b0525da0945e9a6aac3376b97fed4ef1
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 17 21:27:01 2014 +0200
+
+    digest #6 init
+
+commit c8aea1b5e9e6839cf0349428c99cf4787e897f00
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 17 21:23:30 2014 +0200
+
+    tags
+
+commit f8a3c6672edc561298121bf1d6494032b7ac168d
+Merge: bd691b9 b275d63
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 17 21:21:28 2014 +0200
+
+    Merge branch 'digest_#5'
+
+commit b275d639e955523709bfe8f088cac3f2fc01f95b
+Author: Lukasz Kuczera <lukasz@kuczera.me>
+Date:   Fri Oct 17 21:14:11 2014 +0200
+
+    Update 2014-10-10-digest-5.markdown
+
+commit fddd8609f1ea1c979e4ed369f87de7ec152b0dcb
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Fri Oct 17 19:36:54 2014 +0200
+
+    Typos
+
+commit 91ae00183bbe336b929bc16cf1889cf7b8183c95
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 17 19:28:55 2014 +0200
+
+    done
+
+commit f360fccfedfc729337843e06170082680df4112c
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Oct 15 21:23:47 2014 +0200
+
+    Update 2014-10-10-digest-5.markdown
+
+commit fc75cf2c8f4ce5041d8b02b4c3f6435c6d07d88b
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Oct 15 21:19:39 2014 +0200
+
+    Update 2014-10-10-digest-5.markdown
+
+commit f7e45a48aa86ccc8a6ce7362e2d1ebaa027cd468
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Oct 15 19:28:38 2014 +0200
+
+    Update 2014-10-10-digest-5.markdown
+
+commit 20aa1a476aadf4c2f08fae345a2f1660435ba44c
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Oct 15 17:03:06 2014 +0200
+
+    Update 2014-10-10-digest-5.markdown
+
+commit 4ace46a2da09e13e48ee0eae2b2c510eed8fee00
+Author: Lukasz Kuczera <lukasz@kuczera.me>
+Date:   Wed Oct 15 16:32:43 2014 +0200
+
+    Added Hammock Driven development by rich hickey
+
+commit 342e03aa97a91ebd9d4379f3cf599af8cddd19c8
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Oct 15 16:30:00 2014 +0200
+
+    Update 2014-10-10-digest-5.markdown
+
+commit 4dbfc83b183dac9447cf35e59e68d98fb5c65793
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Oct 14 12:46:27 2014 +0200
+
+    Update 2014-10-10-digest-5.markdown
+
+commit 4ce241d44c4aeb4dfe97672582541a32b6bf0a23
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Oct 14 12:17:34 2014 +0200
+
+    Update 2014-10-10-digest-5.markdown
+
+commit c194029d48514d2a761bbd2faffc1d0595697642
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Oct 14 12:12:33 2014 +0200
+
+    Update 2014-10-10-digest-5.markdown
+
+commit 201c477449c601a8950358994eb8d4a2c0d0876a
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Oct 14 11:30:48 2014 +0200
+
+    Update 2014-10-10-digest-5.markdown
+
+commit bd691b968bba7d91e76ba6afdf277cb5b1e16fc2
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 10 21:11:50 2014 +0200
+
+    tags
+
+commit b3ecabf68e9647229ee3e2990cf644b984d1980e
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 10 20:10:23 2014 +0200
+
+    Update 2014-10-07-digest-4.markdown
+
+commit af7809805d9318e54c5ee4af36bb9e0ac7deaca8
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 10 20:05:01 2014 +0200
+
+    Update 2014-10-07-digest-4.markdown
+
+commit acd6d94ec845f834d46ea682ed7cf344fe09c59b
+Author: Lukasz Kuczera <lukasz@kuczera.me>
+Date:   Thu Oct 9 11:14:28 2014 +0200
+
+    Update 2014-10-07-digest-4.markdown
+
+commit 45014f624f95b4173cb9371cadc4725e95a56759
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Wed Oct 8 10:46:01 2014 +0200
+
+    init
+
+commit c823f2cd0dead7d2ca7f5dae1a94787eba038530
+Author: Patryk Grandt <spav@spav.com.pl>
+Date:   Tue Oct 7 23:20:15 2014 +0200
+
+    Update 2014-10-07-digest-4.markdown
+
+commit 63439555892957eb4a6ca8aadb9ded3fd36249be
+Author: Lukasz Kuczera <lukasz@kuczera.me>
+Date:   Tue Oct 7 22:26:50 2014 +0200
+
+    Update 2014-10-07-digest-4.markdown
+
+commit 93dcd0e053b32340d24ed07f520740f343b24882
+Merge: 673a12b de4f82e
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Tue Oct 7 22:21:38 2014 +0200
+
+    Merge branch 'master' into digest_#4
+
+commit 673a12b6f6f38bb917efa86f91c2999f6d0c28e9
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Oct 7 22:19:00 2014 +0200
+
+    Update 2014-10-07-digest-4.markdown
+
+commit 85e4d0d6b59e164a53772f239f575da60d901490
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Oct 7 18:55:24 2014 +0200
+
+    Update 2014-10-07-digest-4.markdown
+
+commit f6c3c77ea317ffcf44521269c165c79be4b3c2c8
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Oct 7 18:40:01 2014 +0200
+
+    Update 2014-10-07-digest-4.markdown
+
+commit 13dea52a7312f65b02539eeaef623683163f4dc5
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Oct 7 18:16:58 2014 +0200
+
+    Update 2014-10-07-digest-4.markdown
+
+commit 8ef1478dc51167899501a7860d69b42dc871abee
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Oct 7 14:45:01 2014 +0200
+
+    Update 2014-10-07-digest-4.markdown
+
+commit 3feaa773cc9363bde45a781030c9df309e55646e
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Oct 6 16:30:23 2014 +0200
+
+    Update 2014-10-07-digest-4.markdown
+
+commit 18fca394ffb7d5325881314649f7f31e663d783b
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Oct 6 14:31:52 2014 +0200
+
+    Update 2014-10-07-digest-4.markdown
+
+commit 0844e11a15bdec9f086f1a52dac36ea34fbff3bd
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Oct 5 22:20:29 2014 +0200
+
+    Update 2014-10-07-digest-4.markdown
+
+commit 3a6e8fbeaacba804a1bff187c4ce305c4d42f0ec
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sun Oct 5 21:19:21 2014 +0200
+
+    scala pickling
+
+commit de4f82e3ad5684931449f211141b7e6b0c009c4d
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 3 19:02:23 2014 +0200
+
+    tags
+
+commit 633e2e2612e1f8284e19f1caad0fec833e21b550
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Fri Oct 3 10:41:33 2014 +0200
+
+    Update 2014-09-30-digest-3.markdown
+
+commit 3c08b386af709fb2ba8b10165d16581b43d9cf07
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 3 10:38:16 2014 +0200
+
+    desc
+
+commit 33e173fe9faeeafd3a6b125201a139f2884f6415
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 3 10:35:47 2014 +0200
+
+    Update 2014-09-30-digest-3.markdown
+
+commit afe1d7f5eb0595df4c02472a104cabb4a281cb39
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Oct 3 10:14:02 2014 +0200
+
+    Cleanup
+
+commit d406bbdd633f03c834f3d56f4a5c259f73482773
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Sep 30 22:51:27 2014 +0200
+
+    Update 2014-09-30-digest-3.markdown
+
+commit 6f5858842f8f4750d3d1f33832b6a63e73faae98
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Tue Sep 30 14:42:47 2014 +0200
+
+    Update 2014-09-30-digest-3.markdown
+
+commit cbe07f0d14fc76698a0f58c3f4182eb7eb1a01ca
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Tue Sep 30 11:05:41 2014 +0200
+
+    Update 2014-09-30-digest-3.markdown
+
+commit b4baca29847d12de9cb483bd1e3977dc3f146bea
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sat Sep 27 13:46:38 2014 +0200
+
+    Update 2014-09-30-digest-3.markdown
+
+commit e9c4c1f342052b4a5c1384d6dd68548e2a4e9cc0
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Sep 26 20:01:36 2014 +0200
+
+    starter
+
+commit 017e56f545c2f8a1326c1b50706883810fa9cff5
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Sep 26 19:44:50 2014 +0200
+
+    draft
+
+commit 1949701413c78829cbb0fcc0498b537290591c42
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Oct 2 22:40:28 2014 +0200
+
+    Update 2014-10-07-digest-4.markdown
+
+commit fa0a10e0e52294f9a7375d060828f909267551cc
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Thu Oct 2 13:35:20 2014 +0200
+
+    Create 2014-10-07-digest-4.markdown
+
+commit 647ffafb518587fcdd95abc956037797e1b577b7
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Sun Sep 28 18:37:58 2014 +0200
+
+    damn fix
+
+commit 2fcd8ac648c2544447599cf9fc3bd2110e5a53b2
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Sun Sep 28 18:36:52 2014 +0200
+
+    updated readme
+
+commit 351d7c7e38f0f6c581b82a26db8c03e335c5cbd1
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Sun Sep 28 18:15:04 2014 +0200
+
+    updated tags
+
+commit 6552d4522be4844b04dbabdd96ea1b03b107f1a1
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Sep 26 18:35:05 2014 +0200
+
+    Update 2014-09-19-digest-2.markdown
+
+commit 795b0bb8f9e783bb5c12fe5f9d961b814f5e460e
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Sep 26 18:28:46 2014 +0200
+
+    local tags
+
+commit 4fcb81f9970a2e2e035dd8f14aa9c61c17ee10e6
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Sep 26 18:23:06 2014 +0200
+
+    tags
+
+commit c00b21e7eb0328c039ee1b9bfa358295becbd1a6
+Merge: ec62740 ef9a5fe
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Sep 26 18:17:02 2014 +0200
+
+    Merge pull request #12 from ScalaConsultants/digest_#2
+    
+    Digest #2
+
+commit ef9a5fec6e2f27bac8315636c6176a7d15d32001
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Sep 26 17:17:58 2014 +0200
+
+    Update 2014-09-19-digest-2.markdown
+
+commit ec62740e63bf2431d3fabfbe451db66843237cd7
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Fri Sep 26 16:14:59 2014 +0200
+
+    fix rabbitmq tag dates
+
+commit 2fdf78a0618bf5a8208c106f03ea33bab4888e1d
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Fri Sep 26 16:04:16 2014 +0200
+
+    fix rabbitmq tag links
+
+commit 4a6089be4ccad6b7c436b17be62d59b94b36087b
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Fri Sep 26 15:59:48 2014 +0200
+
+    fix path to article
+
+commit 43e8ac0377c62826a60ca39cb0b86cfc22d36522
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Sep 26 12:52:39 2014 +0200
+
+    in style
+
+commit c29569dacbf7535be01adafbe0362049e17b6742
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Fri Sep 26 11:57:26 2014 +0200
+
+    Update 2014-09-19-digest-2.markdown
+
+commit 3ff08a5a16c3c8445a3c741175edbef8cc7be7e0
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Fri Sep 26 11:55:29 2014 +0200
+
+    Update 2014-09-19-digest-2.markdown
+
+commit 4ff7f8788c412018f487ed21d7ae100f959d52e1
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Fri Sep 26 11:53:48 2014 +0200
+
+    Update 2014-09-19-digest-2.markdown
+
+commit d62229ad60daf6d195e038a49319e8e155d9a7f7
+Author: Lukasz Kuczera <lukasz@kuczera.me>
+Date:   Fri Sep 26 11:52:20 2014 +0200
+
+    Update 2014-09-19-digest-2.markdown
+    
+    I could mess it up, edited on github.
+
+commit 54245c9bbff03772b2754781625769acde7af8a9
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Thu Sep 25 22:17:11 2014 +0200
+
+    moje linki
+
+commit 0539fa3849bc923e3dca901a84551d7209e0d842
+Author: Lukasz Kuczera <lukasz@kuczera.me>
+Date:   Tue Sep 23 09:25:11 2014 +0200
+
+    Update 2014-09-19-digest-2.markdown
+    
+    Added ART vs. Dalvik and Hackers video.
+
+commit 03e8da9420438b60114c3eede030626040102915
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Mon Sep 22 21:43:51 2014 +0200
+
+    Update 2014-09-19-digest-2.markdown
+
+commit 0126cfdf22d3a578d4dbe98c5a9c7da1549b0918
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Mon Sep 22 11:38:07 2014 +0200
+
+    Update 2014-09-19-digest-2.markdown
+
+commit fcc7d0bb17af4fb29ed3aeec4d1d53dde033803e
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Sat Sep 20 23:10:20 2014 +0200
+
+    Update 2014-09-19-digest-2.markdown
+
+commit be7ec34cafb02437ff1a14615dfda0f3c8dd3e3b
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Sat Sep 20 20:05:14 2014 +0200
+
+    Update 2014-09-19-digest-2.markdown
+
+commit 8f925f8242320b7dae8faaa5d3c3ffc077bf4ebb
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Sep 19 22:08:53 2014 +0200
+
+    linki
+
+commit 605891fc4fbd7af68a575ed18ed6b16079b3c6e8
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Fri Sep 19 14:58:04 2014 +0200
+
+    raft
+
+commit 43888278d0cdd997b123dfff8e90e89c19a3e3a4
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Fri Sep 19 11:50:54 2014 +0200
+
+    Update 2014-09-19-digest-2.markdown
+
+commit 6942b0879e46bd68a442f076ffbcd9624a31e003
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Sep 19 09:50:35 2014 +0200
+
+    init digest 2
+
+commit e0a37a9bce728747487542196adc4eaa7827071c
+Merge: e3b7a9a 1d87c1a
+Author: Lukasz Kuczera <lukasz@kuczera.me>
+Date:   Thu Sep 18 16:05:32 2014 +0200
+
+    Merge pull request #11 from ScalaConsultants/digest_#1
+    
+    Digest #1
+
+commit 1d87c1a72a9b0cd0683c57ecfd88f25eae9e869b
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Wed Sep 17 21:05:08 2014 +0200
+
+    Update 2014-09-12-digest-1.markdown
+
+commit 1183a559e0aa19608c8ce3a0d098eb004b05952e
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Sep 16 22:36:02 2014 +0200
+
+    Update 2014-09-12-digest-1.markdown
+
+commit 896f5a911e0d13d191798fcf2ae368799eb79920
+Author: Patryk Jażdżewski <pjazdzewski1990@gmail.com>
+Date:   Tue Sep 16 22:19:29 2014 +0200
+
+    Update 2014-09-12-digest-1.markdown
+
+commit 1134f01a3c45bf0d9d4b0241151526317d37e4c5
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sun Sep 14 21:54:11 2014 +0200
+
+    11 postow
+
+commit d12d8a0ae98ed684cdde0b0dc685e86ae159d993
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Sat Sep 13 10:39:03 2014 +0200
+
+    js link
+
+commit baf3cbf26228be44f3ddf1b8ea361cbbe3a81d12
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Sep 12 23:43:50 2014 +0200
+
+    add kamon
+
+commit bed4cc0e8ef6689946a7c9e09578bce12bf42d7b
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Fri Sep 12 23:39:18 2014 +0200
+
+    first 6 links
+
+commit e3b7a9a06c4e4f29563b94d4848b8a39a84c8d42
+Author: Wojciech Szymański <w.szymanski1990@gmail.com>
+Date:   Thu Aug 14 10:44:40 2014 +0200
+
+    sharper logo
+
+commit 3ba7d2e1deb208b80032bdf7e7c5b48d3711c532
+Merge: 5d3dcf3 4aaa76f
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Thu Jul 31 13:11:42 2014 +0200
+
+    Merge pull request #10 from anadoba/gear_post
+    
+    Galaxy Gear2 post
+
+commit 4aaa76f9c03f37aaaa5ec635664240c196b924da
+Author: Adam Nadoba <anadoba@windowslive.com>
+Date:   Wed Jul 30 09:47:14 2014 +0200
+
+    date updated once more
+
+commit 958f7de77560606bbfd9c8621efc4dac6655bdbe
+Author: Adam Nadoba <anadoba@windowslive.com>
+Date:   Tue Jul 29 10:35:19 2014 +0200
+
+    date changed
+
+commit 33bb1c205e78c3c8c7adce17886ee501d47a2d6f
+Author: Adam Nadoba <anadoba@windowslive.com>
+Date:   Mon Jul 28 22:28:40 2014 +0200
+
+    quoted code fix
+
+commit e6bc5315d2d8613cd31cdcab5ecd254d3bd0723b
+Author: Adam Nadoba <anadoba@windowslive.com>
+Date:   Mon Jul 28 22:13:02 2014 +0200
+
+    final version
+
+commit 7954099232317ef9fd96029895db9d57ec815676
+Author: Adam Nadoba <anadoba@windowslive.com>
+Date:   Tue Jul 22 15:55:55 2014 +0200
+
+    link to repo added, diagram added, few improvements
+
+commit 6afc07e15482a02a13376aef6b9e6a91cb689937
+Author: Adam Nadoba <anadoba@windowslive.com>
+Date:   Tue Jul 22 12:57:57 2014 +0200
+
+    some minor fixes
+
+commit 2c1f406a6b657621a605d306b0213bd3843200b0
+Author: Adam Nadoba <anadoba@windowslive.com>
+Date:   Tue Jul 22 12:15:09 2014 +0200
+
+    tags added
+
+commit af9417be3ebfe4cc22b24f9e5110be309d627562
+Author: Adam Nadoba <anadoba@windowslive.com>
+Date:   Tue Jul 22 12:10:06 2014 +0200
+
+    Galaxy Gear app tutorial blog post
+
+commit 5d3dcf3880961adf8b822ccf16a083e20174e9a8
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Thu Jun 26 01:06:34 2014 +0200
+
+    two column layout
+
+commit d9aaef97cad2bf2e11ed5e561c290eb86edc9de1
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Tue Jun 24 00:38:35 2014 +0200
+
+    updated tags
+
+commit 1984adcaf3e997e21840f07cf58f36ad6e321b1f
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Tue Jun 24 00:34:04 2014 +0200
+
+    tag and summary fixes
+
+commit c067a71b177e0f61df4eee2c24f55d1d09f3eee6
+Merge: 92971a6 8d2d5d5
+Author: Jakub Czuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Tue Jun 24 00:26:08 2014 +0200
+
+    Merge pull request #9 from ScalaConsultants/rabbitmq-with-akka-stream
+    
+    Rabbitmq with akka stream
+
+commit 8d2d5d50aae36cdfdefd264ef80aa9c34c192362
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Tue Jun 24 00:21:32 2014 +0200
+
+    code changes and file rename
+
+commit 6f73e9672691ed9b17461f8c1022ead78ae7f057
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Mon Jun 23 23:32:42 2014 +0200
+
+    proofread
+
+commit f9d5a5e12b862dfe8bf55fa580737a170e17d3eb
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Mon Jun 23 02:15:29 2014 +0200
+
+    typos and some style fixes
+
+commit c176dbdebd1a1f81bd5d4b1932c6a49219601567
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Sun Jun 22 18:41:54 2014 +0200
+
+    empty line
+
+commit 7e88ed467f0704a5d1469ff431ec7e41c2a57462
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Sun Jun 22 17:27:44 2014 +0200
+
+    mostly finished
+
+commit 7686ccb54ec11a6929b46edee95543c62013104a
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Fri Jun 20 01:23:24 2014 +0200
+
+    some more meat
+
+commit 92971a60af23663771419f332b81a6f30645869a
+Merge: c734b97 61f514f
+Author: Jakub Czuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Thu Jun 19 15:48:33 2014 +0200
+
+    Merge pull request #8 from ScalaConsultants/sbt-process-runner
+    
+    Sbt process runner
+
+commit 61f514f68c5872c97bb89a3f3dc4ff9282f041dc
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Thu Jun 19 15:45:42 2014 +0200
+
+    updated tags
+
+commit 572f3b6c2ebcfb1938e0fefdc1bb0d349db3b2e9
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Thu Jun 19 15:44:03 2014 +0200
+
+    Maruku -> kramdown code blocks
+
+commit d1e81179ad8ecab8e9e693e96338733f836880f9
+Merge: f1929f0 c734b97
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Thu Jun 19 15:41:21 2014 +0200
+
+    Merge branch 'master' into sbt-process-runner
+
+commit 214d30ff00796f555a1feb5d73260b0eb69259e2
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Thu Jun 19 15:32:57 2014 +0200
+
+    some initial notes
+
+commit f1929f078d5d2c935449228173164c1854fc7f67
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Thu Jun 19 15:30:57 2014 +0200
+
+    proofread
+
+commit c734b978bdc8620f6a750786a338a1d44ab9ae59
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Sun Jun 15 23:43:33 2014 +0200
+
+    extended readme
+
+commit 0be708e9db46297f54a05406849c5f67091faaa8
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Sun Jun 15 23:40:12 2014 +0200
+
+    extended readme
+
+commit 59e279bc25b29b4c0167a27e5ffd62a35e8bc314
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Sun Jun 15 03:21:30 2014 +0200
+
+    added tags list with count
+
+commit 4c8d4abbedbf59da0a6c62e9fe4b75066d236617
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Sun Jun 15 03:20:29 2014 +0200
+
+    adde comments on the main page
+
+commit 4072eeefec13fb29207cf6510606af237cf31b44
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Sun Jun 15 01:28:20 2014 +0200
+
+    added CodeRay for code block syntax highlighting
+
+commit 0f3c85136e44609be349df4e4ac8f65e172ef19a
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Sun Jun 15 01:20:36 2014 +0200
+
+    changed parser to kramdown (as suggested by GitHub)
+
+commit d97dca60729a7fc900ff50f9fe6073f73e35a97f
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Sat Jun 14 22:48:36 2014 +0200
+
+    generated missing tag pages
+
+commit 7ab4731d10329598f45f00d5b5603881531469c4
+Author: jczuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Sat Jun 14 22:22:56 2014 +0200
+
+    removed unused comment in post
+
+commit f2f2df1bcacfcc8e48369e186a1e0491fad53dbd
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Fri Jun 13 12:56:21 2014 +0200
+
+    Update 2014-06-09-sbt-process-runner.markdown
+
+commit 4bbd29da8d36212de00b3785aafea1e4e2806c3c
+Author: Jan <janek.ziniewicz@gmail.com>
+Date:   Fri Jun 13 12:54:55 2014 +0200
+
+    SBT process runner
+
+commit f044f76150d9a3f82e24f8118475363566df4c6f
+Author: Jan <janek.ziniewicz@gmail.com>
+Date:   Fri Jun 13 12:42:56 2014 +0200
+
+    SBT process runner
+
+commit 530d9c95698ee5f0beff742cb7a3c0287c12beb1
+Merge: e2dad9e 5b2a80b
+Author: Lukasz Kuczera <lukasz@kuczera.me>
+Date:   Tue Jun 10 21:36:43 2014 +0200
+
+    Merge pull request #6 from ScalaConsultants/geecon-post
+    
+    Preliminary version of geecon blogpost.
+
+commit 5b2a80b662b83d8b5df00085ce715f5278eeed43
+Author: Valdaer <valdaer@gmail.com>
+Date:   Tue Jun 10 17:00:44 2014 +0200
+
+    transformed to markdown with corrections
+
+commit 0bb889ebed8df041f92e8e54cafd146cbe560ee7
+Author: Valdaer <valdaer@gmail.com>
+Date:   Fri Jun 6 13:10:09 2014 +0200
+
+    initial plain text to read
+
+commit e2dad9eb1d3dc4c14a03255046080523901c793d
+Merge: b5e8283 fcf07ba
+Author: Lukasz Kuczera <lukasz@kuczera.me>
+Date:   Mon May 19 13:05:35 2014 +0200
+
+    Merge pull request #5 from akaczynski/master
+    
+    Added photo service design tips post
+
+commit b5e8283791081f7bc55204207a5185bde2bbf496
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Tue Apr 22 14:45:50 2014 +0200
+
+    takie tam
+
+commit 32a6e52955f77b1a580e73a76bb07381b6c6d936
+Author: Jakub Czuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Fri Feb 28 17:43:05 2014 -0800
+
+    Google Analytics
+
+commit fe67cca79ca47e1ae09f8fca55c4470d6d7f42f5
+Author: Jakub Czuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Thu Feb 27 09:51:08 2014 -0800
+
+    custom domain - another attempt
+
+commit 55cb97b4418e910914dc272163a789f7e54a6c8b
+Author: Jakub Czuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Tue Feb 25 13:16:18 2014 +0100
+
+    removing redirection
+
+commit 12289d15cdeea2fce84aeea75013a736d63335ed
+Author: Jakub Czuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Sun Feb 23 14:12:41 2014 +0100
+
+    custom domain
+
+commit a9d8e30de2cd3f85001613c5fb56f33257a8ec3e
+Author: Jakub Czuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Wed Feb 19 16:01:41 2014 -0800
+
+    adding favicon
+
+commit c3a211055d989677b43e265e09b1988a162b3861
+Author: Jakub Czuchnowski <giacomo@ubuntu.(none)>
+Date:   Wed Feb 19 14:53:42 2014 -0800
+
+    fixing tags
+
+commit fcf07ba84eae53746d9b2e415b99021b6174be09
+Author: Arkadiusz Kaczyński <kaczortrex@gmail.com>
+Date:   Fri Feb 7 14:40:58 2014 +0100
+
+    Wrote it in a different form
+
+commit 09b71cacd28b342e7dfda7ba68793db082ec3e4e
+Author: Arkadiusz Kaczyński <kaczortrex@gmail.com>
+Date:   Thu Feb 6 13:16:46 2014 +0100
+
+    Added photo service post
+
+commit 4ad42948c6500bd16eba66e80d1ab36cec8ed21e
+Author: Jakub Czuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Thu Jan 30 03:07:42 2014 +0100
+
+    fixed typo
+
+commit 07400fe5ab0614e1806c89309c5f6a6861f548a3
+Author: Jakub Czuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Thu Jan 30 02:40:23 2014 +0100
+
+    css improvements
+
+commit 962889ac30c9fcd9d80a3856d5f943dc246052f9
+Merge: 27cf909 d791b5e
+Author: Jakub Czuchnowski <jakub.czuchnowski@sarmatia.co>
+Date:   Wed Jan 29 06:25:39 2014 -0800
+
+    Merge pull request #4 from ScalaConsultants/add_post
+    
+    fixing jekyll header
+
+commit d791b5e50b44f65972d506e64989e04dbe3abbcf
+Author: Jakub Czuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Wed Jan 29 15:24:04 2014 +0100
+
+    fixing jekyll header
+
+commit 27cf909578f3307a3c2d49da46237c17dc74ef79
+Merge: d86735f 8335408
+Author: Jakub Czuchnowski <jakub.czuchnowski@sarmatia.co>
+Date:   Wed Jan 29 06:06:50 2014 -0800
+
+    Merge pull request #3 from ScalaConsultants/add_post
+    
+    Lift HTTP rate limiting by whysoserious
+
+commit d86735f683325755768666b81b73d065716fb051
+Merge: 29ffbcb a228a85
+Author: Lukasz Kuczera <kukems@gmail.com>
+Date:   Fri Jan 24 01:48:11 2014 -0800
+
+    Merge pull request #2 from ScalaConsultants/langfix
+    
+    language fixes and improved links
+
+commit a228a85641c17d991f75f4de8093a6212b5065b7
+Author: Jakub Czuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Thu Jan 23 23:19:32 2014 +0100
+
+    language fixes and improved links
+
+commit 833540883bc493e733d9cbb19e4260aad5182719
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Thu Jan 23 17:06:30 2014 +0100
+
+    Update 2014-01-23-rate-limit.markdown
+
+commit 6cdc23b93953be9d6b7540335bb33a3da167e253
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Thu Jan 23 17:04:56 2014 +0100
+
+    Update 2014-01-23-rate-limit.markdown
+
+commit 916f4f01e23fd4783a527b3eb69e3b3a20a4b5ee
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Thu Jan 23 17:02:00 2014 +0100
+
+    Update 2014-01-23-rate-limit.markdown
+
+commit 855e0bad1c0710784e0b3369cb20d1bba1d1faab
+Author: Jan Ziniewicz <mrholograham@gmail.com>
+Date:   Thu Jan 23 16:56:51 2014 +0100
+
+    Update 2014-01-23-rate-limit.markdown
+
+commit 334606524ec663588afc61412657e05a8c536032
+Author: Jan <janek.ziniewicz@gmail.com>
+Date:   Thu Jan 23 16:55:50 2014 +0100
+
+    Post: Rate limits
+
+commit 29ffbcb67d8abff673ff7daf050b2c3dbcdabd24
+Merge: ddec02d 8c7b2dc
+Author: Jakub Czuchnowski <jakub.czuchnowski@sarmatia.co>
+Date:   Mon Jan 13 07:04:59 2014 -0800
+
+    Merge pull request #1 from ScalaConsultants/add_post
+    
+    ADD post
+
+commit 8c7b2dc89e1b1546fbb4b9e4b1116f52b5cbf491
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Jan 13 15:14:50 2014 +0100
+
+    removing dummy posts
+
+commit bac44408f6ace943311e78efb82ce68a36c52d56
+Author: pjazdzewski1990 <pjazdzewski1990@gmail.com>
+Date:   Mon Jan 13 10:37:38 2014 +0100
+
+    blog post about add
+
+commit ddec02d0f4bd7bfd143e0e146c47a16e3a0be399
+Author: Jakub Czuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Sun Dec 29 17:54:39 2013 +0100
+
+    improved display on mobile devices
+
+commit b770e4595000fc3a31039cc807f6087f2f5111c0
+Author: Jakub Czuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Sun Dec 29 01:00:50 2013 +0100
+
+    styles for footer
+
+commit 027b2a9831491daf44c7cdf37db47f28c0bedd8b
+Author: Jakub Czuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Sun Dec 29 00:54:49 2013 +0100
+
+    Disqus
+
+commit 54daecdfc566955b15ac41c4c27d56beebe41b2a
+Author: Jakub Czuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Sun Dec 22 01:19:56 2013 +0100
+
+    style fixes
+
+commit a889eb33cda89357cef530e79b90184e8313c037
+Author: Jakub Czuchnowski <jakub.czuchnowski@gmail.com>
+Date:   Sat Dec 21 23:37:36 2013 +0100
+
+    initial commit
+
+commit 230a1897482d8eb287aef95361163cb72a6775ab
+Author: Jakub Czuchnowski <jakub.czuchnowski@sarmatia.co>
+Date:   Sat Dec 21 14:28:57 2013 -0800
+
+    Initial commit
