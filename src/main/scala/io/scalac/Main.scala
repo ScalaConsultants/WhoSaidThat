@@ -5,6 +5,13 @@ import org.apache.spark.{SparkContext, SparkConf}
 
 import scala.collection.mutable
 
+/**
+ * Who said that?
+ * Based on commit history suggest who could say the given phrase or word
+ * Search should:
+ * be fuzzy,
+ * not be flooded if a user pushed many commits
+ */
 
 object Main extends App{
   println(s"Starting")
@@ -16,16 +23,17 @@ object Main extends App{
   println(s"${similarity.mkString("\n")}")
 
   def run(target: String): Array[(String, Double, Seq[String])] = {
-    val conf = new SparkConf().setAppName("Who said that").setMaster("local[2]")
+    val conf = new SparkConf().setAppName("Who said that?").setMaster("local[2]")
     val spark = new SparkContext(conf)
 
     val rawData = cleanData(spark, "git_log.txt")
     //  rawData.saveAsTextFile("git_log_clean.txt")
 
+
     val authorAndCommits = groupData(rawData.collect())
     //  authorAndCommits.foreach{ case (a, cs) => println(s"$a said: \n  ${cs.mkString("\n  ")}")}
-    val authorAndCommitsRDD = spark.parallelize(authorAndCommits.toSeq)
 
+    val authorAndCommitsRDD = spark.parallelize(authorAndCommits.toSeq)
     val similarity = countSimilarity(target, authorAndCommitsRDD).collect()
 
     println(s"Ending")
@@ -103,4 +111,15 @@ object Main extends App{
 
     Math.pow(sum, 2.0)/Math.pow(len, 2.0)
   }
+
+//  def scoreSimilarity(s1: String, s2: String, word2vecModel: Word2VecModel): Double = Try{
+//    val matches = for {
+//      syn1 <- word2vecModel.findSynonyms(s1, 10)
+//      syn2 <- word2vecModel.findSynonyms(s2, 10)
+//      if syn1._1 == syn2._1
+//    } yield {
+//        syn1._2 * syn2._2
+//    }
+//    if(matches.size == 0) 0.0 else matches.max
+//  }.getOrElse(0)
 }
